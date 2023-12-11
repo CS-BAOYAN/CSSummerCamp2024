@@ -9,3 +9,5 @@
 # CSWinterCamp2024
 ## 中国科学院
 【报名截止：2023.12.23】[上海高等研究院](https://mp.weixin.qq.com/s/JbVEal_anIerR6T0QVMjwA)
+
+【报名截止：2024.1.17】[沈阳自动化研究所](https://mp.weixin.qq.com/s/6FkXmGk-vdqoBRAq4BbQ2g)
