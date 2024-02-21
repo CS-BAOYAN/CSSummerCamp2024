@@ -4,6 +4,8 @@
 
 另附[保研小白必看的往年经验贴大全，建议全部看完至少掌握保研流程，否则容易问一些很显然的问题](https://github.com/CS-BAOYAN/CS-BAOYAN-2024)。
 
+# CSSummerCamp2024
+
 # CSWinterCamp2024
 
 ## 清华大学
@@ -11,7 +13,7 @@
 
 ## 中国科学院
 
-【报名截止：2024.2】[空天信息创新研究院](https://mp.weixin.qq.com/s/8-G8yRZlNAobfbJqDy00Xw)
+~~【报名截止：2024.2】[空天信息创新研究院](https://mp.weixin.qq.com/s/8-G8yRZlNAobfbJqDy00Xw)~~
 
 ~~【报名截止：2024.1.17】[沈阳自动化研究所](https://mp.weixin.qq.com/s/6FkXmGk-vdqoBRAq4BbQ2g)~~
 
