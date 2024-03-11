@@ -6,6 +6,10 @@
 
 # CSSummerCamp2024
 
+## 香港中文大学（深圳）
+
+【报名截止：3.10-3.31,4.1-4.30】[数据科学学院夏令营Mini Camp](https://sds.cuhk.edu.cn/article/1635)
+
 # CSWinterCamp2024
 
 ## 清华大学
