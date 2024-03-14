@@ -14,6 +14,10 @@
 
 【报名截止：3.10-3.31,4.1-4.30】[数据科学学院夏令营Mini Camp](https://sds.cuhk.edu.cn/article/1635)
 
+## 中国科学院
+
+【报名截止：3.15-3.31】[自动化研究所“人工智能菁英班”](http://www.ia.cas.cn/yjsjy/zs/sszs/202403/t20240313_6965694.html)
+
 # CSWinterCamp2024
 
 ## 清华大学
