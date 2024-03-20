@@ -6,6 +6,9 @@
 
 # CSSummerCamp2024
 
+## 香港大学
+【报名截止：-5.31】 [HKU CS Research Internship Programme](https://www.cs.hku.hk/rintern/)
+
 ## 香港科技大学
 
 【报名截止：3.10-3.30】[工学院 SENG Summer Camp](https://seng.hkust.edu.hk/academics/research-postgraduate/summer-camp) | [微信公众号](https://mp.weixin.qq.com/s/BSKsYsn1Oitgr4R2FnBlJw)
