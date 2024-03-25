@@ -41,5 +41,10 @@
 
 ~~【报名截止：2023.12.23】[上海高等研究院](https://mp.weixin.qq.com/s/JbVEal_anIerR6T0QVMjwA)~~
 
+# Contributors
+<a href="https://github.com/CS-BAOYAN/CSSummerCamp2024/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=CS-BAOYAN/CSSummerCamp2024" />
+</a>
 
+Made with [contrib.rocks](https://contrib.rocks).
 
