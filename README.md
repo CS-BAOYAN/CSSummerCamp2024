@@ -27,6 +27,8 @@
 
 【报名截止：3.15-3.31】[自动化研究所“人工智能菁英班”](http://www.ia.cas.cn/yjsjy/zs/sszs/202403/t20240313_6965694.html)
 
+【报名截止：3.27-4.17】[数学与系统科学研究院](http://www.amss.cas.cn/yjsjy/zxxx/202403/t20240327_6966567.html)
+
 ## 澳门大学
 
 【报名截止：-5.1】[第五届优秀大学生暑期研习营](https://www.fst.um.edu.mo/event/the-5th-summer-camp-for-outstanding-students-now-open-for-application/)
@@ -34,7 +36,7 @@
 # CSWinterCamp2024
 
 ## 清华大学
-【报名截止：N/A】[智能产业研究院](https://air.tsinghua.edu.cn/info/1007/2129.htm)
+~~【报名截止：N/A】[智能产业研究院](https://air.tsinghua.edu.cn/info/1007/2129.htm)~~
 
 ## 中国科学院
 
