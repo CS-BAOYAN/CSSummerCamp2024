@@ -22,6 +22,8 @@
 
 【报名截止：3.10-3.30】[工学院 SENG Summer Camp](https://seng.hkust.edu.hk/academics/research-postgraduate/summer-camp) | [微信公众号](https://mp.weixin.qq.com/s/BSKsYsn1Oitgr4R2FnBlJw)
 
+【报名截止：-4.10】[​港科广微电子博士优先录取营](https://mp.weixin.qq.com/s/HTg5H3QVOxOLaTIejReL1Q)
+
 ## 香港中文大学（深圳）
 
 【报名截止：3.10-3.31,4.1-4.30】[数据科学学院夏令营Mini Camp](https://sds.cuhk.edu.cn/article/1635)
