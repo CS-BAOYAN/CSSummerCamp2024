@@ -16,6 +16,8 @@
 【报名截止：3.28-4.15】[统计科学中心](https://mp.weixin.qq.com/s/owpMEt93TrW-6cbdY7SoqA)
 
 ## 香港大学
+【报名截止：4.1-5.1】[HKU CS HKU CS Early Recruitment Scheme for M.Phil. and Ph.D.](https://i.cs.hku.hk/~gradappl/index.html)
+
 【报名截止：-5.31】 [HKU CS Research Internship Programme](https://www.cs.hku.hk/rintern/)
 
 ## 香港科技大学
@@ -23,6 +25,9 @@
 【报名截止：3.10-3.30】[工学院 SENG Summer Camp](https://seng.hkust.edu.hk/academics/research-postgraduate/summer-camp) | [微信公众号](https://mp.weixin.qq.com/s/BSKsYsn1Oitgr4R2FnBlJw)
 
 【报名截止：-4.10】[​港科广微电子博士优先录取营](https://mp.weixin.qq.com/s/HTg5H3QVOxOLaTIejReL1Q)
+
+## 香港中文大学
+【报名截止：4.1-5.23, 5.24-6.25】[Schedule of the early admission interviews of M.Phil. – Ph.D. Programme for 2025-2026 Intake](https://dept-eappsrv.cse.cuhk.edu.hk/pgas2025/)
 
 ## 香港中文大学（深圳）
 
