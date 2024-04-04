@@ -35,6 +35,8 @@
 
 ## 中国科学院
 
+【报名截止：-5.10】[空天信息创新研究院（空天院）](https://mp.weixin.qq.com/s/_7VnrPleopF3mbUJcMqi7A)
+
 【报名截止：3.27-4.17】[数学与系统科学研究院](http://www.amss.cas.cn/yjsjy/zxxx/202403/t20240327_6966567.html)
 
 ~~【报名截止：3.15-3.31】[自动化研究所“人工智能菁英班”](http://www.ia.cas.cn/yjsjy/zs/sszs/202403/t20240313_6965694.html)~~
@@ -42,6 +44,10 @@
 ## 澳门大学
 
 【报名截止：-5.1】[第五届优秀大学生暑期研习营](https://www.fst.um.edu.mo/event/the-5th-summer-camp-for-outstanding-students-now-open-for-application/)
+
+## 南方科技大学
+
+【报名截止：4.3-5.12】[统计与数据科学系](https://stat-ds.sustech.edu.cn/notice/335)
 
 # CSWinterCamp2024
 
