@@ -7,31 +7,31 @@
 # CSSummerCamp2024
 
 ## 清华大学
-【报名截止：-9.1】[高等研究院](https://www.ias.tsinghua.edu.cn/zsxx.htm) 
+【报名截止：9.1】[高等研究院](https://www.ias.tsinghua.edu.cn/zsxx.htm) 
 > 清华大学高等研究院只招收直博生，包含物理学(含天体物理）、网络空间安全、计算机科学与技术三个专业。
 
-【报名截止：3.20 12:00-4.10 12:00】 [统计学研究中心](http://www.stat.tsinghua.edu.cn/hot-news/%e3%80%90%e5%a4%8f%e4%bb%a4%e8%90%a5%e3%80%912024%e5%b9%b4%e4%bc%98%e7%a7%80%e5%a4%a7%e5%ad%a6%e7%94%9f%e7%bb%9f%e8%ae%a1%e4%b8%8e%e6%95%b0%e6%8d%ae%e7%a7%91%e5%ad%a6%e4%ba%a4%e6%b5%81%e4%bc%9a/)
+【报名截止：4.10 12:00】 [统计学研究中心](http://www.stat.tsinghua.edu.cn/hot-news/%e3%80%90%e5%a4%8f%e4%bb%a4%e8%90%a5%e3%80%912024%e5%b9%b4%e4%bc%98%e7%a7%80%e5%a4%a7%e5%ad%a6%e7%94%9f%e7%bb%9f%e8%ae%a1%e4%b8%8e%e6%95%b0%e6%8d%ae%e7%a7%91%e5%ad%a6%e4%ba%a4%e6%b5%81%e4%bc%9a/)
 
 ## 北京大学
-【报名截止：3.28-4.15】[统计科学中心](https://mp.weixin.qq.com/s/owpMEt93TrW-6cbdY7SoqA)
+【报名截止：4.15】[统计科学中心](https://mp.weixin.qq.com/s/owpMEt93TrW-6cbdY7SoqA)
 
 ## 上海交通大学
-【报名截止：-4.15】[密西根学院2024年“科研见习项目”](https://www.ji.sjtu.edu.cn/cn/prospective-students-zh/2024-04-03/144784/)
+【报名截止：4.15】[密西根学院2024年“科研见习项目”](https://www.ji.sjtu.edu.cn/cn/prospective-students-zh/2024-04-03/144784/)
 
 ## 南京大学
-【报名截止：4.8-5.5】[计算机科学与技术系2024年本科生开放日](https://cs.nju.edu.cn/53/55/c1702a676693/page.htm)
+【报名截止：5.5】[计算机科学与技术系2024年本科生开放日](https://cs.nju.edu.cn/53/55/c1702a676693/page.htm)
 
-【报名截止：-4.20】[LAMDA招收 2025年秋季入学研究生说明](https://www.lamda.nju.edu.cn/recruit-2025/recruit-2025.html)
+【报名截止：4.20】[LAMDA招收 2025年秋季入学研究生说明](https://www.lamda.nju.edu.cn/recruit-2025/recruit-2025.html)
 > 若LAMDA在考查后表示同意招收您，您**仍需**通过正常的研究生入学考试（推免或考研）获得南京大学人工智能学院的博/硕士生入学资格！
 
 ## 香港大学
-【报名截止：4.1-5.1】[HKU CS HKU CS Early Recruitment Scheme for M.Phil. and Ph.D.](https://i.cs.hku.hk/~gradappl/index.html)
+【报名截止：5.1】[HKU CS HKU CS Early Recruitment Scheme for M.Phil. and Ph.D.](https://i.cs.hku.hk/~gradappl/index.html)
 
-【报名截止：-5.31】 [HKU CS Research Internship Programme](https://www.cs.hku.hk/rintern/)
+【报名截止：5.31】 [HKU CS Research Internship Programme](https://www.cs.hku.hk/rintern/)
 
 ## 香港科技大学
 
-【报名截止：-4.10】[​港科广微电子博士优先录取营](https://mp.weixin.qq.com/s/HTg5H3QVOxOLaTIejReL1Q)
+【报名截止：4.10】[​港科广微电子博士优先录取营](https://mp.weixin.qq.com/s/HTg5H3QVOxOLaTIejReL1Q)
 
 ~~【报名截止：3.10-3.30】[工学院 SENG Summer Camp](https://seng.hkust.edu.hk/academics/research-postgraduate/summer-camp) | [微信公众号](https://mp.weixin.qq.com/s/BSKsYsn1Oitgr4R2FnBlJw)~~
 
@@ -44,11 +44,13 @@
 
 ## 中国科学院
 
-【报名截止：-5.10】[空天信息创新研究院（空天院）](https://mp.weixin.qq.com/s/_7VnrPleopF3mbUJcMqi7A)
+【报名截止：6.25】[脑科学与智能技术卓越创新中心（神经科学研究所）](https://mp.weixin.qq.com/s/CamcfCmc3jmwMaiS5WVYqA)
 
-【报名截止：3.27-4.17】[数学与系统科学研究院](http://www.amss.cas.cn/yjsjy/zxxx/202403/t20240327_6966567.html)
+【报名截止：5.10】[空天信息创新研究院（空天院）](https://mp.weixin.qq.com/s/_7VnrPleopF3mbUJcMqi7A)
 
-~~【报名截止：3.15-3.31】[自动化研究所“人工智能菁英班”](http://www.ia.cas.cn/yjsjy/zs/sszs/202403/t20240313_6965694.html)~~
+【报名截止：4.17】[数学与系统科学研究院](http://www.amss.cas.cn/yjsjy/zxxx/202403/t20240327_6966567.html)
+
+~~【报名截止：3.31】[自动化研究所“人工智能菁英班”](http://www.ia.cas.cn/yjsjy/zs/sszs/202403/t20240313_6965694.html)~~
 
 ## 中国科学技术大学
 
@@ -56,11 +58,11 @@
 
 ## 澳门大学
 
-【报名截止：-5.1】[第五届优秀大学生暑期研习营](https://www.fst.um.edu.mo/event/the-5th-summer-camp-for-outstanding-students-now-open-for-application/)
+【报名截止：5.1】[第五届优秀大学生暑期研习营](https://www.fst.um.edu.mo/event/the-5th-summer-camp-for-outstanding-students-now-open-for-application/)
 
 ## 南方科技大学
 
-【报名截止：4.3-5.12】[统计与数据科学系](https://stat-ds.sustech.edu.cn/notice/335)
+【报名截止：5.12】[统计与数据科学系](https://stat-ds.sustech.edu.cn/notice/335)
 
 # CSWinterCamp2024
 
