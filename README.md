@@ -21,6 +21,8 @@
 ## 南京大学
 【报名截止：5.5】[计算机科学与技术系2024年本科生开放日](https://cs.nju.edu.cn/53/55/c1702a676693/page.htm)
 
+【报名截止：5.20(可能)】[软件所本科生开放日招生说明](https://ics.nju.edu.cn/recruit/index.html)
+
 【报名截止：4.20】[LAMDA招收 2025年秋季入学研究生说明](https://www.lamda.nju.edu.cn/recruit-2025/recruit-2025.html)
 > 若LAMDA在考查后表示同意招收您，您**仍需**通过正常的研究生入学考试（推免或考研）获得南京大学人工智能学院的博/硕士生入学资格！
 
