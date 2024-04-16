@@ -15,8 +15,12 @@
 ## 北京大学
 【报名截止：4.15 延期至4.24】[统计科学中心](https://mp.weixin.qq.com/s/NgoAJ6VF6xEAoNqXehJDDg)
 
+【报名截止：2024.6.15】[未来技术学院](https://future.pku.edu.cn/xwzk/4ef963c7935645bb822acf89f9d39d87.htm) 2024.6.29-2024.7.2
+
 ## 上海交通大学
-【报名截止：4.15】[密西根学院2024年“科研见习项目”](https://www.ji.sjtu.edu.cn/cn/prospective-students-zh/2024-04-03/144784/)
+~~【报名截止：4.15】[密西根学院2024年“科研见习项目”](https://www.ji.sjtu.edu.cn/cn/prospective-students-zh/2024-04-03/144784/)~~
+
+【报名截止：N/A】[人工智能与微结构实验室](https://mp.weixin.qq.com/s/X9LZhlXfM1L2aOIoys3sNQ)
 
 ## 南京大学
 【报名截止：5.5】[计算机科学与技术系2024年本科生开放日](https://cs.nju.edu.cn/53/55/c1702a676693/page.htm)
@@ -29,6 +33,10 @@
 ## 浙江大学
 【报名截止：N/A】[良渚实验室](https://mp.weixin.qq.com/s/Gs3k5hUXWtsFQ872NchURA)
 > 请关注[良渚实验室官方网站](http://liangzhulab.zju.edu.cn/)，后续报名网址、报名材料及招生导师信息将于网站通知公告及人才培养栏目发布
+
+## 中国人民大学
+
+【报名截止：N/A】[高瓴人工智能学院AI-Engine实验室](https://mp.weixin.qq.com/s/0BFY6nHouLgSGd5cOizIIg)
 
 ## 西湖大学
 【报名截止：6.10 12:00】[工学院2024年夏令营](https://westlake.edu.cn/admissions_aid/shorttermprograms/tzgg/202404/t20240410_39140.shtml)
