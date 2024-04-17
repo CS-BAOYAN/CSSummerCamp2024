@@ -15,7 +15,7 @@
 ## 北京大学
 【报名截止：4.15 延期至4.24】[统计科学中心](https://mp.weixin.qq.com/s/NgoAJ6VF6xEAoNqXehJDDg)
 
-【报名截止：2024.6.15】[未来技术学院](https://future.pku.edu.cn/xwzk/4ef963c7935645bb822acf89f9d39d87.htm) 2024.6.29-2024.7.2
+【报名截止：2024.6.15】[未来技术学院](https://future.pku.edu.cn/xwzk/4ef963c7935645bb822acf89f9d39d87.htm)
 
 ## 上海交通大学
 ~~【报名截止：4.15】[密西根学院2024年“科研见习项目”](https://www.ji.sjtu.edu.cn/cn/prospective-students-zh/2024-04-03/144784/)~~
@@ -31,6 +31,8 @@
 > 若LAMDA在考查后表示同意招收您，您**仍需**通过正常的研究生入学考试（推免或考研）获得南京大学人工智能学院的博/硕士生入学资格！
 
 ## 浙江大学
+【报名截止：6.3】[脑科学与脑医学学院](http://www.neuroscience.zju.edu.cn/2024/0416/c75666a2902185/page.htm)
+
 【报名截止：N/A】[良渚实验室](https://mp.weixin.qq.com/s/Gs3k5hUXWtsFQ872NchURA)
 > 请关注[良渚实验室官方网站](http://liangzhulab.zju.edu.cn/)，后续报名网址、报名材料及招生导师信息将于网站通知公告及人才培养栏目发布
 
@@ -78,6 +80,7 @@
 【报名截止：5.12】[统计与数据科学系](https://stat-ds.sustech.edu.cn/notice/335)
 
 ## 香港科技大学
+【报名截止：5.6-N/A】[系统枢纽博士项目夏令营](https://mp.weixin.qq.com/s/7Pymi47l2nyR4imEA4FnZA)
 
 ~~【报名截止：4.10】[​港科广微电子博士优先录取营](https://mp.weixin.qq.com/s/HTg5H3QVOxOLaTIejReL1Q)~~
 
