@@ -51,6 +51,8 @@
 ## 香港中文大学
 【报名截止：4.1-5.23, 5.24-6.25】[Schedule of the early admission interviews of M.Phil. – Ph.D. Programme for 2025-2026 Intake](https://dept-eappsrv.cse.cuhk.edu.hk/pgas2025/)
 
+【报名截止：6.14】[工程学院系统工程与工程管理系（SEEM）博士生夏令营](https://mp.weixin.qq.com/s/GKvRFOTSyl48H4QhNza2uQ)
+
 ## 香港中文大学（深圳）
 
 【报名截止：3.10-3.31,4.1-4.30】[数据科学学院夏令营Mini Camp](https://sds.cuhk.edu.cn/article/1635)
