@@ -10,10 +10,12 @@
 【报名截止：9.1】[高等研究院](https://www.ias.tsinghua.edu.cn/zsxx.htm) 
 > 清华大学高等研究院只招收直博生，包含物理学(含天体物理）、网络空间安全、计算机科学与技术三个专业。
 
+【报名截止：6.15】[神经调控国家工程研究中心](https://mp.weixin.qq.com/s/78ncrcyXagVrPs8whesZiw)
+
 ~~【报名截止：4.10 12:00】 [统计学研究中心](http://www.stat.tsinghua.edu.cn/hot-news/%e3%80%90%e5%a4%8f%e4%bb%a4%e8%90%a5%e3%80%912024%e5%b9%b4%e4%bc%98%e7%a7%80%e5%a4%a7%e5%ad%a6%e7%94%9f%e7%bb%9f%e8%ae%a1%e4%b8%8e%e6%95%b0%e6%8d%ae%e7%a7%91%e5%ad%a6%e4%ba%a4%e6%b5%81%e4%bc%9a/)~~
 
 ## 北京大学
-【报名截止：4.15 延期至4.24】[统计科学中心](https://mp.weixin.qq.com/s/NgoAJ6VF6xEAoNqXehJDDg)
+【报名截止：4.24】[统计科学中心](https://mp.weixin.qq.com/s/NgoAJ6VF6xEAoNqXehJDDg)
 
 【报名截止：2024.6.15】[未来技术学院](https://future.pku.edu.cn/xwzk/4ef963c7935645bb822acf89f9d39d87.htm)
 
@@ -31,6 +33,7 @@
 > 若LAMDA在考查后表示同意招收您，您**仍需**通过正常的研究生入学考试（推免或考研）获得南京大学人工智能学院的博/硕士生入学资格！
 
 ## 浙江大学
+
 【报名截止：6.3】[脑科学与脑医学学院](http://www.neuroscience.zju.edu.cn/2024/0416/c75666a2902185/page.htm)
 
 【报名截止：N/A】[良渚实验室](https://mp.weixin.qq.com/s/Gs3k5hUXWtsFQ872NchURA)
@@ -40,7 +43,14 @@
 
 【报名截止：N/A】[高瓴人工智能学院AI-Engine实验室](https://mp.weixin.qq.com/s/0BFY6nHouLgSGd5cOizIIg)
 
+## 电子科技大学
+
+【报名截止：6.20】[基础与前沿研究院](https://www.iffs.uestc.edu.cn/info/1049/4761.htm)
+
 ## 西湖大学
+
+【报名截止：5.31 12:00】[暑期科研实习](https://www.westlake.edu.cn/admissions_aid/shorttermprograms/tzgg/202404/t20240418_39507.shtml)
+
 【报名截止：6.10 12:00】[工学院2024年夏令营](https://westlake.edu.cn/admissions_aid/shorttermprograms/tzgg/202404/t20240410_39140.shtml)
 
 ## 香港大学
