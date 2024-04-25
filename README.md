@@ -18,9 +18,10 @@
 ~~【报名截止：4.10 12:00】 [统计学研究中心](http://www.stat.tsinghua.edu.cn/hot-news/%e3%80%90%e5%a4%8f%e4%bb%a4%e8%90%a5%e3%80%912024%e5%b9%b4%e4%bc%98%e7%a7%80%e5%a4%a7%e5%ad%a6%e7%94%9f%e7%bb%9f%e8%ae%a1%e4%b8%8e%e6%95%b0%e6%8d%ae%e7%a7%91%e5%ad%a6%e4%ba%a4%e6%b5%81%e4%bc%9a/)~~
 
 ## 北京大学
-【报名截止：4.24】[统计科学中心](https://mp.weixin.qq.com/s/NgoAJ6VF6xEAoNqXehJDDg)
 
 【报名截止：2024.6.15】[未来技术学院](https://future.pku.edu.cn/xwzk/4ef963c7935645bb822acf89f9d39d87.htm)
+
+~~【报名截止：4.24】[统计科学中心](https://mp.weixin.qq.com/s/NgoAJ6VF6xEAoNqXehJDDg)~~
 
 ## 上海交通大学
 ~~【报名截止：4.15】[密西根学院2024年“科研见习项目”](https://www.ji.sjtu.edu.cn/cn/prospective-students-zh/2024-04-03/144784/)~~
@@ -28,6 +29,8 @@
 【报名截止：N/A】[人工智能与微结构实验室](https://mp.weixin.qq.com/s/X9LZhlXfM1L2aOIoys3sNQ)
 
 ## 南京大学
+> [南京大学2024年全国优秀大学生夏令营通知信息汇总 （持续更新）](https://grawww.nju.edu.cn/64/88/c905a681096/page.htm)
+
 【报名截止：5.5】[计算机科学与技术系2024年本科生开放日](https://cs.nju.edu.cn/53/55/c1702a676693/page.htm)
 
 【报名截止：5.20(可能)】[软件所本科生开放日招生说明](https://ics.nju.edu.cn/recruit/index.html)
@@ -93,6 +96,8 @@
 ## 南方科技大学
 
 【报名截止：5.12】[统计与数据科学系](https://stat-ds.sustech.edu.cn/notice/335)
+
+【报名截止：6.16】 [南科大机械与能源工程系](https://mp.weixin.qq.com/s/-cskcfJ608o7RnGGA-vezA)
 
 ## 香港科技大学
 【报名截止：5.6-N/A】[系统枢纽博士项目夏令营](https://mp.weixin.qq.com/s/7Pymi47l2nyR4imEA4FnZA)
