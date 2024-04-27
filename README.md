@@ -21,7 +21,12 @@
 
 ## 北京大学
 
-【报名截止：2024.6.15】[未来技术学院](https://future.pku.edu.cn/xwzk/4ef963c7935645bb822acf89f9d39d87.htm)
+【报名截止：6.11】[前沿交叉学科研究院](http://www.aais.pku.edu.cn/tongzhi/shownews.php?lang=cn&id=1754)
+
+【报名截止：6.15】[未来技术学院](https://future.pku.edu.cn/xwzk/4ef963c7935645bb822acf89f9d39d87.htm)
+
+【报名截止：6.12】[生命科学学院和生命科学联合中心（北大方面）](http://web.bio.pku.edu.cn/homes/Index/news_cont/21/17077.html)
+> 不限于生物学及医学相关专业。欢迎其它理学或者工学专业（如数学、物理、化学、工程、心理、信息、计算机等）对生命科学有着强烈兴趣和科研创造力的申请者。
 
 ~~【报名截止：4.24】[统计科学中心](https://mp.weixin.qq.com/s/NgoAJ6VF6xEAoNqXehJDDg)~~
 
@@ -71,6 +76,10 @@
 
 ~~【报名截止：3.31】[自动化研究所“人工智能菁英班”](http://www.ia.cas.cn/yjsjy/zs/sszs/202403/t20240313_6965694.html)~~
 
+## 中国科学院大学
+
+【报名截止：6.17】[华大专项 |基因组学|生物信息学|人工智能](https://mp.weixin.qq.com/s/mJq6nn0-_2IbKZ25q09jMg)
+
 ## 中国科学技术大学
 
 【报名截止：N/A】[量子物理和量子信息研究团队保研招生简章](https://quantum.ustc.edu.cn/web/index.php/node/762)
@@ -89,9 +98,15 @@
 
 【报名截止：6.30】[临港实验室](https://www.lglab.ac.cn/sylbt/202404/t20240425_212225.html)
 
+【报名截止：6.30】[生物医学工程学院](https://mp.weixin.qq.com/s/QCbT2n5klB_LY0XLUvd-bQ)
+
 ## 西南大学
 
 【报名截止：6.9】[心理学与脑科学](http://psy.swu.edu.cn/info/1085/3736.htm)
+
+## 辽宁科技大学
+
+【报名截止：5.17】[辽宁科技大学-深圳职业技术大学研究生联合培养](https://www.ustl.edu.cn/yjs/info/1030/3007.htm)
 
 ## 澳门大学
 
