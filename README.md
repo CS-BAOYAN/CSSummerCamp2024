@@ -13,6 +13,8 @@
 
 【报名截止：5.24】[地球系统科学系](https://www.dess.tsinghua.edu.cn/info/1123/6142.htm)
 
+【报名截止：5.26】[工业工程系](https://www.ie.tsinghua.edu.cn/info/1071/2648.htm)
+
 【报名截止：6.15】[神经调控国家工程研究中心](https://mp.weixin.qq.com/s/78ncrcyXagVrPs8whesZiw)
 
 【报名截止：9.1】[高等研究院](https://www.ias.tsinghua.edu.cn/zsxx.htm) 
@@ -82,6 +84,8 @@
 
 【报名截止：5.10】[空天信息创新研究院（空天院）](https://mp.weixin.qq.com/s/_7VnrPleopF3mbUJcMqi7A)
 
+【报名截止：6.20】[上海高等研究院](http://www.sari.cas.cn/gradedu/gdzssz/gddxssjxm/202404/t20240429_7141703.html)
+
 ~~【报名截止：4.17】[数学与系统科学研究院](http://www.amss.cas.cn/yjsjy/zxxx/202403/t20240327_6966567.html)~~
 
 ~~【报名截止：3.31】[自动化研究所“人工智能菁英班”](http://www.ia.cas.cn/yjsjy/zs/sszs/202403/t20240313_6965694.html)~~
@@ -100,9 +104,13 @@
 
 【报名截止：5.12】[统计与数据科学系](https://stat-ds.sustech.edu.cn/notice/335)
 
-【报名截止：6.16】 [南科大机械与能源工程系](https://mp.weixin.qq.com/s/-cskcfJ608o7RnGGA-vezA)
+【报名截止：6.16】[系统设计与智能制造学院](https://mp.weixin.qq.com/s/nRkLSLeb0p5zozRBkwpwZA)
+
+【报名截止：6.16】 [机械与能源工程系](https://mp.weixin.qq.com/s/-cskcfJ608o7RnGGA-vezA)
 
 【报名截止：6.20】[生物医学工程系](https://bme.sustech.edu.cn/20240425-2/?9)
+
+【报名截止：6.20】[深港微电子学院](https://mp.weixin.qq.com/s/gsM2k8jv4ptcguUJ3RU9og)
 
 ## 上海科技大学
 
