@@ -7,6 +7,8 @@
 # CSSummerCamp2024
 
 ## 清华大学
+> 清华大学夏令营信息：https://yz.tsinghua.edu.cn/xlyxx.htm
+
 【报名截止：5.8】 [交叉信息研究院](https://admission.iiis.tsinghua.edu.cn/)
 
 【报名截止：5.24】[地球系统科学系](https://www.dess.tsinghua.edu.cn/info/1123/6142.htm)
@@ -22,6 +24,7 @@
 ~~【报名截止：4.10 12:00】 [统计学研究中心](http://www.stat.tsinghua.edu.cn/hot-news/%e3%80%90%e5%a4%8f%e4%bb%a4%e8%90%a5%e3%80%912024%e5%b9%b4%e4%bc%98%e7%a7%80%e5%a4%a7%e5%ad%a6%e7%94%9f%e7%bb%9f%e8%ae%a1%e4%b8%8e%e6%95%b0%e6%8d%ae%e7%a7%91%e5%ad%a6%e4%ba%a4%e6%b5%81%e4%bc%9a/)~~
 
 ## 北京大学
+> 北京大学夏令营信息：https://admission.pku.edu.cn/xly/index.htm?CSRFT=F92S-Z8W8-ES9W-6BFM-W68T-OTF2-6VOU-KQN9
 
 【报名截止：6.11】[前沿交叉学科研究院](http://www.aais.pku.edu.cn/tongzhi/shownews.php?lang=cn&id=1754)
 
