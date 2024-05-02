@@ -41,10 +41,13 @@
 
 ~~【报名截止：4.24】[统计科学中心](https://mp.weixin.qq.com/s/NgoAJ6VF6xEAoNqXehJDDg)~~
 
-## 北京脑科学与类脑研究所
+## 北京脑科学与类脑研究所 
 
 【报名截止：6.11】[北京脑科学与类脑研究所](https://mp.weixin.qq.com/s/L_hylpIfdytHHX34y6qP_w)
 > 北京脑所现与国内五所著名高校联合招生，分别是北京大学、北京协和医学院、北京师范大学、中国农业大学和首都医科大学，本年度的夏令营主要招收有意愿报考北京大学、协和医学院、中国农业大学和首都医科大学的推免本科生。
+
+## 昌平实验室
+【报名截止：6.1】[昌平实验室](https://www.cpl.ac.cn/join_us/education/4028c1f18ec4727b018ec733a2ee0005.shtml)
 
 ## 上海交通大学
 ~~【报名截止：4.15】[密西根学院2024年“科研见习项目”](https://www.ji.sjtu.edu.cn/cn/prospective-students-zh/2024-04-03/144784/)~~
