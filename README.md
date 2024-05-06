@@ -9,7 +9,7 @@
 ## 清华大学
 > 清华大学夏令营信息：https://yz.tsinghua.edu.cn/xlyxx.htm
 
-【报名截止：5.8】 [交叉信息研究院](https://admission.iiis.tsinghua.edu.cn/)
+【报名截止：5.15 23:59】 [交叉信息研究院](https://admission.iiis.tsinghua.edu.cn/)
 
 【报名截止：5.8】[清华交叉信息研究院 ARChipLab实验室](https://people.iiis.tsinghua.edu.cn/~maks/files/archiplab_rollment.pdf)
 
