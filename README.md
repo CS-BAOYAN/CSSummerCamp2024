@@ -51,6 +51,7 @@
 
 ## 上海交通大学
 ~~【报名截止：4.15】[密西根学院2024年“科研见习项目”](https://www.ji.sjtu.edu.cn/cn/prospective-students-zh/2024-04-03/144784/)~~
+> 上海交通大学密西根学院2025年硕士博士研究生招生宣讲会：https://mp.weixin.qq.com/s/nsryaLGDHw-aFhRHTDD9mg
 
 【报名截止：N/A】[人工智能与微结构实验室](https://mp.weixin.qq.com/s/X9LZhlXfM1L2aOIoys3sNQ)
 
