@@ -79,6 +79,8 @@
 ## 哈尔滨工业大学
 > 哈尔滨工业大学夏令营消息：http://yzb.hit.edu.cn/2024/0506/c8824a343961/page.htm
 
+【报名截止：5.30 00:00】[电气工程及自动化学院](https://hitee.hit.edu.cn/2024/0506/c17101a343967/page.htm)
+
 ## 北京脑科学与类脑研究所 
 
 【报名截止：6.11】[北京脑科学与类脑研究所](https://mp.weixin.qq.com/s/L_hylpIfdytHHX34y6qP_w)
