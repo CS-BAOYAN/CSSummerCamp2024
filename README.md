@@ -60,8 +60,10 @@
 
 【报名截止：5.31 17:00】[微电子学院](https://sme.fudan.edu.cn/3f/5f/c29363a671583/page.htm)
 
+【报名截止：5.31 17:00】[信息科学与工程学院](http://www.it.fudan.edu.cn/Data/View/4616)
+
 ## 南京大学
-> [南京大学2024年全国优秀大学生夏令营通知信息汇总 （持续更新）](https://grawww.nju.edu.cn/64/88/c905a681096/page.htm)
+> 南京大学2024年全国优秀大学生夏令营通知信息汇总 （持续更新）：https://grawww.nju.edu.cn/64/88/c905a681096/page.htm
 
 【报名截止：6.2 23:59】[人工智能学院](https://ai.nju.edu.cn/6d/dc/c53055a683484/page.htm)
 
