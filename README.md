@@ -11,6 +11,8 @@
 
 【报名截止：5.15 23:59】 [交叉信息研究院](https://admission.iiis.tsinghua.edu.cn/)
 
+【报名截止：5.15 23:59】 [人工智能学院](https://admission.iiis.tsinghua.edu.cn/index-ai.php)
+
 【报名截止：5.8】[清华交叉信息研究院 ARChipLab实验室](https://people.iiis.tsinghua.edu.cn/~maks/files/archiplab_rollment.pdf)
 
 【报名截止：5.24】[地球系统科学系](https://www.dess.tsinghua.edu.cn/info/1123/6142.htm)
@@ -176,7 +178,7 @@
 
 【报名截止：5.31】 [HKU CS Research Internship Programme](https://www.cs.hku.hk/rintern/)
 
-~~【报名截止：5.1】[HKU CS HKU CS Early Recruitment Scheme for M.Phil. and Ph.D.](https://i.cs.hku.hk/~gradappl/index.html)~~
+~~【报名截止：5.1】[HKU CS Early Recruitment Scheme for M.Phil. and Ph.D.](https://i.cs.hku.hk/~gradappl/index.html)~~
 
 ## 香港中文大学
 【报名截止：4.1-5.23, 5.24-6.25】[Schedule of the early admission interviews of M.Phil. – Ph.D. Programme for 2025-2026 Intake](https://dept-eappsrv.cse.cuhk.edu.hk/pgas2025/)
