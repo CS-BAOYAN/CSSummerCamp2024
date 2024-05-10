@@ -143,6 +143,7 @@
 【报名截止：N/A】[中科大 MIRA Lab 保研招生简章](https://miralab.ai/admission/admission_2024/)
 
 ## 南方科技大学
+> 南方科技大学夏令营消息：https://gs.sustech.edu.cn/#/admission/detail?current_child_id=142&id=148&article_id=3220
 
 【报名截止：5.12】[统计与数据科学系](https://stat-ds.sustech.edu.cn/notice/335)
 
