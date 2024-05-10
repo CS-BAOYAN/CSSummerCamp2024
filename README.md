@@ -64,6 +64,8 @@
 
 【报名截止：5.31 17:00】[信息科学与工程学院](http://www.it.fudan.edu.cn/Data/View/4616)
 
+【报名截止：5.31 17:00】[智能复杂体系基础理论与关键技术实验室](https://iics.fudan.edu.cn/40/ee/c43157a671982/page.htm)
+
 ## 南京大学
 > 南京大学2024年全国优秀大学生夏令营通知信息汇总 （持续更新）：https://grawww.nju.edu.cn/64/88/c905a681096/page.htm
 
