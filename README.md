@@ -38,6 +38,8 @@
 
 【报名截止：6.15】[未来技术学院](https://future.pku.edu.cn/xwzk/4ef963c7935645bb822acf89f9d39d87.htm)
 
+【报名截止：6.10 8:30】[工学院](https://www.coe.pku.edu.cn/graduate/notice/12781.html)
+
 【报名截止：6.12】[生命科学学院和生命科学联合中心（北大方面）](http://web.bio.pku.edu.cn/homes/Index/news_cont/21/17077.html)
 > 不限于生物学及医学相关专业。欢迎其它理学或者工学专业（如数学、物理、化学、工程、心理、信息、计算机等）对生命科学有着强烈兴趣和科研创造力的申请者。
 
@@ -122,9 +124,9 @@
 
 【报名截止：6.25】[脑科学与智能技术卓越创新中心（神经科学研究所）](https://mp.weixin.qq.com/s/CamcfCmc3jmwMaiS5WVYqA)
 
-【报名截止：5.10】[空天信息创新研究院（空天院）](https://mp.weixin.qq.com/s/_7VnrPleopF3mbUJcMqi7A)
-
 【报名截止：6.20】[上海高等研究院](http://www.sari.cas.cn/gradedu/gdzssz/gddxssjxm/202404/t20240429_7141703.html)
+
+~~【报名截止：5.10】[空天信息创新研究院（空天院）](https://mp.weixin.qq.com/s/_7VnrPleopF3mbUJcMqi7A)~~
 
 ~~【报名截止：4.17】[数学与系统科学研究院](http://www.amss.cas.cn/yjsjy/zxxx/202403/t20240327_6966567.html)~~
 
@@ -154,6 +156,8 @@
 【报名截止：6.20】[生物医学工程系](https://bme.sustech.edu.cn/20240425-2/?9)
 
 【报名截止：6.20】[深港微电子学院](https://mp.weixin.qq.com/s/gsM2k8jv4ptcguUJ3RU9og)
+
+【报名截止：6.23】[创新创业学院](http://ie-school.sustech.edu.cn/page/content?id=629)
 
 ## 上海科技大学
 
