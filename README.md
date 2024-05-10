@@ -68,6 +68,10 @@
 
 【报名截止：5.31 17:00】[智能复杂体系基础理论与关键技术实验室](https://iics.fudan.edu.cn/40/ee/c43157a671982/page.htm)
 
+【报名截止：5.31 17:00】[智能医学研究院](https://imi.fudan.edu.cn/info/1033/1553.htm)
+
+【报名截止：5.31 17:00】[数字医学研究中心](https://miccai.fudan.edu.cn/41/4b/c34228a672075/page.htm)
+
 ## 南京大学
 > 南京大学2024年全国优秀大学生夏令营通知信息汇总 （持续更新）：https://grawww.nju.edu.cn/64/88/c905a681096/page.htm
 
@@ -98,6 +102,8 @@
 
 【报名截止：5.30】[机电工程学院](https://sme.hit.edu.cn/2024/0507/c17968a344034/page.htm)
 
+【报名截止：5.30】[计算学部](https://cs.hit.edu.cn/2024/0510/c11474a344345/pagem.htm)
+
 ## 吉林大学
 
 【报名截止：6.7】[计算机科学与技术学院](https://ccst.jlu.edu.cn/info/1091/19265.htm)
@@ -125,6 +131,8 @@
 【报名截止：6.25】[脑科学与智能技术卓越创新中心（神经科学研究所）](https://mp.weixin.qq.com/s/CamcfCmc3jmwMaiS5WVYqA)
 
 【报名截止：6.20】[上海高等研究院](http://www.sari.cas.cn/gradedu/gdzssz/gddxssjxm/202404/t20240429_7141703.html)
+
+【报名截止：6.20】[声学研究所](http://www.ioa.cas.cn/yjs/zsxx/zstz/202405/t20240510_7157540.html)
 
 ~~【报名截止：5.10】[空天信息创新研究院（空天院）](https://mp.weixin.qq.com/s/_7VnrPleopF3mbUJcMqi7A)~~
 
