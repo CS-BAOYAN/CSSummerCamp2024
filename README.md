@@ -76,6 +76,9 @@
 
 【报名截止：5.31 17:00】[微纳系统中心](http://cmns.fudan.edu.cn/Data/View/346)
 
+## 上海人工智能实验室（浦江实验室PJLAB）联培（清北+华五+港中文）
+【报名截止：N/A】[OpenMMLab浦视团队联培博士(2025)招生](https://mp.weixin.qq.com/s/iNw-JVuakJ8q-eLWCYUgVA)
+
 ## 南京大学
 > 南京大学2024年全国优秀大学生夏令营通知信息汇总 （持续更新）：https://grawww.nju.edu.cn/64/88/c905a681096/page.htm
 
