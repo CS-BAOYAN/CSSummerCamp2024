@@ -7,7 +7,7 @@
 # CSSummerCamp2024
 
 ## 清华大学
-> 清华大学夏令营信息：https://yz.tsinghua.edu.cn/xlyxx.htm
+> [清华大学夏令营信息](https://yz.tsinghua.edu.cn/xlyxx.htm)
 
 【报名截止：5.15-5.22】 [计算机科学与技术系](https://mp.weixin.qq.com/s?srcid=0511ncUrMWk3NECs7sd5Cxjq&scene=23&sharer_shareinfo=074a53894defe7481e7b974878983d4c&mid=2247498995&sn=0adda03af3b249bef69c302478d6029b&idx=1&sharer_shareinfo_first=57401cb083ee681836005640a2214754&__biz=MzUyNTI4MzEzMg%3D%3D&chksm=fa22c6a0cd554fb6a3a761d4663d64141028eb8ad1cf12d50002604cf8b089ca03789e712111&mpshare=1#rd)
 
@@ -34,7 +34,7 @@
 ~~【报名截止：4.10 12:00】 [统计学研究中心](http://www.stat.tsinghua.edu.cn/hot-news/%e3%80%90%e5%a4%8f%e4%bb%a4%e8%90%a5%e3%80%912024%e5%b9%b4%e4%bc%98%e7%a7%80%e5%a4%a7%e5%ad%a6%e7%94%9f%e7%bb%9f%e8%ae%a1%e4%b8%8e%e6%95%b0%e6%8d%ae%e7%a7%91%e5%ad%a6%e4%ba%a4%e6%b5%81%e4%bc%9a/)~~
 
 ## 北京大学
-> 北京大学夏令营信息：https://admission.pku.edu.cn/xly/index.htm
+> [北京大学夏令营信息](https://admission.pku.edu.cn/xly/index.htm)
 
 【报名截止：6.11】[前沿交叉学科研究院](http://www.aais.pku.edu.cn/tongzhi/shownews.php?lang=cn&id=1754)
 
@@ -54,7 +54,7 @@
 【报名截止：N/A】[人工智能与微结构实验室](https://mp.weixin.qq.com/s/X9LZhlXfM1L2aOIoys3sNQ)
 
 ## 复旦大学
-> 复旦大学夏令营信息：https://gsao.fudan.edu.cn/3f/02/c15014a671490/page.htm
+> [复旦大学夏令营信息](https://gsao.fudan.edu.cn/3f/02/c15014a671490/page.htm)
 
 【报名截止：5.31 17:00】[类脑智能科学与技术研究院](https://istbi.fudan.edu.cn/info/1167/5380.htm)
 
@@ -76,15 +76,15 @@
 
 【报名截止：5.31 17:00】[微纳系统中心](http://cmns.fudan.edu.cn/Data/View/346)
 
-## 上海人工智能实验室（浦江实验室PJLAB）联培（清北+华五+港中文）
+## 上海人工智能实验室（浦江实验室PJLAB）
 > 上海人工智能实验室已与 清华大学、北京大学、上海交通大学、复旦大学、浙江大学、中国科学技术大学、香港中文大学和同济大学 等知名高校签订战略合作框架协议，开展联合培养博士研究生工作。
+> 
+> 名额先到先得，投简历后有合适的老师看到会主动联系面试相关事项
 
 【报名截止：N/A】[OpenMMLab浦视团队（大模型、视觉与多模态、生成模型）联培博士(2025)招生](https://mp.weixin.qq.com/s/iNw-JVuakJ8q-eLWCYUgVA)
-> 名额先到先得，投简历后有合适的老师看到会主动联系面试相关事项。
-
 
 ## 南京大学
-> 南京大学2024年全国优秀大学生夏令营通知信息汇总 （持续更新）：https://grawww.nju.edu.cn/64/88/c905a681096/page.htm
+> [南京大学夏令营信息](https://grawww.nju.edu.cn/64/88/c905a681096/page.htm)
 
 【报名截止：6.2 23:59】[人工智能学院](https://ai.nju.edu.cn/6d/dc/c53055a683484/page.htm)
 
@@ -94,6 +94,7 @@
 > 若LAMDA在考查后表示同意招收您，您**仍需**通过正常的研究生入学考试（推免或考研）获得南京大学人工智能学院的博/硕士生入学资格！
 
 ~~【报名截止：5.5】[计算机科学与技术系2024年本科生开放日](https://cs.nju.edu.cn/53/55/c1702a676693/page.htm)~~
+
 ## 浙江大学
 
 【报名截止：6.3】[脑科学与脑医学学院](http://www.neuroscience.zju.edu.cn/2024/0416/c75666a2902185/page.htm)
@@ -106,9 +107,7 @@
 【报名截止：N/A】[高瓴人工智能学院AI-Engine实验室](https://mp.weixin.qq.com/s/0BFY6nHouLgSGd5cOizIIg)
 
 ## 哈尔滨工业大学
-> 哈尔滨工业大学夏令营消息：http://yzb.hit.edu.cn/2024/0506/c8824a343961/page.htm
-> 哈尔滨工业大学（威海） “英才计划”暑期夏令营暨优秀硕士生生源选拔活动的通知: https://today.hitwh.edu.cn/2024/0507/c1024a182481/page.htm
-> 哈尔冰工业大学（深圳）夏令营信息：https://yzb.hitsz.edu.cn/yzs_common/zsxxxq/index?id=a684dc6879a84bef879effe772d8c2c5&xxlm=04
+> [哈尔滨工业大学夏令营消息](http://yzb.hit.edu.cn/2024/0506/c8824a343961/page.htm) | [哈尔滨工业大学（威海）暑期夏令营信息](https://today.hitwh.edu.cn/2024/0507/c1024a182481/page.htm) | [哈尔滨工业大学（深圳）夏令营信息](https://yzb.hitsz.edu.cn/yzs_common/zsxxxq/index?id=a684dc6879a84bef879effe772d8c2c5&xxlm=04)
 
 【报名截止：5.30】[电气工程及自动化学院](https://hitee.hit.edu.cn/2024/0506/c17101a343967/page.htm)
 
@@ -169,9 +168,7 @@
 【报名截止：N/A】[中科大 MIRA Lab 保研招生简章](https://miralab.ai/admission/admission_2024/)
 
 ## 南方科技大学
-> 南方科技大学夏令营消息：https://gs.sustech.edu.cn/#/admission/detail?current_child_id=142&id=148&article_id=3220
-
-【报名截止：5.12】[统计与数据科学系](https://stat-ds.sustech.edu.cn/notice/335)
+> [南方科技大学夏令营消息](https://gs.sustech.edu.cn/#/admission/detail?current_child_id=142&id=148&article_id=3220)
 
 【报名截止：6.16】[系统设计与智能制造学院](https://mp.weixin.qq.com/s/nRkLSLeb0p5zozRBkwpwZA)
 
@@ -182,6 +179,8 @@
 【报名截止：6.20】[深港微电子学院](https://mp.weixin.qq.com/s/gsM2k8jv4ptcguUJ3RU9og)
 
 【报名截止：6.23】[创新创业学院](http://ie-school.sustech.edu.cn/page/content?id=629)
+
+~~【报名截止：5.12】[统计与数据科学系](https://stat-ds.sustech.edu.cn/notice/335)~~
 
 ## 上海科技大学
 
@@ -197,13 +196,18 @@
 
 【报名截止：6.5】[复杂性科学中心](https://cs.haut.edu.cn/info/1421/5974.htm)
 
+## 湖南工商大学
+
+【报名截止：5.20】[计算机学院](https://cee.hutb.edu.cn/p155/tzgg/20240508/159478.html)
+
 ## 辽宁科技大学
 
 【报名截止：5.17】[辽宁科技大学-深圳职业技术大学研究生联合培养](https://www.ustl.edu.cn/yjs/info/1030/3007.htm)
 
-## 澳门大学
+## 香港中文大学
+【报名截止：4.1-5.23, 5.24-6.25】[Schedule of the early admission interviews of M.Phil. – Ph.D. Programme for 2025-2026 Intake](https://dept-eappsrv.cse.cuhk.edu.hk/pgas2025/)
 
-~~【报名截止：5.1】[第五届优秀大学生暑期研习营](https://www.fst.um.edu.mo/event/the-5th-summer-camp-for-outstanding-students-now-open-for-application/)~~
+【报名截止：6.14】[工程学院系统工程与工程管理系（SEEM）博士生夏令营](https://mp.weixin.qq.com/s/GKvRFOTSyl48H4QhNza2uQ)
 
 ## 香港大学
 
@@ -211,21 +215,21 @@
 
 ~~【报名截止：5.1】[HKU CS Early Recruitment Scheme for M.Phil. and Ph.D.](https://i.cs.hku.hk/~gradappl/index.html)~~
 
-## 香港中文大学
-【报名截止：4.1-5.23, 5.24-6.25】[Schedule of the early admission interviews of M.Phil. – Ph.D. Programme for 2025-2026 Intake](https://dept-eappsrv.cse.cuhk.edu.hk/pgas2025/)
-
-【报名截止：6.14】[工程学院系统工程与工程管理系（SEEM）博士生夏令营](https://mp.weixin.qq.com/s/GKvRFOTSyl48H4QhNza2uQ)
-
-## 香港中文大学（深圳）
-
-~~【报名截止：3.10-3.31,4.1-4.30】[数据科学学院夏令营Mini Camp](https://sds.cuhk.edu.cn/article/1635)~~
-
 ## 香港科技大学
 【报名截止：5.6-N/A】[系统枢纽博士项目夏令营](https://mp.weixin.qq.com/s/7Pymi47l2nyR4imEA4FnZA)
 
 ~~【报名截止：4.10】[​港科广微电子博士优先录取营](https://mp.weixin.qq.com/s/HTg5H3QVOxOLaTIejReL1Q)~~
 
 ~~【报名截止：3.10-3.30】[工学院 SENG Summer Camp](https://seng.hkust.edu.hk/academics/research-postgraduate/summer-camp) | [微信公众号](https://mp.weixin.qq.com/s/BSKsYsn1Oitgr4R2FnBlJw)~~
+
+## 澳门大学
+
+~~【报名截止：5.1】[第五届优秀大学生暑期研习营](https://www.fst.um.edu.mo/event/the-5th-summer-camp-for-outstanding-students-now-open-for-application/)~~
+
+## 香港中文大学（深圳）
+
+~~【报名截止：3.10-3.31,4.1-4.30】[数据科学学院夏令营Mini Camp](https://sds.cuhk.edu.cn/article/1635)~~
+
 
 # CSWinterCamp2024
 
