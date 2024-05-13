@@ -13,6 +13,8 @@
 
 【报名截止：5.15 23:59】 [交叉信息研究院](https://admission.iiis.tsinghua.edu.cn/)
 
+【报名截止：5.22】[网络研究院](https://mp.weixin.qq.com/s/2t-2sMpMVCKzTmRNQIMNIA)
+
 【报名截止：5.15 23:59】 [人工智能学院](https://admission.iiis.tsinghua.edu.cn/index-ai.php)
 
 【报名截止：5.8】[清华交叉信息研究院 ARChipLab实验室](https://people.iiis.tsinghua.edu.cn/~maks/files/archiplab_rollment.pdf)
@@ -67,6 +69,10 @@
 【报名截止：5.31 17:00】[微电子学院](https://sme.fudan.edu.cn/3f/5f/c29363a671583/page.htm)
 
 【报名截止：5.31 17:00】[信息科学与工程学院](http://www.it.fudan.edu.cn/Data/View/4616)
+
+【报名截止：5.31 17:00】[信息科学与工程学院通信科学与工程系](https://mp.weixin.qq.com/s/kx8vWdsMV51w1X4HZpfKoA)
+
+【报名截止：5.31 17:00】[信息科学与工程学院光科学与工程系](https://mp.weixin.qq.com/s/YPTF899bD9-rqH8ceppJyQ)
 
 【报名截止：5.31 17:00】[智能复杂体系基础理论与关键技术实验室](https://iics.fudan.edu.cn/40/ee/c43157a671982/page.htm)
 
@@ -183,6 +189,8 @@
 ~~【报名截止：5.12】[统计与数据科学系](https://stat-ds.sustech.edu.cn/notice/335)~~
 
 ## 上海科技大学
+
+【报名截止：6.23】[信息科学与技术学院](https://sist.shanghaitech.edu.cn/2024/0513/c7339a1096341/page.htm)
 
 【报名截止：6.30】[临港实验室](https://www.lglab.ac.cn/sylbt/202404/t20240425_212225.html)
 
