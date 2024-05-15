@@ -13,6 +13,8 @@
 
 【报名截止：5.15 23:59】 [交叉信息研究院](https://admission.iiis.tsinghua.edu.cn/)
 
+【报名截止：6.3】 [深圳国际研究生院数据与信息研究院计算机科学与技术](https://www.sigs.tsinghua.edu.cn/2024/0514/c120a94417/page.htm)
+
 【报名截止：5.22】[网络研究院](https://mp.weixin.qq.com/s/2t-2sMpMVCKzTmRNQIMNIA)
 
 【报名截止：5.15 23:59】 [人工智能学院](https://admission.iiis.tsinghua.edu.cn/index-ai.php)
