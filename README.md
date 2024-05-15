@@ -55,6 +55,8 @@
 ~~【报名截止：4.15】[密西根学院2024年“科研见习项目”](https://www.ji.sjtu.edu.cn/cn/prospective-students-zh/2024-04-03/144784/)~~
 > 上海交通大学密西根学院2025年硕士博士研究生招生宣讲会：https://mp.weixin.qq.com/s/nsryaLGDHw-aFhRHTDD9mg
 
+【报名截止：6.15】[生物医学工程学院（含Med-X研究院）](https://bme.sjtu.edu.cn/Web/Show/3455)
+
 【报名截止：N/A】[人工智能与微结构实验室](https://mp.weixin.qq.com/s/X9LZhlXfM1L2aOIoys3sNQ)
 
 ## 复旦大学
@@ -97,6 +99,8 @@
 【报名截止：6.2 23:59】[人工智能学院](https://ai.nju.edu.cn/6d/dc/c53055a683484/page.htm)
 
 【报名截止：5.20(可能)】[软件所本科生开放日招生说明](https://ics.nju.edu.cn/recruit/index.html)
+
+【报名截止：6.14】[电子科学与工程学院](https://ese.nju.edu.cn/75/bb/c22673a685499/page.htm)
 
 【报名截止：4.20, 延期5.15】[LAMDA招收 2025年秋季入学研究生说明](https://www.lamda.nju.edu.cn/recruit-2025/recruit-2025.html)
 > 若LAMDA在考查后表示同意招收您，您**仍需**通过正常的研究生入学考试（推免或考研）获得南京大学人工智能学院的博/硕士生入学资格！
@@ -160,6 +164,8 @@
 【报名截止：6.20】[上海高等研究院](http://www.sari.cas.cn/gradedu/gdzssz/gddxssjxm/202404/t20240429_7141703.html)
 
 【报名截止：6.20】[声学研究所](http://www.ioa.cas.cn/yjs/zsxx/zstz/202405/t20240510_7157540.html)
+
+【报名截止：6.28】[软件研究所](http://www.iscas.ac.cn/yjsjy2016/zsxx2016/202405/t20240515_7162425.html)
 
 ~~【报名截止：5.10】[空天信息创新研究院（空天院）](https://mp.weixin.qq.com/s/_7VnrPleopF3mbUJcMqi7A)~~
 
