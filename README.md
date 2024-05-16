@@ -48,6 +48,8 @@
 
 【报名截止：6.10 8:30】[工学院](https://www.coe.pku.edu.cn/graduate/notice/12781.html)
 
+【报名截止：6.21】[信息工程学院](https://www.ece.pku.edu.cn/info/1008/2771.htm)
+
 【报名截止：6.12】[生命科学学院和生命科学联合中心（北大方面）](http://web.bio.pku.edu.cn/homes/Index/news_cont/21/17077.html)
 > 不限于生物学及医学相关专业。欢迎其它理学或者工学专业（如数学、物理、化学、工程、心理、信息、计算机等）对生命科学有着强烈兴趣和科研创造力的申请者。
 
