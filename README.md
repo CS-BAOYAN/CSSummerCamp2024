@@ -9,17 +9,9 @@
 ## 清华大学
 > [清华大学夏令营信息](https://yz.tsinghua.edu.cn/xlyxx.htm)
 
-【报名截止：5.15-5.22】 [计算机科学与技术系](https://mp.weixin.qq.com/s?srcid=0511ncUrMWk3NECs7sd5Cxjq&scene=23&sharer_shareinfo=074a53894defe7481e7b974878983d4c&mid=2247498995&sn=0adda03af3b249bef69c302478d6029b&idx=1&sharer_shareinfo_first=57401cb083ee681836005640a2214754&__biz=MzUyNTI4MzEzMg%3D%3D&chksm=fa22c6a0cd554fb6a3a761d4663d64141028eb8ad1cf12d50002604cf8b089ca03789e712111&mpshare=1#rd)
-
-【报名截止：5.15 23:59】 [交叉信息研究院](https://admission.iiis.tsinghua.edu.cn/)
-
 【报名截止：6.3】 [深圳国际研究生院数据与信息研究院计算机科学与技术](https://www.sigs.tsinghua.edu.cn/2024/0514/c120a94417/page.htm)
 
-【报名截止：5.22】[网络研究院](https://mp.weixin.qq.com/s/2t-2sMpMVCKzTmRNQIMNIA)
-
-【报名截止：5.15 23:59】 [人工智能学院](https://admission.iiis.tsinghua.edu.cn/index-ai.php)
-
-【报名截止：5.8】[清华交叉信息研究院 ARChipLab实验室](https://people.iiis.tsinghua.edu.cn/~maks/files/archiplab_rollment.pdf)
+【报名截止：5.22】[网络研究院](https://www.insc.tsinghua.edu.cn/info/1179/3690.htm)
 
 【报名截止：5.24】[地球系统科学系](https://www.dess.tsinghua.edu.cn/info/1123/6142.htm)
 
@@ -36,6 +28,14 @@
 > 是否有招生名额请联系老师
 
 ~~【报名截止：4.10 12:00】 [统计学研究中心](http://www.stat.tsinghua.edu.cn/hot-news/%e3%80%90%e5%a4%8f%e4%bb%a4%e8%90%a5%e3%80%912024%e5%b9%b4%e4%bc%98%e7%a7%80%e5%a4%a7%e5%ad%a6%e7%94%9f%e7%bb%9f%e8%ae%a1%e4%b8%8e%e6%95%b0%e6%8d%ae%e7%a7%91%e5%ad%a6%e4%ba%a4%e6%b5%81%e4%bc%9a/)~~
+
+~~【报名截止：5.15 23:59】 [人工智能学院](https://admission.iiis.tsinghua.edu.cn/index-ai.php)~~
+
+~~【报名截止：5.8】[清华交叉信息研究院 ARChipLab实验室](https://people.iiis.tsinghua.edu.cn/~maks/files/archiplab_rollment.pdf)~~
+
+~~【报名截止：5.15-5.22】 [计算机科学与技术系](https://mp.weixin.qq.com/s?srcid=0511ncUrMWk3NECs7sd5Cxjq&scene=23&sharer_shareinfo=074a53894defe7481e7b974878983d4c&mid=2247498995&sn=0adda03af3b249bef69c302478d6029b&idx=1&sharer_shareinfo_first=57401cb083ee681836005640a2214754&__biz=MzUyNTI4MzEzMg%3D%3D&chksm=fa22c6a0cd554fb6a3a761d4663d64141028eb8ad1cf12d50002604cf8b089ca03789e712111&mpshare=1#rd)~~
+
+~~【报名截止：5.15 23:59】 [交叉信息研究院](https://admission.iiis.tsinghua.edu.cn/)~~
 
 ## 北京大学
 > [北京大学夏令营信息](https://admission.pku.edu.cn/xly/index.htm)
@@ -77,6 +77,8 @@
 【报名截止：5.31 17:00】[信息科学与工程学院通信科学与工程系](https://mp.weixin.qq.com/s/kx8vWdsMV51w1X4HZpfKoA)
 
 【报名截止：5.31 17:00】[信息科学与工程学院光科学与工程系](https://mp.weixin.qq.com/s/YPTF899bD9-rqH8ceppJyQ)
+
+【报名截止：5.31 17:00】[信息科学与工程学院电子工程系](https://mp.weixin.qq.com/s/s6KvHab_py821ozP9-6rzw)
 
 【报名截止：5.31 17:00】[智能复杂体系基础理论与关键技术实验室](https://iics.fudan.edu.cn/40/ee/c43157a671982/page.htm)
 
@@ -249,7 +251,6 @@
 ## 香港中文大学（深圳）
 
 ~~【报名截止：3.10-3.31,4.1-4.30】[数据科学学院夏令营Mini Camp](https://sds.cuhk.edu.cn/article/1635)~~
-
 
 # CSWinterCamp2024
 
