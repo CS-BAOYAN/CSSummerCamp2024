@@ -226,7 +226,7 @@
 
 ## 辽宁科技大学
 
-【报名截止：5.17】[辽宁科技大学-深圳职业技术大学研究生联合培养](https://www.ustl.edu.cn/yjs/info/1030/3007.htm)
+~~【报名截止：5.17】[辽宁科技大学-深圳职业技术大学研究生联合培养](https://www.ustl.edu.cn/yjs/info/1030/3007.htm)~~
 
 ## 香港中文大学
 【报名截止：4.1-5.23, 5.24-6.25】[Schedule of the early admission interviews of M.Phil. – Ph.D. Programme for 2025-2026 Intake](https://dept-eappsrv.cse.cuhk.edu.hk/pgas2025/)
