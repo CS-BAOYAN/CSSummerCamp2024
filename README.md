@@ -11,6 +11,10 @@
 
 【报名截止：6.3】 [深圳国际研究生院数据与信息研究院计算机科学与技术](https://www.sigs.tsinghua.edu.cn/2024/0514/c120a94417/page.htm)
 
+【报名截止：6.11】 [深圳国际研究生院数据与信息研究院生物医药与健康工程研究院](https://www.sigs.tsinghua.edu.cn/2024/0517/c120a94467/page.htm)
+
+【报名截止：6.10】[集成电路学院](https://www.ime.tsinghua.edu.cn/info/1086/1885.htm)
+
 【报名截止：5.22】[网络研究院](https://www.insc.tsinghua.edu.cn/info/1179/3690.htm)
 
 【报名截止：5.24】[地球系统科学系](https://www.dess.tsinghua.edu.cn/info/1123/6142.htm)
@@ -21,7 +25,7 @@
 
 【报名截止：6.30】[自动化系智能与网络化系统研究中心](https://mp.weixin.qq.com/s/l7kGbDxlcb5sOG3_1Bo0MQ)
 
-【报名截止：5.15-5.22】 [计算机科学与技术系](https://mp.weixin.qq.com/s?srcid=0511ncUrMWk3NECs7sd5Cxjq&scene=23&sharer_shareinfo=074a53894defe7481e7b974878983d4c&mid=2247498995&sn=0adda03af3b249bef69c302478d6029b&idx=1&sharer_shareinfo_first=57401cb083ee681836005640a2214754&__biz=MzUyNTI4MzEzMg%3D%3D&chksm=fa22c6a0cd554fb6a3a761d4663d64141028eb8ad1cf12d50002604cf8b089ca03789e712111&mpshare=1#rd)
+【报名截止：5.22】 [计算机科学与技术系](https://mp.weixin.qq.com/s?srcid=0511ncUrMWk3NECs7sd5Cxjq&scene=23&sharer_shareinfo=074a53894defe7481e7b974878983d4c&mid=2247498995&sn=0adda03af3b249bef69c302478d6029b&idx=1&sharer_shareinfo_first=57401cb083ee681836005640a2214754&__biz=MzUyNTI4MzEzMg%3D%3D&chksm=fa22c6a0cd554fb6a3a761d4663d64141028eb8ad1cf12d50002604cf8b089ca03789e712111&mpshare=1#rd)
 
 【报名截止：9.1】[高等研究院](https://www.ias.tsinghua.edu.cn/zsxx.htm) 
 > 清华大学高等研究院只招收直博生，包含物理学(含天体物理）、网络空间安全、计算机科学与技术三个专业。
@@ -46,6 +50,10 @@
 
 【报名截止：6.10 8:30】[工学院](https://www.coe.pku.edu.cn/graduate/notice/12781.html)
 
+【报名截止：6.11】[集成电路学院](https://ic.pku.edu.cn/rcpy/yjszs/adaf04020bfb49b7951e096515d76a58.htm)
+
+【报名截止：6.4】[电子学院](https://ele.pku.edu.cn/info/1063/3071.htm)
+
 【报名截止：6.21】[信息工程学院](https://www.ece.pku.edu.cn/info/1008/2771.htm)
 
 【报名截止：6.12】[生命科学学院和生命科学联合中心（北大方面）](http://web.bio.pku.edu.cn/homes/Index/news_cont/21/17077.html)
@@ -62,6 +70,8 @@
 【报名截止：N/A】[人工智能与微结构实验室](https://mp.weixin.qq.com/s/X9LZhlXfM1L2aOIoys3sNQ)
 
 【报名截止：6.8】 [人工智能学院](https://ga.sjtu.edu.cn/zsgl/xxgs/xlyhdbfmx.aspx)
+
+【报名截止：6.16】 [密西根学院](https://mp.weixin.qq.com/s/Y-CGIQ_nB7f5qxhFAvrMCg)
 
 ## 复旦大学
 > [复旦大学夏令营信息](https://gsao.fudan.edu.cn/3f/02/c15014a671490/page.htm)
@@ -116,6 +126,8 @@
 ## 浙江大学
 
 【报名截止：6.3】[脑科学与脑医学学院](http://www.neuroscience.zju.edu.cn/2024/0416/c75666a2902185/page.htm)
+
+【报名截止：6.15】[信息与电子工程学院](http://www.isee.zju.edu.cn/2024/0517/c21109a2918416/page.htm)
 
 【报名截止：N/A】[良渚实验室](https://mp.weixin.qq.com/s/Gs3k5hUXWtsFQ872NchURA)
 > 请关注[良渚实验室官方网站](http://liangzhulab.zju.edu.cn/)，后续报名网址、报名材料及招生导师信息将于网站通知公告及人才培养栏目发布
@@ -189,6 +201,8 @@
 
 【报名截止：6.17】[华大专项 |基因组学|生物信息学|人工智能](https://mp.weixin.qq.com/s/mJq6nn0-_2IbKZ25q09jMg)
 
+【报名截止：6.26】[工程科学学院](https://mp.weixin.qq.com/s/NlPISZrq6sIzpVgVrbsCWg)
+
 【报名截止：暂无】[杭州高等研究院](http://hias.ucas.ac.cn/info/1100/5633.htm)
 
 ## 中国科学技术大学
@@ -220,9 +234,16 @@
 
 【报名截止：6.30】[生物医学工程学院](https://mp.weixin.qq.com/s/QCbT2n5klB_LY0XLUvd-bQ)
 
+## 陕西师范大学
+> [陕西师范大学2025年接收推荐免试研究生预报名公告](http://yz.snnu.edu.cn/info/1009/3703.htm)
+
 ## 西南大学
 
 【报名截止：6.9】[心理学与脑科学](http://psy.swu.edu.cn/info/1085/3736.htm)
+
+## 安徽大学
+
+【报名截止：6.20】[人工智能学院](https://ai.ahu.edu.cn/2024/0517/c19134a340323/page.htm)
 
 ## 河南工业大学
 
