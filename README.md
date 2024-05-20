@@ -109,6 +109,8 @@
 
 【报名截止：N/A】[OpenMMLab浦视团队（大模型、视觉与多模态、生成模型）联培博士(2025)招生](https://mp.weixin.qq.com/s/iNw-JVuakJ8q-eLWCYUgVA)
 
+【报名截止：N/A】[OpenRobotLab浦器团队（多模态学习、机器人学习、具身智能）联培博士(2025)招生](https://mp.weixin.qq.com/s/eg-N59svXmkFgMhez3O7cw)
+
 ## 南京大学
 > [南京大学夏令营信息](https://grawww.nju.edu.cn/64/88/c905a681096/page.htm)
 
