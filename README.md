@@ -145,6 +145,12 @@
 
 【报名截止：6.10 8：00】[软件学院](https://csw.jlu.edu.cn/info/1156/7193.htm)
 
+## 华东师范大学
+
+> [华东师范大学夏令营信息](https://yjszs.ecnu.edu.cn/15/a2/c43265a595362/page.htm)
+
+【报名截止：6.10】[统计学院](https://stat.ecnu.edu.cn/14/73/c9708a595059/page.htm)
+
 ## 北京脑科学与类脑研究所 
 
 【报名截止：6.11】[北京脑科学与类脑研究所](https://mp.weixin.qq.com/s/L_hylpIfdytHHX34y6qP_w)
