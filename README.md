@@ -11,7 +11,11 @@
 
 【报名截止：6.3】 [深圳国际研究生院数据与信息研究院计算机科学与技术](https://www.sigs.tsinghua.edu.cn/2024/0514/c120a94417/page.htm)
 
+【报名截止：6.14】 [深圳国际研究生院数据与信息研究院人工智能项目](https://www.sigs.tsinghua.edu.cn/2024/0520/c120a94481/page.htm)
+
 【报名截止：6.11】 [深圳国际研究生院数据与信息研究院生物医药与健康工程研究院](https://www.sigs.tsinghua.edu.cn/2024/0517/c120a94467/page.htm)
+
+【报名截止：6.13】 [国际开放创新教育中心（Open FIESTA）](https://www.sigs.tsinghua.edu.cn/2024/0520/c120a94480/page.htm)
 
 【报名截止：6.10】[集成电路学院](https://www.ime.tsinghua.edu.cn/info/1086/1885.htm)
 
@@ -165,7 +169,7 @@
 
 【报名截止：6.10】[统计学院](https://stat.ecnu.edu.cn/14/73/c9708a595059/page.htm)
 
-【报名截止：6.11】[软件工程学院](https://sei.ecnu.edu.cn/18/2c/c33171a596012/page.htm)
+【报名截止：6.11】[软件工程学院“可信人工智能优秀大学生夏令营”](http://www.sei.ecnu.edu.cn/18/2c/c33171a596012/page.htm)
 
 ## 北京脑科学与类脑研究所 
 
