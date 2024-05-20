@@ -165,6 +165,8 @@
 
 【报名截止：6.10】[统计学院](https://stat.ecnu.edu.cn/14/73/c9708a595059/page.htm)
 
+【报名截止：6.11】[软件工程学院](https://sei.ecnu.edu.cn/18/2c/c33171a596012/page.htm)
+
 ## 北京脑科学与类脑研究所 
 
 【报名截止：6.11】[北京脑科学与类脑研究所](https://mp.weixin.qq.com/s/L_hylpIfdytHHX34y6qP_w)
