@@ -214,6 +214,7 @@
 【报名截止：暂无】[杭州高等研究院](http://hias.ucas.ac.cn/info/1100/5633.htm)
 
 ## 中国科学技术大学
+> [中国科学技术大学夏令营信息](https://xly.ustc.edu.cn/newslist.php)
 
 【报名截止：N/A】[量子物理和量子信息研究团队保研招生简章](https://quantum.ustc.edu.cn/web/index.php/node/762)
 
