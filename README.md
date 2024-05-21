@@ -128,6 +128,8 @@
 
 > [南京大学夏令营信息](https://grawww.nju.edu.cn/64/88/c905a681096/page.htm)
 
+【报名截止：6.13 17:00】[智能科学与技术学院](https://is.nju.edu.cn/7c/5f/c57162a687199/page.htm)
+
 【报名截止：6.2 23:59】[人工智能学院](https://ai.nju.edu.cn/6d/dc/c53055a683484/page.htm)
 
 【报名截止：5.25】[软件所本科生开放日招生说明](https://ics.nju.edu.cn/recruit/index.html)
