@@ -14,6 +14,8 @@
 
 【报名截止：6.14】 [深圳国际研究生院数据与信息研究院人工智能项目](https://www.sigs.tsinghua.edu.cn/2024/0520/c120a94481/page.htm)
 
+【报名截止：6.16】 [深圳国际研究生院数据与信息研究院数据与信息研究院电子与通信工程项目](https://www.sigs.tsinghua.edu.cn/2024/0521/c120a94526/page.htm)
+
 【报名截止：6.11】 [深圳国际研究生院数据与信息研究院生物医药与健康工程研究院](https://www.sigs.tsinghua.edu.cn/2024/0517/c120a94467/page.htm)
 
 【报名截止：6.13】 [国际开放创新教育中心（Open FIESTA）](https://www.sigs.tsinghua.edu.cn/2024/0520/c120a94480/page.htm)
@@ -55,6 +57,10 @@
 【报名截止：6.11】[前沿交叉学科研究院](http://www.aais.pku.edu.cn/tongzhi/shownews.php?lang=cn&id=1754)
 
 【报名截止：6.15】[未来技术学院](https://future.pku.edu.cn/xwzk/4ef963c7935645bb822acf89f9d39d87.htm)
+
+【报名截止：6.3】[计算机学院](https://cs.pku.edu.cn/info/1022/3053.htm)
+
+【报名截止：6.3】[智能学院](https://www.cis.pku.edu.cn/info/1034/3018.htm)
 
 【报名截止：6.10 8:30】[工学院](https://www.coe.pku.edu.cn/graduate/notice/12781.html)
 
@@ -172,9 +178,17 @@
 
 【报名截止：5.30】[机电工程与自动化学院（深圳）](http://smea.hitsz.edu.cn/info/1014/2462.htm)
 
+## 西安交通大学
+
+【报名截止：6.5】[电子与信息学部电子科学与工程学院](http://esteie.xjtu.edu.cn/info/1051/2763.htm)
+
+【报名截止：6.5-6.25】[软件学院](http://se.xjtu.edu.cn/info/1043/2679.htm)
+
 ## 同济大学
 
 【报名截止：6.7 12:00】[电子与信息工程学院](https://see.tongji.edu.cn/info/1147/12581.htm)
+
+【报名截止：6.11】[软件学院](https://sse.tongji.edu.cn/info/1132/5077.htm)
 
 ## 吉林大学
 
@@ -199,6 +213,10 @@
 ## 昌平实验室
 
 【报名截止：6.1】[昌平实验室](https://www.cpl.ac.cn/join_us/education/4028c1f18ec4727b018ec733a2ee0005.shtml)
+
+## 深圳医学科学院
+
+【报名截止：6.27】[SMART-SZBL](https://mp.weixin.qq.com/s/0R-mbkijxFkc9iyy5CvrrA)
 
 ## 电子科技大学
 
