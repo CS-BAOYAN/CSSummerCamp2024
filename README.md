@@ -234,6 +234,8 @@
 
 【报名截止：6.20】[上海高等研究院](http://www.sari.cas.cn/gradedu/gdzssz/gddxssjxm/202404/t20240429_7141703.html)
 
+【报名截止：6.26】[计算机网络信息中心](https://cnic.cas.cn/yjsjy/tzgg/202405/t20240521_7167085.html)
+
 【报名截止：6.20】[声学研究所](http://www.ioa.cas.cn/yjs/zsxx/zstz/202405/t20240510_7157540.html)
 
 【报名截止：6.28】[软件研究所](http://www.iscas.ac.cn/yjsjy2016/zsxx2016/202405/t20240515_7162425.html)
