@@ -70,13 +70,11 @@
 
 【报名截止：6.4】[电子学院](https://ele.pku.edu.cn/info/1063/3071.htm)
 
-【报名截止：6.21】[信息工程学院](https://www.ece.pku.edu.cn/info/1008/2771.htm)
-
 【报名截止：6.12】[生命科学学院和生命科学联合中心（北大方面）](http://web.bio.pku.edu.cn/homes/Index/news_cont/21/17077.html)
 
-【报名截止：6.24】[北京大学深圳研究院信息工程学院](https://www.ece.pku.edu.cn/info/1027/2770.htm)
-
 > 不限于生物学及医学相关专业。欢迎其它理学或者工学专业（如数学、物理、化学、工程、心理、信息、计算机等）对生命科学有着强烈兴趣和科研创造力的申请者。
+
+【报名截止：6.24】[深圳研究院信息工程学院](https://www.ece.pku.edu.cn/info/1027/2770.htm)
 
 ~~【报名截止：4.24】[统计科学中心](https://mp.weixin.qq.com/s/NgoAJ6VF6xEAoNqXehJDDg)~~
 
