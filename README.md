@@ -18,6 +18,8 @@
 
 【报名截止：6.11】 [深圳国际研究生院数据与信息研究院生物医药与健康工程研究院](https://www.sigs.tsinghua.edu.cn/2024/0517/c120a94467/page.htm)
 
+【报名截止：6.16】 [深圳国际研究生院数据与信息研究院大数据工程](https://www.sigs.tsinghua.edu.cn/2024/0522/c120a94533/page.htm)
+
 【报名截止：6.13】 [国际开放创新教育中心（Open FIESTA）](https://www.sigs.tsinghua.edu.cn/2024/0520/c120a94480/page.htm)
 
 【报名截止：6.10】[集成电路学院](https://www.ime.tsinghua.edu.cn/info/1086/1885.htm)
@@ -186,6 +188,10 @@
 
 【报名截止：6.5-6.25】[软件学院](http://se.xjtu.edu.cn/info/1043/2679.htm)
 
+【报名截止：6.10】[计算机科学与技术学院](http://www.cs.xjtu.edu.cn/info/1233/3380.htm)
+
+【报名截止：7.1】[前沿科学技术研究院](https://fist.xjtu.edu.cn/info/1013/4052.htm)
+
 ## 同济大学
 
 【报名截止：6.7 12:00】[电子与信息工程学院](https://see.tongji.edu.cn/info/1147/12581.htm)
@@ -235,6 +241,8 @@
 【报名截止：6.25】[脑科学与智能技术卓越创新中心（神经科学研究所）](https://mp.weixin.qq.com/s/CamcfCmc3jmwMaiS5WVYqA)
 
 【报名截止：6.20】[上海高等研究院](http://www.sari.cas.cn/gradedu/gdzssz/gddxssjxm/202404/t20240429_7141703.html)
+
+【报名截止：7.1】[微电子研究所](http://www.ime.cas.cn/kjrh/tzggkjrh/202405/t20240522_7168020.html)
 
 【报名截止：6.26】[计算机网络信息中心](https://cnic.cas.cn/yjsjy/tzgg/202405/t20240521_7167085.html)
 
