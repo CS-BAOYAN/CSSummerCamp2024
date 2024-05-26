@@ -8,7 +8,7 @@
 
 ## 清华大学
 
-> [清华大学夏令营信息](https://yz.tsinghua.edu.cn/xlyxx.htm)
+> [清华大学夏令营信息](https://yz.tsinghua.edu.cn/xlyxx.htm) | [清华大学深圳国际研究生院夏令营信息](https://mp.weixin.qq.com/s/PQEUQqdUTbIW7d6GtqwNbA)
 
 【报名截止：6.3】 [深圳国际研究生院数据与信息研究院计算机科学与技术](https://www.sigs.tsinghua.edu.cn/2024/0514/c120a94417/page.htm)
 
@@ -228,6 +228,8 @@
 ## 中山大学
 
 【报名截止：6.23】[微电子科学与技术学院](https://mst.sysu.edu.cn/article/997)
+
+【报名截止：6.23】[电子与信息工程学院（微电子学院）](https://seit.sysu.edu.cn/article/2594)
 
 ## 吉林大学
 
