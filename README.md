@@ -22,6 +22,8 @@
 
 【报名截止：6.16】 [深圳国际研究生院数据与信息研究院集成电路与系统](https://www.sigs.tsinghua.edu.cn/2024/0524/c120a94577/page.htm)
 
+【报名截止：6.20】 [深圳国际研究生院数据与信息研究院管理科学与工程、物流工程与管理项目](https://mp.weixin.qq.com/s/6dOfx45eWHuDDBPulj6hew)
+
 【报名截止：6.13】 [国际开放创新教育中心（Open FIESTA）](https://www.sigs.tsinghua.edu.cn/2024/0520/c120a94480/page.htm)
 
 【报名截止：6.10】[集成电路学院](https://www.ime.tsinghua.edu.cn/info/1086/1885.htm)
@@ -147,9 +149,9 @@
 
 【报名截止：6.2 23:59】[人工智能学院](https://ai.nju.edu.cn/6d/dc/c53055a683484/page.htm)
 
-【报名截止：5.25】[软件所本科生开放日招生说明](https://ics.nju.edu.cn/recruit/index.html)
-
 【报名截止：6.14】[电子科学与工程学院](https://ese.nju.edu.cn/75/bb/c22673a685499/page.htm)
+
+~~【报名截止：5.25】[软件所本科生开放日招生说明](https://ics.nju.edu.cn/recruit/index.html)~~
 
 ~~【报名截止：4.20, 延期5.15】[LAMDA招收 2025年秋季入学研究生说明](https://www.lamda.nju.edu.cn/recruit-2025/recruit-2025.html)~~
 
@@ -166,6 +168,14 @@
 【报名截止：N/A】[良渚实验室](https://mp.weixin.qq.com/s/Gs3k5hUXWtsFQ872NchURA)
 
 > 请关注[良渚实验室官方网站](http://liangzhulab.zju.edu.cn/)，后续报名网址、报名材料及招生导师信息将于网站通知公告及人才培养栏目发布
+
+## 北京航空航天大学
+
+> [北京航空航天大学夏令营信息](https://yzb.buaa.edu.cn/info/1036/3101.htm)
+
+## 北京师范大学
+
+【报名截止：7.9】[人工智能学院](https://mp.weixin.qq.com/s/Z02xlYAM-CYAud4zunRdBw)
 
 ## 中国人民大学
 
@@ -207,11 +217,17 @@
 
 ## 厦门大学
 
+> [厦门大学夏令营通知](https://zs.xmu.edu.cn/info/1055/28951.htm)
+
 【报名截止：6.15】[电子科学与技术学院](https://ese.xmu.edu.cn/info/1018/21449.htm)
 
 【报名截止：6.15】[信息学院](https://informatics.xmu.edu.cn/info/1050/38419.htm)
 
 【报名截止：6.15】[人工智能研究院](https://iai.xmu.edu.cn/info/1110/3974.htm)
+
+## 中山大学
+
+【报名截止：6.23】[微电子科学与技术学院](https://mst.sysu.edu.cn/article/997)
 
 ## 吉林大学
 
@@ -226,6 +242,10 @@
 【报名截止：6.10】[统计学院](https://stat.ecnu.edu.cn/14/73/c9708a595059/page.htm)
 
 【报名截止：6.14】[软件工程学院“可信人工智能优秀大学生夏令营”](http://www.sei.ecnu.edu.cn/19/0c/c33171a596236/page.htm)
+
+## 华东理工大学
+
+> [华东理工大学夏令营信息](https://gschool.ecust.edu.cn/2024/0524/c12754a167858/page.htm)
 
 ## 北京脑科学与类脑研究所
 
@@ -276,6 +296,8 @@
 【报名截止：6.17】[华大专项 |基因组学|生物信息学|人工智能](https://mp.weixin.qq.com/s/mJq6nn0-_2IbKZ25q09jMg)
 
 【报名截止：6.26】[工程科学学院](https://mp.weixin.qq.com/s/NlPISZrq6sIzpVgVrbsCWg)
+
+【报名截止：7.1】[集成电路学院](https://sme.ucas.ac.cn/index.php/zh-cn/zsjy/sszs/512-2024-6)
 
 【报名截止：暂无】[杭州高等研究院](http://hias.ucas.ac.cn/info/1100/5633.htm)
 
