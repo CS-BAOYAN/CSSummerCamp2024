@@ -318,11 +318,13 @@
 
 【报名截止：N/A】[科学岛夏令营报名预通知](https://mp.weixin.qq.com/s/EvrdKl_IsIxkFH2D99BEnQ)
 
+【报名截止：6.30】[网络空间与信息安全](https://xly.ustc.edu.cn/news.php?newsid=987)
+
+【报名截止：6.30】[苏州高等研究院](https://sz.ustc.edu.cn/cn_mobile/xwgg_show/1574.html)
+
 ## 山东大学
 
 【报名截止：6.11】[数学国家高层次人才培养中心](https://www.math.sdu.edu.cn/info/1031/19849.htm)
-
-【报名截止：6.30】[网络空间与信息安全](https://xly.ustc.edu.cn/news.php?newsid=987)
 
 ## 南方科技大学
 
