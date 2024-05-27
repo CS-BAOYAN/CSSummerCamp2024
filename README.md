@@ -165,6 +165,8 @@
 
 【报名截止：6.15】[信息与电子工程学院](http://www.isee.zju.edu.cn/2024/0517/c21109a2918416/page.htm)
 
+【报名截止：6.20】[国际联合商学院-数据科学与工程项目](https://zibs.zju.edu.cn/article/summer-camp-2024.html)
+
 【报名截止：N/A】[良渚实验室](https://mp.weixin.qq.com/s/Gs3k5hUXWtsFQ872NchURA)
 
 > 请关注[良渚实验室官方网站](http://liangzhulab.zju.edu.cn/)，后续报名网址、报名材料及招生导师信息将于网站通知公告及人才培养栏目发布
@@ -308,7 +310,7 @@
 【报名截止：暂无】[杭州高等研究院](http://hias.ucas.ac.cn/info/1100/5633.htm)
 
 ## 中国科学技术大学
-> [中国科学技术大学夏令营信息](https://xly.ustc.edu.cn/newslist.php)
+> [中国科学技术大学夏令营信息](https://xly.ustc.edu.cn/news.php?newsid=981)
 
 【报名截止：N/A】[量子物理和量子信息研究团队保研招生简章](https://quantum.ustc.edu.cn/web/index.php/node/762)
 
@@ -319,6 +321,8 @@
 ## 山东大学
 
 【报名截止：6.11】[数学国家高层次人才培养中心](https://www.math.sdu.edu.cn/info/1031/19849.htm)
+
+【报名截止：6.30】[网络空间与信息安全](https://xly.ustc.edu.cn/news.php?newsid=987)
 
 ## 南方科技大学
 
