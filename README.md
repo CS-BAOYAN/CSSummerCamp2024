@@ -347,7 +347,8 @@
 
 > [湖南大学夏令营信息](http://gra.hnu.edu.cn/info/1075/9607.htm)
 
-【报名截止：6.14】[半导体学院（集成电路学院）](http://sic.hnu.edu.cn/info/1115/1865.htm)
+【报名截止：6.14】[半导体学院（集成电路学院）](http://sic.hnu.edu.cn/info/1115/1865.htm)  
+
 【报名截止：6.14】[信息科学与工程学院](http://csee.hnu.edu.cn/info/1062/13197.htm)
 
 ## 南方科技大学
