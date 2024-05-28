@@ -322,6 +322,8 @@
 
 【报名截止：6.30】[苏州高等研究院](https://sz.ustc.edu.cn/cn_mobile/xwgg_show/1574.html)
 
+【报名截止：6.30】[先进技术研究院](https://xly.ustc.edu.cn/news.php?newsid=994)
+
 ## 山东大学
 
 【报名截止：6.11】[数学国家高层次人才培养中心](https://www.math.sdu.edu.cn/info/1031/19849.htm)
