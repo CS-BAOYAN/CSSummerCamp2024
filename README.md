@@ -217,6 +217,8 @@
 
 【报名截止：6.12】[微电子学院](https://ele.xjtu.edu.cn/info/1013/2391.htm)
 
+【报名截止：6.10】[自动化学院](https://automation.xjtu.edu.cn/info/1009/2091.htm)
+
 ## 同济大学
 
 【报名截止：6.7 12:00】[电子与信息工程学院](https://see.tongji.edu.cn/info/1147/12581.htm)
