@@ -149,6 +149,8 @@
 
 【报名截止：6.2 23:59】[人工智能学院](https://ai.nju.edu.cn/6d/dc/c53055a683484/page.htm)
 
+【报名截止：6.20】[软件学院](https://software.nju.edu.cn//tzgg/20240528/i267245.html)
+
 【报名截止：6.14】[电子科学与工程学院](https://ese.nju.edu.cn/75/bb/c22673a685499/page.htm)
 
 【报名截止：6.18】[南大NLP夏令营](https://mp.weixin.qq.com/s/jWJiq2E2gHha_K9ryWg2sA)
