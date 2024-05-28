@@ -329,13 +329,13 @@
 
 【报名截止：N/A】[科学岛夏令营报名预通知](https://mp.weixin.qq.com/s/EvrdKl_IsIxkFH2D99BEnQ)
 
-【报名截止：6.26】[生命医学夏令营](https://xly.ustc.edu.cn/news.php?newsid=1001)
+【报名截止：6.26】[生命医学夏令营（生命科学与医学部）](https://xly.ustc.edu.cn/news.php?newsid=1001)
 
-【报名截止：6.30】[网络空间与信息安全](https://xly.ustc.edu.cn/news.php?newsid=987)
+【报名截止：6.30】[网络空间与信息安全夏令营（网络空间安全学院）](https://xly.ustc.edu.cn/news.php?newsid=987)
 
-【报名截止：6.30】[苏州高等研究院](https://sz.ustc.edu.cn/cn_mobile/xwgg_show/1574.html)
+【报名截止：6.30】[苏州高等研究院夏令营](https://sz.ustc.edu.cn/cn_mobile/xwgg_show/1574.html)
 
-【报名截止：6.30】[先进技术研究院](https://xly.ustc.edu.cn/news.php?newsid=994)
+【报名截止：6.30】[创新应用夏令营（先进技术研究院）](https://xly.ustc.edu.cn/news.php?newsid=994)
 
 ## 山东大学
 
