@@ -173,6 +173,8 @@
 
 【报名截止：6.20】[国际联合商学院-数据科学与工程项目](https://zibs.zju.edu.cn/article/summer-camp-2024.html)
 
+【报名截止：6.20】[数据科学研究中心-数据科学与工程项目](http://cds.zju.edu.cn/a/zsxx/3463.html)
+
 【报名截止：6.25】[计算机学院](http://www.cs.zju.edu.cn/csen/2024/0527/c27011a2923257/page.htm)
 
 【报名截止：N/A】[良渚实验室](https://mp.weixin.qq.com/s/Gs3k5hUXWtsFQ872NchURA)
