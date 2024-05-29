@@ -349,6 +349,8 @@
 
 【报名截止：N/A】[中科大 MIRA Lab 保研招生简章](https://miralab.ai/admission/admission_2024/)
 
+【报名截止：6.25】[计算机科学夏令营（计算机科学与技术学院）](https://xly.ustc.edu.cn/news.php?newsid=1004)
+
 【报名截止：6.26】[生命医学夏令营（生命科学与医学部）](https://xly.ustc.edu.cn/news.php?newsid=1001)
 
 【报名截止：6.30】[网络空间与信息安全夏令营（网络空间安全学院）](https://xly.ustc.edu.cn/news.php?newsid=987)
