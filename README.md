@@ -177,6 +177,8 @@
 
 【报名截止：6.25】[计算机学院](http://www.cs.zju.edu.cn/csen/2024/0527/c27011a2923257/page.htm)
 
+【报名截止：6.25】[网络空间安全学院](https://icsr.zju.edu.cn/2024/0528/c70139a2924266/page.htm)
+
 【报名截止：N/A】[良渚实验室](https://mp.weixin.qq.com/s/Gs3k5hUXWtsFQ872NchURA)
 
 > 请关注[良渚实验室官方网站](http://liangzhulab.zju.edu.cn/)，后续报名网址、报名材料及招生导师信息将于网站通知公告及人才培养栏目发布
