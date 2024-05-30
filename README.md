@@ -281,7 +281,7 @@
 
 > [华东理工大学夏令营信息](https://gschool.ecust.edu.cn/2024/0524/c12754a167858/page.htm)
 
-【报名截止：6.20】[华东理工大学信息科学与工程学院](https://cise.ecust.edu.cn/2024/0529/c7692a168034/page.htm)
+【报名截止：6.20】[信息科学与工程学院](https://cise.ecust.edu.cn/2024/0529/c7692a168034/page.htm)
 
 ## 北京语言大学
 
@@ -406,6 +406,10 @@
 【报名截止：6.30】[临港实验室](https://www.lglab.ac.cn/sylbt/202404/t20240425_212225.html)
 
 【报名截止：6.30】[生物医学工程学院](https://mp.weixin.qq.com/s/QCbT2n5klB_LY0XLUvd-bQ)
+
+## 兰州大学
+
+【报名截止：6.20】[信息科学与工程学院](https://xxxy.lzu.edu.cn/tongzhigonggao/2024/0529/270494.html)
 
 ## 陕西师范大学
 
