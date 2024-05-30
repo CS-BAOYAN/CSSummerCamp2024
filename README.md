@@ -253,6 +253,8 @@
 
 【报名截止：6.23】[电子与信息工程学院（微电子学院）](https://seit.sysu.edu.cn/article/2594)
 
+【报名截止：6.24】[人工智能学院](https://sai.sysu.edu.cn/notice/1415979.htm)
+
 ## 吉林大学
 
 【报名截止：6.7】[计算机科学与技术学院](https://ccst.jlu.edu.cn/info/1091/19265.htm)
