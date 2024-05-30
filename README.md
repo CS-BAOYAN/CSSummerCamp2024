@@ -285,8 +285,6 @@
 
 > [北京语言大学夏令营信息](https://yjsy.blcu.edu.cn/art/2024/5/17/art_13223_1170150.html)
 
-【报名截止：7.8】[北京语言大学信息科学学院](
-
 ## 北京脑科学与类脑研究所
 
 【报名截止：6.11】[北京脑科学与类脑研究所](https://mp.weixin.qq.com/s/L_hylpIfdytHHX34y6qP_w)
