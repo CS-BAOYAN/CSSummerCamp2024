@@ -237,6 +237,8 @@
 
 【报名截止：6.11】[软件学院](https://sse.tongji.edu.cn/info/1132/5077.htm)
 
+【报名截止：6.20】[同济大学上海自主智能无人系统科学中心](https://srias.tongji.edu.cn/1e/2d/c17827a335405/page.htm)
+
 ## 厦门大学
 
 > [厦门大学夏令营通知](https://zs.xmu.edu.cn/info/1055/28951.htm)
@@ -276,6 +278,8 @@
 ## 华东理工大学
 
 > [华东理工大学夏令营信息](https://gschool.ecust.edu.cn/2024/0524/c12754a167858/page.htm)
+
+【报名截止：6.20】[华东理工大学信息科学与工程学院](https://cise.ecust.edu.cn/2024/0529/c7692a168034/page.htm)
 
 ## 北京语言大学
 
