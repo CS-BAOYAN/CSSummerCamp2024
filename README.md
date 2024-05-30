@@ -213,7 +213,7 @@
 
 【报名截止：5.30】[集成电路（深圳）](http://ic.hitsz.edu.cn/info/1032/2426.htm)
 
-【报名截止：5.30】[计算机科学与技术学院（深圳）](http://cs.hitsz.edu.cn/info/1029/7282.htm)
+【报名截止：6.7】[计算机科学与技术学院（深圳）](http://cs.hitsz.edu.cn/info/1029/7282.htm)
 
 【报名截止：5.30】[机电工程与自动化学院（深圳）](http://smea.hitsz.edu.cn/info/1014/2462.htm)
 
