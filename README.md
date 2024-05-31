@@ -367,7 +367,14 @@
 
 【报名截止：6.14】[半导体学院（集成电路学院）](http://sic.hnu.edu.cn/info/1115/1865.htm)  
 
-【报名截止：6.14】[信息科学与工程学院](http://csee.hnu.edu.cn/info/1062/13197.htm)
+【报名截止：6.14】[信息科学与工程学院](http://csee.hnu.edu.cn/info/1062/13197.htm)  
+
+【报名截止：6.14】[电气与信息工程学院](https://eeit.hnu.edu.cn/info/1184/10533.htm)  
+
+【报名截止：6.14】[机器人学院](http://robotics.hnu.edu.cn/info/1074/2648.htm)  
+
+【报名截止：6.14】[物理与微电子学院](https://spe.hnu.edu.cn/info/1083/8776.htm)  
+
 
 ## 南方科技大学
 
