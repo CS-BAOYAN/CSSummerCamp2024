@@ -147,6 +147,8 @@
 
 【报名截止：6.13 17:00】[智能科学与技术学院](https://is.nju.edu.cn/7c/5f/c57162a687199/page.htm)
 
+【报名截止：6.20】[智能软件与工程学院](https://ise.nju.edu.cn/info/1018/1841.htm)
+
 【报名截止：6.2 23:59】[人工智能学院](https://ai.nju.edu.cn/6d/dc/c53055a683484/page.htm)
 
 【报名截止：6.20】[软件学院](https://software.nju.edu.cn//tzgg/20240528/i267245.html)
@@ -167,6 +169,8 @@
 
 ## 浙江大学
 
+> [浙江大学夏令营信息](http://www.grs.zju.edu.cn/yjszs/2024/0523/c28498a2921525/page.htm)
+
 【报名截止：6.3】[脑科学与脑医学学院](http://www.neuroscience.zju.edu.cn/2024/0416/c75666a2902185/page.htm)
 
 【报名截止：6.15】[信息与电子工程学院](http://www.isee.zju.edu.cn/2024/0517/c21109a2918416/page.htm)
@@ -178,6 +182,8 @@
 【报名截止：6.25】[计算机学院](http://www.cs.zju.edu.cn/csen/2024/0527/c27011a2923257/page.htm)
 
 【报名截止：6.25】[网络空间安全学院](https://icsr.zju.edu.cn/2024/0528/c70139a2924266/page.htm)
+
+【报名截止：6.27】[浙江大学伊利诺伊大学厄巴纳香槟校区联合学院](https://zjui.intl.zju.edu.cn/node/2616)
 
 【报名截止：N/A】[良渚实验室](https://mp.weixin.qq.com/s/Gs3k5hUXWtsFQ872NchURA)
 
