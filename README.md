@@ -207,17 +207,17 @@
 
 > [哈尔滨工业大学夏令营消息](http://yzb.hit.edu.cn/2024/0506/c8824a343961/page.htm) | [哈尔滨工业大学（威海）暑期夏令营信息](https://today.hitwh.edu.cn/2024/0507/c1024a182481/page.htm) | [哈尔滨工业大学（深圳）夏令营信息](https://yzb.hitsz.edu.cn/yzs_common/zsxxxq/index?id=a684dc6879a84bef879effe772d8c2c5&xxlm=04)
 
-【报名截止：5.30】[电气工程及自动化学院](https://hitee.hit.edu.cn/2024/0506/c17101a343967/page.htm)
+【报名截止：6.7】[电气工程及自动化学院](https://hitee.hit.edu.cn/2024/0506/c17101a343967/page.htm)
 
-【报名截止：5.30】[机电工程学院](https://sme.hit.edu.cn/2024/0507/c17968a344034/page.htm)
+~~【报名截止：5.30】[机电工程学院](https://sme.hit.edu.cn/2024/0507/c17968a344034/page.htm)~~
 
-【报名截止：5.30】[计算学部](https://cs.hit.edu.cn/2024/0510/c11474a344345/pagem.htm)
+~~【报名截止：5.30】[计算学部](https://cs.hit.edu.cn/2024/0510/c11474a344345/pagem.htm)~~
 
-【报名截止：5.30】[集成电路（深圳）](http://ic.hitsz.edu.cn/info/1032/2426.htm)
+【报名截止：6.7】[集成电路（深圳）](http://ic.hitsz.edu.cn/info/1032/2426.htm)
 
 【报名截止：6.7】[计算机科学与技术学院（深圳）](http://cs.hitsz.edu.cn/info/1029/7282.htm)
 
-【报名截止：5.30】[机电工程与自动化学院（深圳）](http://smea.hitsz.edu.cn/info/1014/2462.htm)
+【报名截止：6.7】[机电工程与自动化学院（深圳）](http://smea.hitsz.edu.cn/info/1014/2462.htm)
 
 ## 西安交通大学
 
