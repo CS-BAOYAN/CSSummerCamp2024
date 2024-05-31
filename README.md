@@ -425,12 +425,6 @@
 
 【报名截止：6.10】[港中大（深圳）理工学院-本科生科研实践夏令营](https://mp.weixin.qq.com/s/BfEz1DRxRoDTAaTtka9czQ)
 
-## 香港大学
-
-【报名截止：5.31】 [HKU CS Research Internship Programme](https://www.cs.hku.hk/rintern/)
-
-~~【报名截止：5.1】[HKU CS Early Recruitment Scheme for M.Phil. and Ph.D.](https://i.cs.hku.hk/~gradappl/index.html)~~
-
 ## 香港科技大学
 
 【报名截止：5.6-N/A】[系统枢纽博士项目夏令营](https://mp.weixin.qq.com/s/7Pymi47l2nyR4imEA4FnZA)
@@ -484,6 +478,12 @@
 ~~【报名截止：5.31 17:00】[数字医学研究中心](https://miccai.fudan.edu.cn/41/4b/c34228a672075/page.htm)~~
 
 ~~【报名截止：5.31 17:00】[微纳系统中心](http://cmns.fudan.edu.cn/Data/View/346)~~
+
+## 香港大学
+
+~~【报名截止：5.31】 [HKU CS Research Internship Programme](https://www.cs.hku.hk/rintern/)~~
+
+~~【报名截止：5.1】[HKU CS Early Recruitment Scheme for M.Phil. and Ph.D.](https://i.cs.hku.hk/~gradappl/index.html)~~
 
 # CSWinterCamp2024
 
