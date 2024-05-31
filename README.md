@@ -107,36 +107,6 @@
 【报名截止：6.20】 [电子信息与电气工程学院](https://www.seiee.sjtu.edu.cn/via/yjspy_zsgz_sszs/10117.html)
 > 2025级电院研究生“优秀生源”活动面向校内外学生选拔，具体依托电气工程系、自动化系、计算机科学与工程系、集成电路学院（电子工程系和微纳电子学系）、感知科学与工程学院、软件学院、网络空间安全学院等单位开展，涵盖电院全部研究生专业（含联培基地、工程硕博士培养改革专项注1、集成电路专项注2），具体以当年招生政策为准。
 
-## 复旦大学
-
-> [复旦大学夏令营信息](https://gsao.fudan.edu.cn/3f/02/c15014a671490/page.htm)
-
-【报名截止：5.31 17:00】[类脑智能科学与技术研究院](https://istbi.fudan.edu.cn/info/1167/5380.htm)
-
-【报名截止：5.31 17:00】[大数据学院](https://sds.fudan.edu.cn/3f/31/c17701a671537/page.htm)
-
-【报名截止：5.31 17:00】[计算机科学技术学院](https://cs.fudan.edu.cn/3f/7d/c24257a671613/page.htm)
-
-【报名截止：5.31 17:00】[工程与应用技术研究院](https://faet.fudan.edu.cn/3f/67/c23815a671591/page.htm)
-
-【报名截止：5.31 17:00】[微电子学院](https://sme.fudan.edu.cn/3f/5f/c29363a671583/page.htm)
-
-【报名截止：5.31 17:00】[信息科学与工程学院](http://www.it.fudan.edu.cn/Data/View/4616)
-
-【报名截止：5.31 17:00】[信息科学与工程学院通信科学与工程系](https://mp.weixin.qq.com/s/kx8vWdsMV51w1X4HZpfKoA)
-
-【报名截止：5.31 17:00】[信息科学与工程学院光科学与工程系](https://mp.weixin.qq.com/s/YPTF899bD9-rqH8ceppJyQ)
-
-【报名截止：5.31 17:00】[信息科学与工程学院电子工程系](https://mp.weixin.qq.com/s/s6KvHab_py821ozP9-6rzw)
-
-【报名截止：5.31 17:00】[智能复杂体系基础理论与关键技术实验室](https://iics.fudan.edu.cn/40/ee/c43157a671982/page.htm)
-
-【报名截止：5.31 17:00】[智能医学研究院](https://imi.fudan.edu.cn/info/1033/1553.htm)
-
-【报名截止：5.31 17:00】[数字医学研究中心](https://miccai.fudan.edu.cn/41/4b/c34228a672075/page.htm)
-
-【报名截止：5.31 17:00】[微纳系统中心](http://cmns.fudan.edu.cn/Data/View/346)
-
 ## 上海人工智能实验室（浦江实验室PJLAB）
 
 > 上海人工智能实验室已与 清华大学、北京大学、上海交通大学、复旦大学、浙江大学、中国科学技术大学、香港中文大学和同济大学 等知名高校签订战略合作框架协议，开展联合培养博士研究生工作。
@@ -484,6 +454,36 @@
 ## 辽宁科技大学
 
 ~~【报名截止：5.17】[辽宁科技大学-深圳职业技术大学研究生联合培养](https://www.ustl.edu.cn/yjs/info/1030/3007.htm)~~
+
+## 复旦大学
+
+> ~~[复旦大学夏令营信息](https://gsao.fudan.edu.cn/3f/02/c15014a671490/page.htm)~~
+
+~~【报名截止：5.31 17:00】[类脑智能科学与技术研究院](https://istbi.fudan.edu.cn/info/1167/5380.htm)~~
+
+~~【报名截止：5.31 17:00】[大数据学院](https://sds.fudan.edu.cn/3f/31/c17701a671537/page.htm)~~
+
+~~【报名截止：5.31 17:00】[计算机科学技术学院](https://cs.fudan.edu.cn/3f/7d/c24257a671613/page.htm)~~
+
+~~【报名截止：5.31 17:00】[工程与应用技术研究院](https://faet.fudan.edu.cn/3f/67/c23815a671591/page.htm)~~
+
+~~【报名截止：5.31 17:00】[微电子学院](https://sme.fudan.edu.cn/3f/5f/c29363a671583/page.htm)~~
+
+~~【报名截止：5.31 17:00】[信息科学与工程学院](http://www.it.fudan.edu.cn/Data/View/4616)~~
+
+~~【报名截止：5.31 17:00】[信息科学与工程学院通信科学与工程系](https://mp.weixin.qq.com/s/kx8vWdsMV51w1X4HZpfKoA)~~
+
+~~【报名截止：5.31 17:00】[信息科学与工程学院光科学与工程系](https://mp.weixin.qq.com/s/YPTF899bD9-rqH8ceppJyQ)~~
+
+~~【报名截止：5.31 17:00】[信息科学与工程学院电子工程系](https://mp.weixin.qq.com/s/s6KvHab_py821ozP9-6rzw)~~
+
+~~【报名截止：5.31 17:00】[智能复杂体系基础理论与关键技术实验室](https://iics.fudan.edu.cn/40/ee/c43157a671982/page.htm)~~
+
+~~【报名截止：5.31 17:00】[智能医学研究院](https://imi.fudan.edu.cn/info/1033/1553.htm)~~
+
+~~【报名截止：5.31 17:00】[数字医学研究中心](https://miccai.fudan.edu.cn/41/4b/c34228a672075/page.htm)~~
+
+~~【报名截止：5.31 17:00】[微纳系统中心](http://cmns.fudan.edu.cn/Data/View/346)~~
 
 # CSWinterCamp2024
 
