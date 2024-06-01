@@ -295,9 +295,9 @@
 
 ## 西湖大学
 
-【报名截止：5.31 12:00】[暑期科研实习](https://www.westlake.edu.cn/admissions_aid/shorttermprograms/tzgg/202404/t20240418_39507.shtml)
-
 【报名截止：6.10 12:00】[工学院2024年夏令营](https://westlake.edu.cn/admissions_aid/shorttermprograms/tzgg/202404/t20240410_39140.shtml)
+
+~~【报名截止：5.31 12:00】[暑期科研实习](https://www.westlake.edu.cn/admissions_aid/shorttermprograms/tzgg/202404/t20240418_39507.shtml)~~
 
 ## 中国科学院
 
@@ -436,7 +436,7 @@
 
 ## 香港大学
 
-【报名截止：5.31】 [HKU CS Research Internship Programme](https://www.cs.hku.hk/rintern/)
+~~【报名截止：5.31】 [HKU CS Research Internship Programme](https://www.cs.hku.hk/rintern/)~~
 
 ~~【报名截止：5.1】[HKU CS Early Recruitment Scheme for M.Phil. and Ph.D.](https://i.cs.hku.hk/~gradappl/index.html)~~
 
