@@ -434,7 +434,15 @@
 
 ## 南京师范大学
 
+> [南京师范大学夏令营信息](https://yz.njnu.edu.cn/homepage_display.jsp?wid=null&wid2=14D794593A67E337E06002DF3E094F07)
+
 【报名截止：6.15】[计算机与电子信息学院/人工智能学院](http://ceai.njnu.edu.cn/Item/Show.asp?m=1&d=19264)
+
+【报名截止：6.15】[南瑞电气与自动化学院](https://eae.njnu.edu.cn/info/1044/5723.htm)
+
+## 华中农业大学
+
+> [华中农业大学夏令营信息](https://yjs.hzau.edu.cn/info/1189/10035.htm)
 
 ## 香港中文大学
 
