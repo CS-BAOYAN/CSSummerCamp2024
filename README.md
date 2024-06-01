@@ -245,6 +245,12 @@
 
 【报名截止：6.24】[人工智能学院](https://sai.sysu.edu.cn/notice/1415979.htm)
 
+【报名截止：6.20】[电子与通信工程学院](https://sece.sysu.edu.cn/zs/zs01/1415996.htm)
+
+## 北京邮电大学
+
+【报名截止：7.31】[电子工程学院](https://see.bupt.edu.cn/info/1047/2741.htm)
+
 ## 吉林大学
 
 【报名截止：6.7】[计算机科学与技术学院](https://ccst.jlu.edu.cn/info/1091/19265.htm)
@@ -317,6 +323,8 @@
 
 【报名截止：6.30】[深圳先进技术研究院](https://siat.cas.cn/yjsjy2016/zsjs2016/202405/t20240527_7173055.html)
 
+【报名截止：6.30】[沈阳自动化研究所](http://www.sia.cas.cn/zpjy/yjsjy/zs/zsgg/202405/t20240531_7176928.html)
+
 ~~【报名截止：5.10】[空天信息创新研究院（空天院）](https://mp.weixin.qq.com/s/_7VnrPleopF3mbUJcMqi7A)~~
 
 ~~【报名截止：4.17】[数学与系统科学研究院](http://www.amss.cas.cn/yjsjy/zxxx/202403/t20240327_6966567.html)~~
@@ -333,7 +341,7 @@
 
 【报名截止：7.1】[集成电路学院](https://sme.ucas.ac.cn/index.php/zh-cn/zsjy/sszs/512-2024-6)
 
-【报名截止：暂无】[杭州高等研究院](http://hias.ucas.ac.cn/info/1100/5633.htm)
+【报名截止：6.16】[杭州高等研究院](http://hias.ucas.ac.cn/znkxyjs/info/1055/1722.htm)
 
 ## 中国科学技术大学
 > [中国科学技术大学夏令营信息](https://xly.ustc.edu.cn/news.php?newsid=981)
