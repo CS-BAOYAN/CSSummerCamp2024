@@ -167,9 +167,7 @@
 
 【报名截止：6.27】[浙江大学伊利诺伊大学厄巴纳香槟校区联合学院](https://zjui.intl.zju.edu.cn/node/2616)
 
-【报名截止：N/A】[良渚实验室](https://mp.weixin.qq.com/s/Gs3k5hUXWtsFQ872NchURA)
-
-> 请关注[良渚实验室官方网站](http://liangzhulab.zju.edu.cn/)，后续报名网址、报名材料及招生导师信息将于网站通知公告及人才培养栏目发布
+【报名截止：6.16】[良渚实验室](http://liangzhulab.zju.edu.cn/index.php?c=index&a=show&catid=249&id=1534)
 
 ## 武汉大学
 
@@ -248,6 +246,8 @@
 【报名截止：6.24】[人工智能学院](https://sai.sysu.edu.cn/notice/1415979.htm)
 
 【报名截止：6.20】[电子与通信工程学院](https://sece.sysu.edu.cn/zs/zs01/1415996.htm)
+
+【报名截止：6.21】[网络空间安全学院](https://scst.sysu.edu.cn/rc/rc02/1416009.htm)
 
 ## 北京邮电大学
 
