@@ -28,6 +28,8 @@
 
 【报名截止：6.16】 [深圳国际研究生院数据与信息研究院集成电路与系统](https://www.sigs.tsinghua.edu.cn/2024/0524/c120a94577/page.htm)
 
+【报名截止：6.11】 [深圳国际研究生院生物医药与健康工程研究院](https://mp.weixin.qq.com/s?__biz=MzkxNTIyMTY2OQ==&mid=2247495446&idx=1&sn=9bd1b954069a08e01571021748db46af&chksm=c160d2dcf6175bca3eab99f2053340c5961125f62eeb517af00aa85406e621e08f3d11d5971f&scene=21#wechat_redirect)
+
 【报名截止：6.20】 [深圳国际研究生院数据与信息研究院管理科学与工程、物流工程与管理项目](https://mp.weixin.qq.com/s/6dOfx45eWHuDDBPulj6hew)
 
 【报名截止：6.13】 [国际开放创新教育中心（Open FIESTA）](https://www.sigs.tsinghua.edu.cn/2024/0520/c120a94480/page.htm)
