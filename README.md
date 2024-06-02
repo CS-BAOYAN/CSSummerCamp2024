@@ -197,6 +197,8 @@
 
 【报名截止：7.9】[人工智能学院](https://mp.weixin.qq.com/s/Z02xlYAM-CYAud4zunRdBw)
 
+【6月25日】[北京师范大学地理科学学部](https://geo.bnu.edu.cn/tzgg/103ee34a3c3045539ec2649757ac0324.html)
+
 ## 中国人民大学
 
 【报名截止：N/A】[高瓴人工智能学院AI-Engine实验室](https://mp.weixin.qq.com/s/0BFY6nHouLgSGd5cOizIIg)
@@ -260,6 +262,10 @@
 【报名截止：6.7】[计算机科学与技术学院](https://ccst.jlu.edu.cn/info/1091/19265.htm)
 
 【报名截止：6.10 8：00】[软件学院](https://csw.jlu.edu.cn/info/1156/7193.htm)
+
+【6月20日】[吉林大学人工智能学院](http://sai.jlu.edu.cn/info/1065/4700.htm)
+
+
 
 ## 华东师范大学
 
