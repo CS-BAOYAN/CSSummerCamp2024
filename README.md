@@ -94,10 +94,6 @@
 
 ## 上海交通大学
 
-~~【报名截止：4.15】[密西根学院2024年“科研见习项目”](https://www.ji.sjtu.edu.cn/cn/prospective-students-zh/2024-04-03/144784/)~~
-
-> 上海交通大学密西根学院2025年硕士博士研究生招生宣讲会：https://mp.weixin.qq.com/s/nsryaLGDHw-aFhRHTDD9mg
-
 【报名截止：6.15】[生物医学工程学院（含Med-X研究院）](https://bme.sjtu.edu.cn/Web/Show/3455)
 
 【报名截止：N/A】[人工智能与微结构实验室](https://mp.weixin.qq.com/s/X9LZhlXfM1L2aOIoys3sNQ)
@@ -108,6 +104,10 @@
 
 【报名截止：6.20】 [电子信息与电气工程学院](https://www.seiee.sjtu.edu.cn/via/yjspy_zsgz_sszs/10117.html)
 > 2025级电院研究生“优秀生源”活动面向校内外学生选拔，具体依托电气工程系、自动化系、计算机科学与工程系、集成电路学院（电子工程系和微纳电子学系）、感知科学与工程学院、软件学院、网络空间安全学院等单位开展，涵盖电院全部研究生专业（含联培基地、工程硕博士培养改革专项注1、集成电路专项注2），具体以当年招生政策为准。
+
+~~【报名截止：4.15】[密西根学院2024年“科研见习项目”](https://www.ji.sjtu.edu.cn/cn/prospective-students-zh/2024-04-03/144784/)~~
+
+> 上海交通大学密西根学院2025年硕士博士研究生招生宣讲会：https://mp.weixin.qq.com/s/nsryaLGDHw-aFhRHTDD9mg
 
 ## 上海人工智能实验室（浦江实验室PJLAB）
 
@@ -139,9 +139,9 @@
 
 【报名截止：6.18】[南大NLP夏令营](https://mp.weixin.qq.com/s/jWJiq2E2gHha_K9ryWg2sA)
 
-【报名截止：7.15】[匡亚明学院](https://dii.nju.edu.cn/89/f5/c15501a690677/page.htm)
-
 > * 注意：该夏令营与计算机系以及人工智能学院的推免夏令营无关。
+
+【报名截止：7.15】[匡亚明学院](https://dii.nju.edu.cn/89/f5/c15501a690677/page.htm)
 
 ~~【报名截止：5.25】[软件所本科生开放日招生说明](https://ics.nju.edu.cn/recruit/index.html)~~
 
