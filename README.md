@@ -295,10 +295,6 @@
 
 > 北京脑所现与国内五所著名高校联合招生，分别是北京大学、北京协和医学院、北京师范大学、中国农业大学和首都医科大学，本年度的夏令营主要招收有意愿报考北京大学、协和医学院、中国农业大学和首都医科大学的推免本科生。
 
-## 昌平实验室
-
-【报名截止：6.1】[昌平实验室](https://www.cpl.ac.cn/join_us/education/4028c1f18ec4727b018ec733a2ee0005.shtml)
-
 ## 深圳医学科学院
 
 【报名截止：6.27】[SMART-SZBL](https://mp.weixin.qq.com/s/0R-mbkijxFkc9iyy5CvrrA)
@@ -479,6 +475,10 @@
 ## 香港中文大学（深圳）
 
 ~~【报名截止：3.10-3.31,4.1-4.30】[数据科学学院夏令营Mini Camp](https://sds.cuhk.edu.cn/article/1635)~~
+
+## 昌平实验室
+
+~~【报名截止：6.1】[昌平实验室](https://www.cpl.ac.cn/join_us/education/4028c1f18ec4727b018ec733a2ee0005.shtml)~~
 
 ## 湖南工商大学
 
