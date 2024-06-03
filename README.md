@@ -381,6 +381,8 @@
 
 【报名截止：6.30】[科学岛夏令营（研究生院科学岛分院、环光学院）](https://xly.ustc.edu.cn/news.php?newsid=1003)
 
+【报名截止：6.30】[集成电路科技夏令营（微电子学院）](https://sme.ustc.edu.cn/2024/0603/c31027a642813/page.htm)
+
 【报名截止：N/A】[东方理工专项-本科直博招生夏令营](https://www.eitech.edu.cn/?admission=%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%A4%A7%E5%AD%A6%EF%BC%88%E4%B8%9C%E6%96%B9%E7%90%86%E5%B7%A5%E4%B8%93%E9%A1%B9%EF%BC%892025%E7%BA%A7%E6%9C%AC%E7%A7%91%E7%9B%B4%E5%8D%9A)
 
 > 具体申请资格、申请材料、申报截止时间及夏令营安排以拟报考的中国科大各院系通知或公告为准，详见： https://xly.ustc.edu.cn/
