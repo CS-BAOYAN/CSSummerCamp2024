@@ -177,6 +177,8 @@
 
 【报名截止：6.18】[信息管理学院](https://sim.whu.edu.cn/info/1776/97752.htm)
 
+【报名截止：6.23】[武汉大学测绘遥感信息工程国家重点实验室](https://liesmars.whu.edu.cn/info/1058/16203.htm)
+
 ## 南开大学
 
 【报名截止：6.12】[电子信息与光学工程学院](https://ceo.nankai.edu.cn/info/1099/4101.htm)
@@ -196,6 +198,10 @@
 【报名截止：N/A】[高瓴人工智能学院AI-Engine实验室](https://mp.weixin.qq.com/s/0BFY6nHouLgSGd5cOizIIg)
 
 【报名截止：6.13 12:00】[高瓴人工智能学院2024年暑期研学营](http://ai.ruc.edu.cn/newslist/notice/20240603001.html)
+
+【报名截止：6.14】[中国人民大学信息学院](http://info.ruc.edu.cn/rcpy/bss/zsxx3/a945da71ead24051af090a695d0598b7.htm)
+
+
 
 ## 哈尔滨工业大学
 
@@ -222,6 +228,8 @@
 【报名截止：6.5-6.25】[软件学院](http://se.xjtu.edu.cn/info/1043/2679.htm)
 
 【报名截止：6.10】[计算机科学与技术学院](http://www.cs.xjtu.edu.cn/info/1233/3380.htm)
+
+【报名截止：6.13】[西安交通大学网络空间安全学院](http://cybersec.xjtu.edu.cn/info/1017/1932.htm)
 
 【报名截止：7.1】[前沿科学技术研究院](https://fist.xjtu.edu.cn/info/1013/4052.htm)
 
@@ -392,6 +400,10 @@
 ## 山东大学
 
 【报名截止：6.11】[数学国家高层次人才培养中心](https://www.math.sdu.edu.cn/info/1031/19849.htm)
+
+## 天津大学
+
+【报名截止：6.19】[天津大学新媒体与传播学院](http://snmc.tju.edu.cn/info/1120/2163.htm)
 
 ## 中南大学
 
