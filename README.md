@@ -269,6 +269,8 @@
 
 【报名截止：6.20】[吉林大学人工智能学院](http://sai.jlu.edu.cn/info/1065/4700.htm)
 
+【报名截止：6.16】[电子科学与工程学院](https://ee.jlu.edu.cn/info/1038/8482.htm)
+
 ## 华东师范大学
 
 > [华东师范大学夏令营信息](https://yjszs.ecnu.edu.cn/15/a2/c43265a595362/page.htm)
