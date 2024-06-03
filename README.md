@@ -267,8 +267,6 @@
 
 【报名截止：6.20】[吉林大学人工智能学院](http://sai.jlu.edu.cn/info/1065/4700.htm)
 
-
-
 ## 华东师范大学
 
 > [华东师范大学夏令营信息](https://yjszs.ecnu.edu.cn/15/a2/c43265a595362/page.htm)
@@ -298,6 +296,10 @@
 【报名截止：6.11】[北京脑科学与类脑研究所](https://mp.weixin.qq.com/s/L_hylpIfdytHHX34y6qP_w)
 
 > 北京脑所现与国内五所著名高校联合招生，分别是北京大学、北京协和医学院、北京师范大学、中国农业大学和首都医科大学，本年度的夏令营主要招收有意愿报考北京大学、协和医学院、中国农业大学和首都医科大学的推免本科生。
+
+## 北京计算科学研究中心
+
+【报名截止：6.30】[北京计算科学研究中心](https://www.csrc.ac.cn/en/event/schools/2024-05-29/109.html)
 
 ## 深圳医学科学院
 
@@ -371,6 +373,12 @@
 
 【报名截止：6.30】[科学岛夏令营（研究生院科学岛分院、环光学院）](https://xly.ustc.edu.cn/news.php?newsid=1003)
 
+【报名截止：N/A】[东方理工专项-本科直博招生夏令营](https://www.eitech.edu.cn/?admission=%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%A4%A7%E5%AD%A6%EF%BC%88%E4%B8%9C%E6%96%B9%E7%90%86%E5%B7%A5%E4%B8%93%E9%A1%B9%EF%BC%892025%E7%BA%A7%E6%9C%AC%E7%A7%91%E7%9B%B4%E5%8D%9A)
+
+> 具体申请资格、申请材料、申报截止时间及夏令营安排以拟报考的中国科大各院系通知或公告为准，详见： https://xly.ustc.edu.cn/
+>
+> 报名前请先联系东方理工导师，沟通招生意愿，东方理工导师详见：https://www.eitech.edu.cn/?teachers_category=teachers-list
+
 ## 山东大学
 
 【报名截止：6.11】[数学国家高层次人才培养中心](https://www.math.sdu.edu.cn/info/1031/19849.htm)
@@ -392,7 +400,6 @@
 【报名截止：6.14】[机器人学院](http://robotics.hnu.edu.cn/info/1074/2648.htm)  
 
 【报名截止：6.14】[物理与微电子学院](https://spe.hnu.edu.cn/info/1083/8776.htm)  
-
 
 ## 南方科技大学
 
@@ -437,6 +444,12 @@
 ## 河南工业大学
 
 【报名截止：6.5】[复杂性科学中心](https://cs.haut.edu.cn/info/1421/5974.htm)
+
+## 广东工业大学
+
+【报名截止：6.19】[信息工程学院](https://xxgcxy.gdut.edu.cn/info/1210/8240.htm)
+
+【报名截止：6.18】[集成电路学院](https://sme.gdut.edu.cn/info/1178/3965.htm)
 
 ## 南京师范大学
 
