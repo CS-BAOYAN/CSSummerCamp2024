@@ -213,6 +213,8 @@
 
 ## 西安交通大学
 
+> [西安交通大学电子信息学部夏令营通知](http://eiegrad.xjtu.edu.cn/info/1013/3457.htm)
+
 【报名截止：6.5】[电子科学与工程学院](http://esteie.xjtu.edu.cn/info/1051/2763.htm)
 
 【报名截止：6.5-6.25】[软件学院](http://se.xjtu.edu.cn/info/1043/2679.htm)
@@ -464,6 +466,10 @@
 ## 华中农业大学
 
 > [华中农业大学夏令营信息](https://yjs.hzau.edu.cn/info/1189/10035.htm)
+
+## 湖北文理学院
+
+【报名截止：6.26】[电子信息硕士](http://jsjxy.hbuas.edu.cn/info/1070/5361.htm)
 
 ## 香港中文大学
 
