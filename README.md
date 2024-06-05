@@ -122,6 +122,8 @@
 
 【报名截止：N/A】[OpenDriveLab浦驾团队（自动驾驶、通用人工智能及具身智能）联培博士(2025)招生](https://mp.weixin.qq.com/s/Ov4pcDeLspTgWiKorEQeRg)
 
+【报名截止：N/A】[OpenGVLab通用视觉团队（人工智能多模态大模型研究）联培博士(2025)招生](https://zhuanlan.zhihu.com/p/692930057)
+
 【报名截止：N/A】[AI for Science团队（物理、化学、生命、地球等科学领域）联培博士(2025)招生](https://zhuanlan.zhihu.com/p/697143065)
 
 ## 南京大学
