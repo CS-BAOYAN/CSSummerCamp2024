@@ -324,6 +324,8 @@
 
 【报名截止：6.20】[基础与前沿研究院](https://www.iffs.uestc.edu.cn/info/1049/4761.htm)
 
+【报名截止：6.24 9:00】[信息与软件工程学院](https://sise.uestc.edu.cn/info/1026/12435.htm)
+
 ## 西湖大学
 
 【报名截止：6.10 12:00】[工学院2024年夏令营](https://westlake.edu.cn/admissions_aid/shorttermprograms/tzgg/202404/t20240410_39140.shtml)
