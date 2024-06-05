@@ -202,7 +202,9 @@
 
 【报名截止：6.14】[中国人民大学信息学院](http://info.ruc.edu.cn/rcpy/bss/zsxx3/a945da71ead24051af090a695d0598b7.htm)
 
+## 北京理工大学
 
+>[北京理工大学2024年博士研究生专项计划招生简章](https://grd.bit.edu.cn/zsgz/bsyjs/gzzd/7855bde08a0e40ff99fca06a5c2b1b8c.htm)
 
 ## 哈尔滨工业大学
 
