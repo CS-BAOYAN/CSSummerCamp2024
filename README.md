@@ -79,13 +79,13 @@
 
 【报名截止：6.11】[集成电路学院](https://ic.pku.edu.cn/rcpy/yjszs/adaf04020bfb49b7951e096515d76a58.htm)
 
-【报名截止：6.4】[电子学院](https://ele.pku.edu.cn/info/1063/3071.htm)
-
 【报名截止：6.12】[生命科学学院和生命科学联合中心（北大方面）](http://web.bio.pku.edu.cn/homes/Index/news_cont/21/17077.html)
 
 > 不限于生物学及医学相关专业。欢迎其它理学或者工学专业（如数学、物理、化学、工程、心理、信息、计算机等）对生命科学有着强烈兴趣和科研创造力的申请者。
 
 【报名截止：6.24】[深圳研究院信息工程学院](https://www.ece.pku.edu.cn/info/1027/2770.htm)
+
+~~【报名截止：6.4】[电子学院](https://ele.pku.edu.cn/info/1063/3071.htm)~~
 
 ~~【报名截止：4.24】[统计科学中心](https://mp.weixin.qq.com/s/NgoAJ6VF6xEAoNqXehJDDg)~~
 
@@ -158,8 +158,6 @@
 
 > [浙江大学夏令营信息](http://www.grs.zju.edu.cn/yjszs/2024/0523/c28498a2921525/page.htm)
 
-【报名截止：6.3】[脑科学与脑医学学院](http://www.neuroscience.zju.edu.cn/2024/0416/c75666a2902185/page.htm)
-
 【报名截止：6.15】[信息与电子工程学院](http://www.isee.zju.edu.cn/2024/0517/c21109a2918416/page.htm)
 
 【报名截止：6.20】[国际联合商学院-数据科学与工程项目](https://zibs.zju.edu.cn/article/summer-camp-2024.html)
@@ -175,6 +173,8 @@
 【报名截止：6.27】[浙江大学伊利诺伊大学厄巴纳香槟校区联合学院](https://zjui.intl.zju.edu.cn/node/2616)
 
 【报名截止：6.16】[良渚实验室](http://liangzhulab.zju.edu.cn/index.php?c=index&a=show&catid=249&id=1534)
+
+~~【报名截止：6.3】[脑科学与脑医学学院](http://www.neuroscience.zju.edu.cn/2024/0416/c75666a2902185/page.htm)~~
 
 ## 武汉大学
 
@@ -230,9 +230,7 @@
 
 > [西安交通大学电子信息学部夏令营通知](http://eiegrad.xjtu.edu.cn/info/1013/3457.htm)
 
-【报名截止：6.5】[电子科学与工程学院](http://esteie.xjtu.edu.cn/info/1051/2763.htm)
-
-【报名截止：6.5-6.25】[软件学院](http://se.xjtu.edu.cn/info/1043/2679.htm)
+【报名截止：6.25】[软件学院](http://se.xjtu.edu.cn/info/1043/2679.htm)
 
 【报名截止：6.10】[计算机科学与技术学院](http://www.cs.xjtu.edu.cn/info/1233/3380.htm)
 
@@ -243,6 +241,8 @@
 【报名截止：6.12】[微电子学院](https://ele.xjtu.edu.cn/info/1013/2391.htm)
 
 【报名截止：6.10】[自动化学院](https://automation.xjtu.edu.cn/info/1009/2091.htm)
+
+~~【报名截止：6.5】[电子科学与工程学院](http://esteie.xjtu.edu.cn/info/1051/2763.htm)~~
 
 ## 同济大学
 
@@ -482,10 +482,6 @@
 
 【报名截止：6.20】[人工智能学院](https://ai.ahu.edu.cn/2024/0517/c19134a340323/page.htm)
 
-## 河南工业大学
-
-【报名截止：6.5】[复杂性科学中心](https://cs.haut.edu.cn/info/1421/5974.htm)
-
 ## 广东工业大学
 
 【报名截止：6.19】[信息工程学院](https://xxgcxy.gdut.edu.cn/info/1210/8240.htm)
@@ -515,6 +511,10 @@
 【报名截止：6.14】[工程学院系统工程与工程管理系（SEEM）博士生夏令营](https://mp.weixin.qq.com/s/GKvRFOTSyl48H4QhNza2uQ)
 
 【报名截止：6.10】[港中大（深圳）理工学院-本科生科研实践夏令营](https://mp.weixin.qq.com/s/BfEz1DRxRoDTAaTtka9czQ)
+
+## 河南工业大学
+
+~~【报名截止：6.5】[复杂性科学中心](https://cs.haut.edu.cn/info/1421/5974.htm)~~
 
 ## 香港大学
 
