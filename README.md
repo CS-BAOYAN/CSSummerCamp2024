@@ -188,6 +188,22 @@
 
 【报名截止：6.26】[人工智能学院](https://ai.nankai.edu.cn/info/1024/5850.htm)
 
+## 中国人民大学
+
+【报名截止：N/A】[高瓴人工智能学院AI-Engine实验室](https://mp.weixin.qq.com/s/0BFY6nHouLgSGd5cOizIIg)
+
+【报名截止：6.13 12:00】[高瓴人工智能学院2024年暑期研学营](http://ai.ruc.edu.cn/newslist/notice/20240603001.html)
+
+【报名截止：6.14】[中国人民大学信息学院](http://info.ruc.edu.cn/rcpy/bss/zsxx3/a945da71ead24051af090a695d0598b7.htm)
+
+## 北京邮电大学
+
+【报名截止：7.31】[电子工程学院](https://see.bupt.edu.cn/info/1047/2741.htm)
+
+## 北京理工大学
+
+>[北京理工大学2024年博士研究生专项计划招生简章](https://grd.bit.edu.cn/zsgz/bsyjs/gzzd/7855bde08a0e40ff99fca06a5c2b1b8c.htm)
+
 ## 北京航空航天大学
 
 > [北京航空航天大学夏令营信息](https://yzb.buaa.edu.cn/info/1036/3101.htm)
@@ -197,18 +213,6 @@
 【报名截止：7.9】[人工智能学院](https://mp.weixin.qq.com/s/Z02xlYAM-CYAud4zunRdBw)
 
 【报名截止：7.9】[地理科学学部-"遥感科学与技术&地图学与地理信息系统"](https://geo.bnu.edu.cn/tzgg/103ee34a3c3045539ec2649757ac0324.html)
-
-## 中国人民大学
-
-【报名截止：N/A】[高瓴人工智能学院AI-Engine实验室](https://mp.weixin.qq.com/s/0BFY6nHouLgSGd5cOizIIg)
-
-【报名截止：6.13 12:00】[高瓴人工智能学院2024年暑期研学营](http://ai.ruc.edu.cn/newslist/notice/20240603001.html)
-
-【报名截止：6.14】[中国人民大学信息学院](http://info.ruc.edu.cn/rcpy/bss/zsxx3/a945da71ead24051af090a695d0598b7.htm)
-
-## 北京理工大学
-
->[北京理工大学2024年博士研究生专项计划招生简章](https://grd.bit.edu.cn/zsgz/bsyjs/gzzd/7855bde08a0e40ff99fca06a5c2b1b8c.htm)
 
 ## 哈尔滨工业大学
 
@@ -274,9 +278,17 @@
 
 【报名截止：6.21】[网络空间安全学院](https://scst.sysu.edu.cn/rc/rc02/1416009.htm)
 
-## 北京邮电大学
+## 天津大学
 
-【报名截止：7.31】[电子工程学院](https://see.bupt.edu.cn/info/1047/2741.htm)
+>[天津大学夏令营信息](https://yzb.tju.edu.cn/xwzx/zxxx/202406/t20240605_323809.htm)
+
+【报名截止：6.19】[天津大学新媒体与传播学院](http://snmc.tju.edu.cn/info/1120/2163.htm)
+
+【报名截止：6.19】[智能与计算学部](https://cic.tju.edu.cn/info/1041/4968.htm)
+
+【报名截止：6.19】[微电子学院](https://sme.tju.edu.cn/info/1095/2915.htm)
+
+【报名截止：6.19】[佐治亚理工深圳学院](https://www.gtsi.edu.cn/node/4325)
 
 ## 吉林大学
 
@@ -302,31 +314,9 @@
 
 【报名截止：6.16】[临港实验室](https://mp.weixin.qq.com/s/F6B8S1IZJaLKCnvFqKcypA)
 
-## 华东理工大学
-
-> [华东理工大学夏令营信息](https://gschool.ecust.edu.cn/2024/0524/c12754a167858/page.htm)
-
-【报名截止：6.20】[信息科学与工程学院](https://cise.ecust.edu.cn/2024/0529/c7692a168034/page.htm)
-
-## 北京语言大学
-
-> [北京语言大学夏令营信息](https://yjsy.blcu.edu.cn/art/2024/5/17/art_13223_1170150.html)
-
-## 北京脑科学与类脑研究所
-
-【报名截止：6.11】[北京脑科学与类脑研究所](https://mp.weixin.qq.com/s/L_hylpIfdytHHX34y6qP_w)
-
-> 北京脑所现与国内五所著名高校联合招生，分别是北京大学、北京协和医学院、北京师范大学、中国农业大学和首都医科大学，本年度的夏令营主要招收有意愿报考北京大学、协和医学院、中国农业大学和首都医科大学的推免本科生。
-
-## 北京计算科学研究中心
-
-【报名截止：6.30】[北京计算科学研究中心](https://www.csrc.ac.cn/en/event/schools/2024-05-29/109.html)
-
-## 深圳医学科学院
-
-【报名截止：6.27】[SMART-SZBL](https://mp.weixin.qq.com/s/0R-mbkijxFkc9iyy5CvrrA)
-
 ## 电子科技大学
+
+> [电子科技大学夏令营信息](https://yz.uestc.edu.cn/info/1064/5074.htm)
 
 【报名截止：6.20】[基础与前沿研究院](https://www.iffs.uestc.edu.cn/info/1049/4761.htm)
 
@@ -410,21 +400,27 @@
 >
 > 报名前请先联系东方理工导师，沟通招生意愿，东方理工导师详见：https://www.eitech.edu.cn/?teachers_category=teachers-list
 
+## 北京语言大学
+
+> [北京语言大学夏令营信息](https://yjsy.blcu.edu.cn/art/2024/5/17/art_13223_1170150.html)
+
+## 北京脑科学与类脑研究所
+
+【报名截止：6.11】[北京脑科学与类脑研究所](https://mp.weixin.qq.com/s/L_hylpIfdytHHX34y6qP_w)
+
+> 北京脑所现与国内五所著名高校联合招生，分别是北京大学、北京协和医学院、北京师范大学、中国农业大学和首都医科大学，本年度的夏令营主要招收有意愿报考北京大学、协和医学院、中国农业大学和首都医科大学的推免本科生。
+
+## 北京计算科学研究中心
+
+【报名截止：6.30】[北京计算科学研究中心](https://www.csrc.ac.cn/en/event/schools/2024-05-29/109.html)
+
+## 深圳医学科学院
+
+【报名截止：6.27】[SMART-SZBL](https://mp.weixin.qq.com/s/0R-mbkijxFkc9iyy5CvrrA)
+
 ## 山东大学
 
 【报名截止：6.11】[数学国家高层次人才培养中心](https://www.math.sdu.edu.cn/info/1031/19849.htm)
-
-## 天津大学
-
->[天津大学夏令营信息](https://yzb.tju.edu.cn/xwzx/zxxx/202406/t20240605_323809.htm)
-
-【报名截止：6.19】[天津大学新媒体与传播学院](http://snmc.tju.edu.cn/info/1120/2163.htm)
-
-【报名截止：6.19】[智能与计算学部](https://cic.tju.edu.cn/info/1041/4968.htm)
-
-【报名截止：6.19】[微电子学院](https://sme.tju.edu.cn/info/1095/2915.htm)
-
-【报名截止：6.19】[佐治亚理工深圳学院](https://www.gtsi.edu.cn/node/4325)
 
 ## 中南大学
 
@@ -434,7 +430,13 @@
 
 【报名截止：6.12】[大数据研究院](https://bdi.csu.edu.cn/info/1063/3325.htm)  
 
-【报名截止：6.12】[计算机学院](https://cse.csu.edu.cn/info/1040/9622.htm)  
+【报名截止：6.12】[计算机学院](https://cse.csu.edu.cn/info/1040/9622.htm) 
+
+## 华东理工大学
+
+> [华东理工大学夏令营信息](https://gschool.ecust.edu.cn/2024/0524/c12754a167858/page.htm)
+
+【报名截止：6.20】[信息科学与工程学院](https://cise.ecust.edu.cn/2024/0529/c7692a168034/page.htm)
 
 ## 湖南大学
 
