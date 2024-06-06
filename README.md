@@ -226,6 +226,8 @@
 
 【报名截止：6.7】[机电工程与自动化学院（深圳）](http://smea.hitsz.edu.cn/info/1014/2462.htm)
 
+【报名截止：6.20】[哈工大SCIR（哈工大赛尔实验室）](https://mp.weixin.qq.com/s/tMZhgGdGZkoTz7q1mLDfFw)
+
 ~~【报名截止：5.30】[机电工程学院](https://sme.hit.edu.cn/2024/0507/c17968a344034/page.htm)~~
 
 ~~【报名截止：5.30】[计算学部](https://cs.hit.edu.cn/2024/0510/c11474a344345/pagem.htm)~~
