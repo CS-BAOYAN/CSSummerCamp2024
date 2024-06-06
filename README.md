@@ -388,6 +388,8 @@
 
 【报名截止：6.25】[计算机科学夏令营（计算机科学与技术学院）](https://xly.ustc.edu.cn/news.php?newsid=1004)
 
+【报名截止：6.30】[人工智能与数据科学夏令营](https://m.xly.ustc.edu.cn/news.php?newsid=1023)
+
 【报名截止：6.26】[生命医学夏令营（生命科学与医学部）](https://xly.ustc.edu.cn/news.php?newsid=1001)
 
 【报名截止：6.30】[信息科技夏令营（信息科学技术学院）](https://xly.ustc.edu.cn/news.php?newsid=1013)
@@ -414,7 +416,15 @@
 
 ## 天津大学
 
+>[天津大学夏令营信息](https://yzb.tju.edu.cn/xwzx/zxxx/202406/t20240605_323809.htm)
+
 【报名截止：6.19】[天津大学新媒体与传播学院](http://snmc.tju.edu.cn/info/1120/2163.htm)
+
+【报名截止：6.19】[智能与计算学部](https://cic.tju.edu.cn/info/1041/4968.htm)
+
+【报名截止：6.19】[微电子学院](https://sme.tju.edu.cn/info/1095/2915.htm)
+
+【报名截止：6.19】[佐治亚理工深圳学院](https://www.gtsi.edu.cn/node/4325)
 
 ## 中南大学
 
@@ -423,6 +433,8 @@
 【报名截止：6.12】[自动化学院](https://soa.csu.edu.cn/info/1032/7957.htm)  
 
 【报名截止：6.12】[大数据研究院](https://bdi.csu.edu.cn/info/1063/3325.htm)  
+
+【报名截止：6.12】[计算机学院](https://cse.csu.edu.cn/info/1040/9622.htm)  
 
 ## 湖南大学
 
@@ -441,6 +453,10 @@
 ## 西北农林科技大学
 
 > [西北农林科技大学夏令营信息](https://yz.nwsuaf.edu.cn/tzgg/5389c7be78ee4f49a6c9a94b60cab8f3.htm)
+
+## 江南大学
+
+> [江南大学夏令营信息](https://yz.jiangnan.edu.cn/info/1029/3458.htm)
 
 ## 南方科技大学
 
