@@ -292,6 +292,8 @@
 
 【报名截止：6.19】[佐治亚理工深圳学院](https://www.gtsi.edu.cn/node/4325)
 
+【报名截止：6.20】[自动化学院](http://seea.tju.edu.cn/info/1031/4573.htm)
+
 ## 吉林大学
 
 【报名截止：6.7】[计算机科学与技术学院](https://ccst.jlu.edu.cn/info/1091/19265.htm)
@@ -434,6 +436,8 @@
 
 【报名截止：6.12】[计算机学院](https://cse.csu.edu.cn/info/1040/9622.htm) 
 
+【报名截止：6.12】[计算机学院](https://ei.csu.edu.cn/info/1085/1549.htm) 
+
 ## 华东理工大学
 
 > [华东理工大学夏令营信息](https://gschool.ecust.edu.cn/2024/0524/c12754a167858/page.htm)
@@ -485,6 +489,10 @@
 【报名截止：6.30】[临港实验室](https://www.lglab.ac.cn/sylbt/202404/t20240425_212225.html)
 
 【报名截止：6.30】[生物医学工程学院](https://mp.weixin.qq.com/s/QCbT2n5klB_LY0XLUvd-bQ)
+
+## 湘潭大学
+
+【报名截止：6.30】[自动化与电子信息学院](https://aei.xtu.edu.cn/info/1039/3728.htm)
 
 ## 兰州大学
 
