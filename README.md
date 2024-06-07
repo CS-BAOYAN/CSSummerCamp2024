@@ -252,11 +252,12 @@
 
 ## 同济大学
 
-【报名截止：6.7 12:00】[电子与信息工程学院](https://see.tongji.edu.cn/info/1147/12581.htm)
 
 【报名截止：6.11】[软件学院](https://sse.tongji.edu.cn/info/1132/5077.htm)
 
 【报名截止：6.20】[同济大学上海自主智能无人系统科学中心](https://srias.tongji.edu.cn/1e/2d/c17827a335405/page.htm)
+
+~~【报名截止：6.7 12:00】[电子与信息工程学院](https://see.tongji.edu.cn/info/1147/12581.htm)~~
 
 ## 厦门大学
 
@@ -334,7 +335,6 @@
 
 ## 中国科学院
 
-【报名截止：6.7】[计算所能力培养“春闱计划”](http://www.ict.ac.cn/xwgg/tzgg/202406/t20240603_7177750.html)
 
 【报名截止：6.25】[脑科学与智能技术卓越创新中心（神经科学研究所）](https://mp.weixin.qq.com/s/CamcfCmc3jmwMaiS5WVYqA)
 
@@ -353,6 +353,8 @@
 【报名截止：6.30】[深圳先进技术研究院](https://siat.cas.cn/yjsjy2016/zsjs2016/202405/t20240527_7173055.html)
 
 【报名截止：6.30】[沈阳自动化研究所](http://www.sia.cas.cn/zpjy/yjsjy/zs/zsgg/202405/t20240531_7176928.html)
+
+~~【报名截止：6.7】[计算所能力培养“春闱计划”](http://www.ict.ac.cn/xwgg/tzgg/202406/t20240603_7177750.html)~~
 
 ~~【报名截止：5.10】[空天信息创新研究院（空天院）](https://mp.weixin.qq.com/s/_7VnrPleopF3mbUJcMqi7A)~~
 
