@@ -271,6 +271,8 @@
 
 ## 中山大学
 
+【报名截止：6.25 24:00】[计算机学院](https://cse.sysu.edu.cn/content/7106)
+
 【报名截止：6.23】[微电子科学与技术学院](https://mst.sysu.edu.cn/article/997)
 
 【报名截止：6.23】[电子与信息工程学院（微电子学院）](https://seit.sysu.edu.cn/article/2594)
