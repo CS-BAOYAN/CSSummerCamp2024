@@ -184,9 +184,13 @@
 
 ## 南开大学
 
+> [南开大学夏令营通知](https://yzb.nankai.edu.cn/2024/0607/c5508a545190/page.htm)
+
 【报名截止：6.12】[电子信息与光学工程学院](https://ceo.nankai.edu.cn/info/1099/4101.htm)
 
 【报名截止：6.26】[人工智能学院](https://ai.nankai.edu.cn/info/1024/5850.htm)
+
+【报名截止：6.26】[软件学院招收本科生条件](https://cs.nankai.edu.cn/info/1042/3695.htm)
 
 ## 中国人民大学
 
@@ -252,7 +256,6 @@
 
 ## 同济大学
 
-
 【报名截止：6.11】[软件学院](https://sse.tongji.edu.cn/info/1132/5077.htm)
 
 【报名截止：6.20】[同济大学上海自主智能无人系统科学中心](https://srias.tongji.edu.cn/1e/2d/c17827a335405/page.htm)
@@ -307,6 +310,10 @@
 
 【报名截止：6.16】[电子科学与工程学院](https://ee.jlu.edu.cn/info/1038/8482.htm)
 
+## 东北大学
+
+> [东北大学夏令营通知](http://yz.neu.edu.cn/2024/0606/c5932a256581/pagem.htm)
+
 ## 华东师范大学
 
 > [华东师范大学夏令营信息](https://yjszs.ecnu.edu.cn/15/a2/c43265a595362/page.htm)
@@ -336,7 +343,6 @@
 ~~【报名截止：5.31 12:00】[暑期科研实习](https://www.westlake.edu.cn/admissions_aid/shorttermprograms/tzgg/202404/t20240418_39507.shtml)~~
 
 ## 中国科学院
-
 
 【报名截止：6.25】[脑科学与智能技术卓越创新中心（神经科学研究所）](https://mp.weixin.qq.com/s/CamcfCmc3jmwMaiS5WVYqA)
 
@@ -426,9 +432,17 @@
 
 【报名截止：6.27】[SMART-SZBL](https://mp.weixin.qq.com/s/0R-mbkijxFkc9iyy5CvrrA)
 
+## 四川大学
+
+【报名截止：6.19】[网络空间安全学院](https://ccs.scu.edu.cn/info/1026/3708.htm)
+
+【报名截止：6.25】[视觉合成图形图像技术国家级重点实验室](http://vs.scu.edu.cn/info/1052/2066.htm)
+
 ## 山东大学
 
 【报名截止：6.11】[数学国家高层次人才培养中心](https://www.math.sdu.edu.cn/info/1031/19849.htm)
+
+【报名截止：6.30】[机电与信息工程学院](https://ie.wh.sdu.edu.cn/info/1007/14342.htm)
 
 ## 中南大学
 
@@ -447,6 +461,16 @@
 > [华东理工大学夏令营信息](https://gschool.ecust.edu.cn/2024/0524/c12754a167858/page.htm)
 
 【报名截止：6.20】[信息科学与工程学院](https://cise.ecust.edu.cn/2024/0529/c7692a168034/page.htm)
+
+## 首都师范大学
+
+> [首都师范大学夏令营通知](https://grad.cnu.edu.cn/zs1/sszs/ae769d490afd417985b9071c92bf4385.htm)
+
+【报名截止：6.25】[信息工程学院](https://iec.cnu.edu.cn/ggml/tzgg1/add5e8ef506b47b49a8d7f4d0d35e698.htm)
+
+## 中国海洋大学
+
+【报名截止：6.20】[信息科学与工程学部](https://it.ouc.edu.cn/2024/0607/c16066a466732/page.htm)
 
 ## 湖南大学
 
