@@ -286,6 +286,8 @@
 
 【报名截止：6.21】[网络空间安全学院](https://scst.sysu.edu.cn/rc/rc02/1416009.htm)
 
+【报名截止：7.1】[软件工程学院](https://sse.sysu.edu.cn/article/723)
+
 ## 天津大学
 
 >[天津大学夏令营信息](https://yzb.tju.edu.cn/xwzx/zxxx/202406/t20240605_323809.htm)
