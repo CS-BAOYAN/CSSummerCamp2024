@@ -444,6 +444,8 @@
 
 【报名截止：6.11】[数学国家高层次人才培养中心](https://www.math.sdu.edu.cn/info/1031/19849.htm)
 
+【报名截止：6.25】[集成电路学院](https://ic.sdu.edu.cn/info/1036/3559.htm)
+
 【报名截止：6.30】[机电与信息工程学院](https://ie.wh.sdu.edu.cn/info/1007/14342.htm)
 
 ## 中南大学
