@@ -589,7 +589,7 @@
 
 ## 湖北文理学院
 
-【报名截止：6.26】[电子信息硕士](http://jsjxy.hbuas.edu.cn/info/1070/5361.htm)
+【报名截止：6.10】[电子信息硕士](https://jsjxy.hbuas.edu.cn/info/1070/6404.htm)
 
 ## 香港中文大学
 
