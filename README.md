@@ -75,8 +75,6 @@
 
 【报名截止：6.15】[未来技术学院](https://future.pku.edu.cn/xwzk/4ef963c7935645bb822acf89f9d39d87.htm)
 
-【报名截止：6.10 8:30】[工学院](https://www.coe.pku.edu.cn/graduate/notice/12781.html)
-
 【报名截止：6.11】[集成电路学院](https://ic.pku.edu.cn/rcpy/yjszs/adaf04020bfb49b7951e096515d76a58.htm)
 
 【报名截止：6.12】[生命科学学院和生命科学联合中心（北大方面）](http://web.bio.pku.edu.cn/homes/Index/news_cont/21/17077.html)
@@ -92,6 +90,8 @@
 ~~【报名截止：6.3】[计算机学院](https://cs.pku.edu.cn/info/1022/3053.htm)~~
 
 ~~【报名截止：6.3】[智能学院](https://www.cis.pku.edu.cn/info/1034/3018.htm)~~
+
+~~【报名截止：6.10 8:30】[工学院](https://www.coe.pku.edu.cn/graduate/notice/12781.html)~~
 
 ## 上海交通大学
 
@@ -183,7 +183,7 @@
 
 【报名截止：6.23】[武汉大学测绘遥感信息工程国家重点实验室](https://liesmars.whu.edu.cn/info/1058/16203.htm)
 
-【报名截止：6月20日 23:00】[武汉大学计算机学院](https://cs.whu.edu.cn/info/1071/44151.htm)
+【报名截止：6.20 23:00】[武汉大学计算机学院](https://cs.whu.edu.cn/info/1071/44151.htm)
 
 ## 南开大学
 
@@ -251,7 +251,7 @@
 
 【报名截止：6.12】[微电子学院](https://ele.xjtu.edu.cn/info/1013/2391.htm)
 
-【报名截止：6.10】[自动化学院](https://automation.xjtu.edu.cn/info/1009/2091.htm)
+~~【报名截止：6.10】[自动化学院](https://automation.xjtu.edu.cn/info/1009/2091.htm)~~
 
 ~~【报名截止：6.10】[计算机科学与技术学院](http://www.cs.xjtu.edu.cn/info/1233/3380.htm)~~
 
@@ -307,7 +307,7 @@
 
 ## 吉林大学
 
-【报名截止：6.10 8：00】[软件学院](https://csw.jlu.edu.cn/info/1156/7193.htm)
+~~【报名截止：6.10 8：00】[软件学院](https://csw.jlu.edu.cn/info/1156/7193.htm)~~
 
 【报名截止：6.20】[吉林大学人工智能学院](http://sai.jlu.edu.cn/info/1065/4700.htm)
 
@@ -327,7 +327,7 @@
 
 > [华东师范大学夏令营信息](https://yjszs.ecnu.edu.cn/15/a2/c43265a595362/page.htm)
 
-【报名截止：6.10】[统计学院](https://stat.ecnu.edu.cn/14/73/c9708a595059/page.htm)
+~~【报名截止：6.10】[统计学院](https://stat.ecnu.edu.cn/14/73/c9708a595059/page.htm)~~
 
 【报名截止：6.14】[软件工程学院“可信人工智能优秀大学生夏令营”](http://www.sei.ecnu.edu.cn/19/0c/c33171a596236/page.htm)
 
@@ -347,7 +347,7 @@
 
 ## 西湖大学
 
-【报名截止：6.10 12:00】[工学院2024年夏令营](https://westlake.edu.cn/admissions_aid/shorttermprograms/tzgg/202404/t20240410_39140.shtml)
+~~【报名截止：6.10 12:00】[工学院2024年夏令营](https://westlake.edu.cn/admissions_aid/shorttermprograms/tzgg/202404/t20240410_39140.shtml)~~
 
 ~~【报名截止：5.31 12:00】[暑期科研实习](https://www.westlake.edu.cn/admissions_aid/shorttermprograms/tzgg/202404/t20240418_39507.shtml)~~
 
@@ -519,6 +519,8 @@
 
 > [江南大学夏令营信息](https://yz.jiangnan.edu.cn/info/1029/3458.htm)
 
+【报名截止：6.23】 [人工智能与计算机学院 ](https://ai.jiangnan.edu.cn/info/1055/3790.htm)
+
 ## 南方科技大学
 
 > [南方科技大学夏令营消息](https://gs.sustech.edu.cn/#/admission/detail?current_child_id=142&id=148&article_id=3220)
@@ -556,6 +558,10 @@
 > [陕西师范大学2025年接收推荐免试研究生预报名公告](http://yz.snnu.edu.cn/info/1009/3703.htm)
 
 ## 西南大学
+
+> [西南大学夏令营信息](http://yz.swu.edu.cn/info/1005/3046.htm)
+
+【报名截止：6.18】[计算机与信息科学学院/软件学院](http://cis.swu.edu.cn/info/1145/4766.htm)
 
 ~~【报名截止：6.9】[心理学与脑科学](http://psy.swu.edu.cn/info/1085/3736.htm)~~
 
