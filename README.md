@@ -603,6 +603,8 @@
 
 ## 香港科技大学
 
+【报名截止：6.15】[信息枢纽博士项目夏令营](https://mp.weixin.qq.com/s/Kcqnkg2jewVcjbsmTXFnmw)
+
 【报名截止：5.6-N/A】[系统枢纽博士项目夏令营](https://mp.weixin.qq.com/s/7Pymi47l2nyR4imEA4FnZA)
 
 ~~【报名截止：4.10】[港科广微电子博士优先录取营](https://mp.weixin.qq.com/s/HTg5H3QVOxOLaTIejReL1Q)~~
