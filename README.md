@@ -547,6 +547,8 @@
 
 ## 上海财经大学
 
+> [上海财经大学夏令营信息](https://gs.sufe.edu.cn/Home/Detail/7620)
+
 【报名截止：6.16】[统计夏令营](https://ssm.sufe.edu.cn/4d/b6/c692a216502/page.htm)
 
 【报名截止：6.25】[交叉科学研究院](https://riis.sufe.edu.cn/jxChinese/4f/4a/c10273a216906/page.htm)
