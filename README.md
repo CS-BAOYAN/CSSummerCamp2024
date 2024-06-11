@@ -497,6 +497,12 @@
 
 【报名截止：6.14】[物理与微电子学院](https://spe.hnu.edu.cn/info/1083/8776.htm)  
 
+## 中国地质大学
+
+【报名截止：6.20】[未来技术学院](https://sft.cug.edu.cn/info/1025/3396.htm)
+
+【报名截止：6.20】[中国地质大学（武汉）计算机](https://cs.cug.edu.cn/info/1021/6494.htm)
+
 ## 西北农林科技大学
 
 > [西北农林科技大学夏令营信息](https://yz.nwsuaf.edu.cn/tzgg/5389c7be78ee4f49a6c9a94b60cab8f3.htm)
