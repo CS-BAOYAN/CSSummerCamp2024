@@ -545,6 +545,11 @@
 
 【报名截止：6.30】[生物医学工程学院](https://mp.weixin.qq.com/s/QCbT2n5klB_LY0XLUvd-bQ)
 
+
+## 上海财经大学
+
+【报名截止：6.16】[上财统计夏令营](https://ssm.sufe.edu.cn/4d/b6/c692a216502/page.htm)
+
 ## 湘潭大学
 
 【报名截止：6.30】[自动化与电子信息学院](https://aei.xtu.edu.cn/info/1039/3728.htm)
