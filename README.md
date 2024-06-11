@@ -193,7 +193,7 @@
 
 【报名截止：6.26】[人工智能学院](https://ai.nankai.edu.cn/info/1024/5850.htm)
 
-【报名截止：6.26】[软件学院招收本科生条件](https://cs.nankai.edu.cn/info/1042/3695.htm)
+【报名截止：6.26】[软件学院招收本科生条件](https://cs.nankai.edu.cn/info/1042/3695.htm) | [软件学院](https://cs.nankai.edu.cn/__local/4/FB/B0/46BD5A8CE01CDB14EA181BFAF12_92455B93_62127.pdf)
 
 ## 中国人民大学
 
@@ -320,6 +320,8 @@
 > [东北大学夏令营通知](http://yz.neu.edu.cn/2024/0606/c5932a256581/page.htm)
 
 【报名截止：6.18】[软件学院](http://sc.neu.edu.cn/2024/0607/c141a256671/pagem.htm)
+
+【报名截止：6.18】[计算机学院](http://www.cse.neu.edu.cn/2024/0611/c6274a256749/page.htm)
 
 ## 华东师范大学
 
@@ -555,7 +557,7 @@
 
 ## 西南大学
 
-【报名截止：6.9】[心理学与脑科学](http://psy.swu.edu.cn/info/1085/3736.htm)
+~~【报名截止：6.9】[心理学与脑科学](http://psy.swu.edu.cn/info/1085/3736.htm)~~
 
 ## 安徽大学
 
