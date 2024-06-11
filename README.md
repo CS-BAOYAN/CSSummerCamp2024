@@ -183,7 +183,7 @@
 
 【报名截止：6.23】[武汉大学测绘遥感信息工程国家重点实验室](https://liesmars.whu.edu.cn/info/1058/16203.htm)
 
-【报名截止：6月20日 23:00】[武汉大学计算机学院]([https://liesmars.whu.edu.cn/info/1058/16203.htm](https://cs.whu.edu.cn/info/1071/44151.htm))
+【报名截止：6月20日 23:00】[武汉大学计算机学院](https://cs.whu.edu.cn/info/1071/44151.htm)
 
 ## 南开大学
 
