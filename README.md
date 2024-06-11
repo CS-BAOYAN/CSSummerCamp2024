@@ -545,6 +545,14 @@
 
 【报名截止：6.30】[生物医学工程学院](https://mp.weixin.qq.com/s/QCbT2n5klB_LY0XLUvd-bQ)
 
+## 上海财经大学
+
+> [上海财经大学夏令营信息](https://gs.sufe.edu.cn/Home/Detail/7620)
+
+【报名截止：6.16】[统计夏令营](https://ssm.sufe.edu.cn/4d/b6/c692a216502/page.htm)
+
+【报名截止：6.25】[交叉科学研究院](https://riis.sufe.edu.cn/jxChinese/4f/4a/c10273a216906/page.htm)
+
 ## 湘潭大学
 
 【报名截止：6.30】[自动化与电子信息学院](https://aei.xtu.edu.cn/info/1039/3728.htm)
@@ -552,6 +560,10 @@
 ## 兰州大学
 
 【报名截止：6.20】[信息科学与工程学院](https://xxxy.lzu.edu.cn/tongzhigonggao/2024/0529/270494.html)
+
+## 东北师范大学
+
+【报名截止：6.26】[信息科学与技术学院](https://ist.nenu.edu.cn/info/1157/5436.htm)
 
 ## 陕西师范大学
 
@@ -589,7 +601,7 @@
 
 ## 湖北文理学院
 
-【报名截止：6.26】[电子信息硕士](http://jsjxy.hbuas.edu.cn/info/1070/5361.htm)
+~~【报名截止：6.10】[电子信息硕士](https://jsjxy.hbuas.edu.cn/info/1070/6404.htm)~~
 
 ## 香港中文大学
 
