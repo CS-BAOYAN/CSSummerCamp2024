@@ -33,7 +33,7 @@
 
 【报名截止：6.13】 [国际开放创新教育中心（Open FIESTA）](https://www.sigs.tsinghua.edu.cn/2024/0520/c120a94480/page.htm)
 
-【报名截止：6.10】[集成电路学院](https://www.ime.tsinghua.edu.cn/info/1086/1885.htm)
+~~【报名截止：6.10】[集成电路学院](https://www.ime.tsinghua.edu.cn/info/1086/1885.htm)~~
 
 【报名截止：6.15】[神经调控国家工程研究中心](https://mp.weixin.qq.com/s/78ncrcyXagVrPs8whesZiw)
 
