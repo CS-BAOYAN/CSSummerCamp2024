@@ -449,6 +449,8 @@
 
 【报名截止：6.25】[集成电路学院](https://ic.sdu.edu.cn/info/1036/3559.htm)
 
+【报名截止：6.25】[软件学院](https://www.sc.sdu.edu.cn/info/1019/4710.htm)
+
 【报名截止：6.30】[机电与信息工程学院](https://ie.wh.sdu.edu.cn/info/1007/14342.htm)
 
 ## 中南大学
