@@ -243,8 +243,6 @@
 
 【报名截止：6.25】[软件学院](http://se.xjtu.edu.cn/info/1043/2679.htm)
 
-【报名截止：6.10】[计算机科学与技术学院](http://www.cs.xjtu.edu.cn/info/1233/3380.htm)
-
 【报名截止：6.13】[西安交通大学网络空间安全学院](http://cybersec.xjtu.edu.cn/info/1017/1932.htm)
 
 【报名截止：7.1】[前沿科学技术研究院](https://fist.xjtu.edu.cn/info/1013/4052.htm)
@@ -252,6 +250,8 @@
 【报名截止：6.12】[微电子学院](https://ele.xjtu.edu.cn/info/1013/2391.htm)
 
 【报名截止：6.10】[自动化学院](https://automation.xjtu.edu.cn/info/1009/2091.htm)
+
+~~【报名截止：6.10】[计算机科学与技术学院](http://www.cs.xjtu.edu.cn/info/1233/3380.htm)~~
 
 ~~【报名截止：6.5】[电子科学与工程学院](http://esteie.xjtu.edu.cn/info/1051/2763.htm)~~
 
