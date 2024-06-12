@@ -274,6 +274,8 @@
 
 【报名截止：6.15】[人工智能研究院](https://iai.xmu.edu.cn/info/1110/3974.htm)
 
+【报名截止：6.15】[电影学院](https://film.xmu.edu.cn/info/1208/12795.htm)
+
 ## 中山大学
 
 【报名截止：6.25 24:00】[计算机学院](https://cse.sysu.edu.cn/content/7106)
