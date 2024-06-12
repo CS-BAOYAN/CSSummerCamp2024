@@ -468,7 +468,7 @@
 
 ~~【报名截止：6.12】[大数据研究院](https://bdi.csu.edu.cn/info/1063/3325.htm)~~  
 
-【报名截止：6.12】[计算机学院](https://cse.csu.edu.cn/info/1040/9622.htm) 
+~~【报名截止：6.12】[计算机学院](https://cse.csu.edu.cn/info/1040/9622.htm)~~ 
 
 【报名截止：6.12】[电子信息学院](https://ei.csu.edu.cn/info/1085/1549.htm) 
 
