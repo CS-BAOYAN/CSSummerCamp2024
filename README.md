@@ -248,7 +248,7 @@
 
 【报名截止：7.1】[前沿科学技术研究院](https://fist.xjtu.edu.cn/info/1013/4052.htm)
 
-【报名截止：6.12】[微电子学院](https://ele.xjtu.edu.cn/info/1013/2391.htm)
+~~【报名截止：6.12】[微电子学院](https://ele.xjtu.edu.cn/info/1013/2391.htm)~~
 
 ~~【报名截止：6.10】[自动化学院](https://automation.xjtu.edu.cn/info/1009/2091.htm)~~
 
