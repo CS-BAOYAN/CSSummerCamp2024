@@ -69,11 +69,7 @@
 
 > [北京大学夏令营信息](https://admission.pku.edu.cn/xly/index.htm)
 
-【报名截止：6.12】[软件与微电子学院](https://www.ss.pku.edu.cn/admission/admnotice/4574.html)
-
 【报名截止：6.15】[未来技术学院](https://future.pku.edu.cn/xwzk/4ef963c7935645bb822acf89f9d39d87.htm)
-
-【报名截止：6.12】[生命科学学院和生命科学联合中心（北大方面）](http://web.bio.pku.edu.cn/homes/Index/news_cont/21/17077.html)
 
 > 不限于生物学及医学相关专业。欢迎其它理学或者工学专业（如数学、物理、化学、工程、心理、信息、计算机等）对生命科学有着强烈兴趣和科研创造力的申请者。
 
@@ -92,6 +88,10 @@
 ~~【报名截止：6.11】[前沿交叉学科研究院](http://www.aais.pku.edu.cn/tongzhi/shownews.php?lang=cn&id=1754)~~
 
 ~~【报名截止：6.11】[集成电路学院](https://ic.pku.edu.cn/rcpy/yjszs/adaf04020bfb49b7951e096515d76a58.htm)~~
+
+~~【报名截止：6.12】[软件与微电子学院](https://www.ss.pku.edu.cn/admission/admnotice/4574.html)~~
+
+~~【报名截止：6.12】[生命科学学院和生命科学联合中心（北大方面）](http://web.bio.pku.edu.cn/homes/Index/news_cont/21/17077.html)~~
 
 ## 上海交通大学
 
@@ -188,11 +188,11 @@
 
 > [南开大学夏令营通知](https://yzb.nankai.edu.cn/2024/0607/c5508a545190/page.htm)
 
-【报名截止：6.12】[电子信息与光学工程学院](https://ceo.nankai.edu.cn/info/1099/4101.htm)
-
 【报名截止：6.26】[人工智能学院](https://ai.nankai.edu.cn/info/1024/5850.htm)
 
 【报名截止：6.26】[软件学院招收本科生条件](https://cs.nankai.edu.cn/info/1042/3695.htm) | [软件学院](https://cs.nankai.edu.cn/__local/4/FB/B0/46BD5A8CE01CDB14EA181BFAF12_92455B93_62127.pdf)
+
+~~【报名截止：6.12】[电子信息与光学工程学院](https://ceo.nankai.edu.cn/info/1099/4101.htm)~~
 
 ## 中国人民大学
 
@@ -248,7 +248,7 @@
 
 【报名截止：7.1】[前沿科学技术研究院](https://fist.xjtu.edu.cn/info/1013/4052.htm)
 
-【报名截止：6.12】[微电子学院](https://ele.xjtu.edu.cn/info/1013/2391.htm)
+~~【报名截止：6.12】[微电子学院](https://ele.xjtu.edu.cn/info/1013/2391.htm)~~
 
 ~~【报名截止：6.10】[自动化学院](https://automation.xjtu.edu.cn/info/1009/2091.htm)~~
 
@@ -464,13 +464,13 @@
 
 > [关于举办“中南大学2024年优秀大学生暑期夏令营”活动的通知](https://mp.weixin.qq.com/s/L7whd7YB2zBFzVaIbF9XEg)
 
-【报名截止：6.12】[自动化学院](https://soa.csu.edu.cn/info/1032/7957.htm)  
+~~【报名截止：6.12】[自动化学院](https://soa.csu.edu.cn/info/1032/7957.htm)~~
 
-【报名截止：6.12】[大数据研究院](https://bdi.csu.edu.cn/info/1063/3325.htm)  
+~~【报名截止：6.12】[大数据研究院](https://bdi.csu.edu.cn/info/1063/3325.htm)~~  
 
-【报名截止：6.12】[计算机学院](https://cse.csu.edu.cn/info/1040/9622.htm) 
+~~【报名截止：6.12】[计算机学院](https://cse.csu.edu.cn/info/1040/9622.htm)~~ 
 
-【报名截止：6.12】[电子信息学院](https://ei.csu.edu.cn/info/1085/1549.htm) 
+~~【报名截止：6.12】[电子信息学院](https://ei.csu.edu.cn/info/1085/1549.htm)~~ 
 
 ## 华东理工大学
 
