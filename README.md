@@ -466,7 +466,7 @@
 
 ~~【报名截止：6.12】[自动化学院](https://soa.csu.edu.cn/info/1032/7957.htm)~~
 
-【报名截止：6.12】[大数据研究院](https://bdi.csu.edu.cn/info/1063/3325.htm)  
+~~【报名截止：6.12】[大数据研究院](https://bdi.csu.edu.cn/info/1063/3325.htm)~~  
 
 【报名截止：6.12】[计算机学院](https://cse.csu.edu.cn/info/1040/9622.htm) 
 
