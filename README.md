@@ -69,8 +69,6 @@
 
 > [北京大学夏令营信息](https://admission.pku.edu.cn/xly/index.htm)
 
-【报名截止：6.12】[软件与微电子学院](https://www.ss.pku.edu.cn/admission/admnotice/4574.html)
-
 【报名截止：6.15】[未来技术学院](https://future.pku.edu.cn/xwzk/4ef963c7935645bb822acf89f9d39d87.htm)
 
 【报名截止：6.12】[生命科学学院和生命科学联合中心（北大方面）](http://web.bio.pku.edu.cn/homes/Index/news_cont/21/17077.html)
@@ -92,6 +90,8 @@
 ~~【报名截止：6.11】[前沿交叉学科研究院](http://www.aais.pku.edu.cn/tongzhi/shownews.php?lang=cn&id=1754)~~
 
 ~~【报名截止：6.11】[集成电路学院](https://ic.pku.edu.cn/rcpy/yjszs/adaf04020bfb49b7951e096515d76a58.htm)~~
+
+~~【报名截止：6.12】[软件与微电子学院](https://www.ss.pku.edu.cn/admission/admnotice/4574.html)~~
 
 ## 上海交通大学
 
