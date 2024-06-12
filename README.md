@@ -188,11 +188,11 @@
 
 > [南开大学夏令营通知](https://yzb.nankai.edu.cn/2024/0607/c5508a545190/page.htm)
 
-【报名截止：6.12】[电子信息与光学工程学院](https://ceo.nankai.edu.cn/info/1099/4101.htm)
-
 【报名截止：6.26】[人工智能学院](https://ai.nankai.edu.cn/info/1024/5850.htm)
 
 【报名截止：6.26】[软件学院招收本科生条件](https://cs.nankai.edu.cn/info/1042/3695.htm) | [软件学院](https://cs.nankai.edu.cn/__local/4/FB/B0/46BD5A8CE01CDB14EA181BFAF12_92455B93_62127.pdf)
+
+~~【报名截止：6.12】[电子信息与光学工程学院](https://ceo.nankai.edu.cn/info/1099/4101.htm)~~
 
 ## 中国人民大学
 
