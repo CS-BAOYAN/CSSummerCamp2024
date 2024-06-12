@@ -449,8 +449,6 @@
 
 ## 山东大学
 
-【报名截止：6.11】[数学国家高层次人才培养中心](https://www.math.sdu.edu.cn/info/1031/19849.htm)
-
 【报名截止：6.20】[数学学院](https://www.math.sdu.edu.cn/info/1031/19954.htm)
 
 【报名截止：6.20】[数据科学研究院](https://dsi.sdu.edu.cn/info/1157/3754.htm)
@@ -462,6 +460,8 @@
 【报名截止：6.30】[网络空间安全学院](https://cst.qd.sdu.edu.cn/info/1023/3194.htm)
 
 【报名截止：6.30】[机电与信息工程学院](https://ie.wh.sdu.edu.cn/info/1007/14342.htm)
+
+~~【报名截止：6.11】[数学国家高层次人才培养中心](https://www.math.sdu.edu.cn/info/1031/19849.htm)~~
 
 ## 中南大学
 
