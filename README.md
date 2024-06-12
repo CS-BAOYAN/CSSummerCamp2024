@@ -451,6 +451,8 @@
 
 【报名截止：6.11】[数学国家高层次人才培养中心](https://www.math.sdu.edu.cn/info/1031/19849.htm)
 
+【报名截止：6.20】[数学学院](https://www.math.sdu.edu.cn/info/1031/19954.htm)
+
 【报名截止：6.20】[数据科学研究院](https://dsi.sdu.edu.cn/info/1157/3754.htm)
 
 【报名截止：6.25】[集成电路学院](https://ic.sdu.edu.cn/info/1036/3559.htm)
