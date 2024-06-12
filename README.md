@@ -99,7 +99,6 @@
 
 【报名截止：N/A】[人工智能与微结构实验室](https://mp.weixin.qq.com/s/X9LZhlXfM1L2aOIoys3sNQ)
 
-
 【报名截止：6.16】 [密西根学院](https://mp.weixin.qq.com/s/Y-CGIQ_nB7f5qxhFAvrMCg)
 
 【报名截止：6.20】 [电子信息与电气工程学院](https://www.seiee.sjtu.edu.cn/via/yjspy_zsgz_sszs/10117.html)
@@ -259,11 +258,11 @@
 
 ## 同济大学
 
-【报名截止：6.11】[软件学院](https://sse.tongji.edu.cn/info/1132/5077.htm)
-
 【报名截止：6.20】[同济大学上海自主智能无人系统科学中心](https://srias.tongji.edu.cn/1e/2d/c17827a335405/page.htm)
 
 ~~【报名截止：6.7 12:00】[电子与信息工程学院](https://see.tongji.edu.cn/info/1147/12581.htm)~~
+
+~~【报名截止：6.11】[软件学院](https://sse.tongji.edu.cn/info/1132/5077.htm)~~
 
 ## 厦门大学
 
