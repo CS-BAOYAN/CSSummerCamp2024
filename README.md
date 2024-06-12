@@ -352,6 +352,8 @@
 
 ## 中国科学院
 
+【报名截止：6.26】[自动化研究所](http://www.ia.cas.cn/yjsjy/zs/sszs/202406/t20240612_6967569.html)
+
 【报名截止：6.25】[脑科学与智能技术卓越创新中心（神经科学研究所）](https://mp.weixin.qq.com/s/CamcfCmc3jmwMaiS5WVYqA)
 
 【报名截止：6.20】[上海高等研究院](http://www.sari.cas.cn/gradedu/gdzssz/gddxssjxm/202404/t20240429_7141703.html)
