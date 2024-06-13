@@ -260,6 +260,10 @@
 
 ~~【报名截止：6.5】[电子科学与工程学院](http://esteie.xjtu.edu.cn/info/1051/2763.htm)~~
 
+## 西北工业大学
+
+【报名截止：6.23】[计算机学院](https://jsj.nwpu.edu.cn/info/1599/22435.htm)
+
 ## 同济大学
 
 【报名截止：6.20】[同济大学上海自主智能无人系统科学中心](https://srias.tongji.edu.cn/1e/2d/c17827a335405/page.htm)
