@@ -27,8 +27,6 @@
 
 【报名截止：6.20】 [深圳国际研究生院数据与信息研究院管理科学与工程、物流工程与管理项目](https://mp.weixin.qq.com/s/6dOfx45eWHuDDBPulj6hew)
 
-【报名截止：6.13】 [国际开放创新教育中心（Open FIESTA）](https://www.sigs.tsinghua.edu.cn/2024/0520/c120a94480/page.htm)
-
 【报名截止：6.15】[神经调控国家工程研究中心](https://mp.weixin.qq.com/s/78ncrcyXagVrPs8whesZiw)
 
 【报名截止：6.30】[自动化系智能与网络化系统研究中心](https://mp.weixin.qq.com/s/l7kGbDxlcb5sOG3_1Bo0MQ)
@@ -40,6 +38,8 @@
 【报名截止：N/A】 [智能产业研究院](https://mp.weixin.qq.com/s/sHhcErP2b-aKcBNsRHugWg)
 
 > 是否有招生名额请联系老师
+
+~~【报名截止：6.13】 [国际开放创新教育中心（Open FIESTA）](https://www.sigs.tsinghua.edu.cn/2024/0520/c120a94480/page.htm)~~
 
 ~~【报名截止：6.3】 [深圳国际研究生院数据与信息研究院计算机科学与技术](https://www.sigs.tsinghua.edu.cn/2024/0514/c120a94417/page.htm)~~
 
