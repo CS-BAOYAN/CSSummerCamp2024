@@ -478,6 +478,10 @@
 
 ~~【报名截止：6.11】[数学国家高层次人才培养中心](https://www.math.sdu.edu.cn/info/1031/19849.htm)~~
 
+## 华南理工大学
+
+【报名截止：6.24】[软件学院](https://yanzhao.scut.edu.cn/Public/PdfViewer.html?file=/Public/GetFileHex.aspx?B4BE4CC6D1C772920FC283855A6DC834C76C56D73F690C3D4194EB240634ED8C8DA0C480008F3ADC0606FAC4E58902DB512E200ADF6907DE76559360F636C2EC)
+
 ## 华东理工大学
 
 > [华东理工大学夏令营信息](https://gschool.ecust.edu.cn/2024/0524/c12754a167858/page.htm)
