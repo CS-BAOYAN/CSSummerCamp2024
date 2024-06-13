@@ -248,7 +248,7 @@
 
 【报名截止：6.25】[软件学院](http://se.xjtu.edu.cn/info/1043/2679.htm)
 
-【报名截止：6.13】[西安交通大学网络空间安全学院](http://cybersec.xjtu.edu.cn/info/1017/1932.htm)
+【报名截止：N/A】[西安交通大学网络空间安全学院](http://cybersec.xjtu.edu.cn/info/1017/1932.htm)
 
 【报名截止：7.1】[前沿科学技术研究院](https://fist.xjtu.edu.cn/info/1013/4052.htm)
 
