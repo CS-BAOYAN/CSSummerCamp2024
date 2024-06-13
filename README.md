@@ -292,6 +292,8 @@
 
 【报名截止：7.1】[软件工程学院](https://sse.sysu.edu.cn/article/723)
 
+【报名截止：6.25】[生物医学工程学院](https://mp.weixin.qq.com/s/04MmHD-vq6iW812PZ44JJw)
+
 ## 天津大学
 
 >[天津大学夏令营信息](https://yzb.tju.edu.cn/xwzx/zxxx/202406/t20240605_323809.htm)
@@ -323,6 +325,8 @@
 【报名截止：6.18】[软件学院](http://sc.neu.edu.cn/2024/0607/c141a256671/pagem.htm)
 
 【报名截止：6.18】[计算机学院](http://www.cse.neu.edu.cn/2024/0611/c6274a256749/page.htm)
+
+【报名截止：6.30】[机器人科学与工程学院](http://www.rse.neu.edu.cn/2024/0612/c2147a256868/page.htm)
 
 ## 华东师范大学
 
@@ -426,6 +430,12 @@
 >
 > 报名前请先联系东方理工导师，沟通招生意愿，东方理工导师详见：https://www.eitech.edu.cn/?teachers_category=teachers-list
 
+## 武汉科技大学
+
+> [武汉科技大学夏令营信息](https://ysxy.wust.edu.cn/info/1831/44102.htm)
+
+【报名截止：6.28】[计算机科学与技术学院](https://jsjkx.wust.edu.cn/info/1671/35952.htm)
+
 ## 北京语言大学
 
 > [北京语言大学夏令营信息](https://yjsy.blcu.edu.cn/art/2024/5/17/art_13223_1170150.html)
@@ -459,18 +469,6 @@
 【报名截止：6.30】[机电与信息工程学院](https://ie.wh.sdu.edu.cn/info/1007/14342.htm)
 
 ~~【报名截止：6.11】[数学国家高层次人才培养中心](https://www.math.sdu.edu.cn/info/1031/19849.htm)~~
-
-## 中南大学
-
-> [关于举办“中南大学2024年优秀大学生暑期夏令营”活动的通知](https://mp.weixin.qq.com/s/L7whd7YB2zBFzVaIbF9XEg)
-
-~~【报名截止：6.12】[自动化学院](https://soa.csu.edu.cn/info/1032/7957.htm)~~
-
-~~【报名截止：6.12】[大数据研究院](https://bdi.csu.edu.cn/info/1063/3325.htm)~~  
-
-~~【报名截止：6.12】[计算机学院](https://cse.csu.edu.cn/info/1040/9622.htm)~~ 
-
-~~【报名截止：6.12】[电子信息学院](https://ei.csu.edu.cn/info/1085/1549.htm)~~ 
 
 ## 华东理工大学
 
@@ -522,7 +520,9 @@
 
 > [江南大学夏令营信息](https://yz.jiangnan.edu.cn/info/1029/3458.htm)
 
-【报名截止：6.23】 [人工智能与计算机学院 ](https://ai.jiangnan.edu.cn/info/1055/3790.htm)
+【报名截止：6.23】 [人工智能与计算机学院](https://ai.jiangnan.edu.cn/info/1055/3790.htm)
+
+【报名截止：6.23】 [物联网工程学院](https://iot.jiangnan.edu.cn/info/1022/3792.htm)
 
 ## 南方科技大学
 
@@ -579,6 +579,10 @@
 【报名截止：6.18】[计算机与信息科学学院/软件学院](http://cis.swu.edu.cn/info/1145/4766.htm)
 
 ~~【报名截止：6.9】[心理学与脑科学](http://psy.swu.edu.cn/info/1085/3736.htm)~~
+
+## 东华大学
+
+【报名截止：6.24】[信息科学与技术学院](https://web.dhu.edu.cn/cist/2024/0611/c3004a346769/page.htm)
 
 ## 安徽大学
 
@@ -683,6 +687,18 @@
 ~~【报名截止：5.31 17:00】[数字医学研究中心](https://miccai.fudan.edu.cn/41/4b/c34228a672075/page.htm)~~
 
 ~~【报名截止：5.31 17:00】[微纳系统中心](http://cmns.fudan.edu.cn/Data/View/346)~~
+
+## 中南大学
+
+> [关于举办“中南大学2024年优秀大学生暑期夏令营”活动的通知](https://mp.weixin.qq.com/s/L7whd7YB2zBFzVaIbF9XEg)
+
+~~【报名截止：6.12】[自动化学院](https://soa.csu.edu.cn/info/1032/7957.htm)~~
+
+~~【报名截止：6.12】[大数据研究院](https://bdi.csu.edu.cn/info/1063/3325.htm)~~  
+
+~~【报名截止：6.12】[计算机学院](https://cse.csu.edu.cn/info/1040/9622.htm)~~ 
+
+~~【报名截止：6.12】[电子信息学院](https://ei.csu.edu.cn/info/1085/1549.htm)~~ 
 
 ## 北京脑科学与类脑研究所
 
