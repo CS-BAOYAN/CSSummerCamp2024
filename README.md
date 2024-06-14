@@ -339,6 +339,10 @@
 
 【报名截止：6.30】[机器人科学与工程学院](http://www.rse.neu.edu.cn/2024/0612/c2147a256868/page.htm)
 
+## 大连理工大学
+
+【报名截止：6.24】[软件学院](https://ss.dlut.edu.cn/info/1122/28802.htm)
+
 ## 华东师范大学
 
 > [华东师范大学夏令营信息](https://yjszs.ecnu.edu.cn/15/a2/c43265a595362/page.htm)
