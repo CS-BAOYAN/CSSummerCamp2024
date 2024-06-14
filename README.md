@@ -209,6 +209,7 @@
 ## 北京邮电大学
 
 【报名截止：7.31】[电子工程学院](https://see.bupt.edu.cn/info/1047/2741.htm)
+【报名截止：6.23】[计算机学院]（https://scs.bupt.edu.cn/info/1050/3886.htm）
 
 ## 北京理工大学
 
