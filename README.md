@@ -264,6 +264,8 @@
 
 【报名截止：6.23】[计算机学院](https://jsj.nwpu.edu.cn/info/1599/22435.htm)
 
+【报名截止：6.24】[软件学院](https://ruanjian.nwpu.edu.cn/info/1133/9736.htm)
+
 ## 同济大学
 
 【报名截止：6.20】[同济大学上海自主智能无人系统科学中心](https://srias.tongji.edu.cn/1e/2d/c17827a335405/page.htm)
