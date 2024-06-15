@@ -480,6 +480,8 @@
 
 【报名截止：6.25】[集成电路学院](https://ic.sdu.edu.cn/info/1036/3559.htm)
 
+【报名截止：6.25】[计算机学院/人工智能学院](https://www.cs.sdu.edu.cn/info/1068/6284.htm)
+
 【报名截止：6.25】[软件学院](https://www.sc.sdu.edu.cn/info/1019/4710.htm)
 
 【报名截止：6.30】[网络空间安全学院](https://cst.qd.sdu.edu.cn/info/1023/3194.htm)
