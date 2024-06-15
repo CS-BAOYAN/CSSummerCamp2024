@@ -200,7 +200,7 @@
 
 【报名截止：6.24 17:00】[智慧治理学院2024年暑期研学营](http://zhzl.ruc.edu.cn/zsxx/zsjz/d82cceae4e6644acbc17a22e7029a266.htm)
 
-~~【报名截止：6.14】[中国人民大学信息学院](http://info.ruc.edu.cn/rcpy/bss/zsxx3/a945da71ead24051af090a695d0598b7.htm)~~
+【报名截止：6.16 17:00】[中国人民大学信息学院](http://info.ruc.edu.cn/rcpy/bss/zsxx3/a945da71ead24051af090a695d0598b7.htm)
 
 ~~【报名截止：6.13】[高瓴人工智能学院AI-Engine实验室](https://mp.weixin.qq.com/s/0BFY6nHouLgSGd5cOizIIg)~~
 
