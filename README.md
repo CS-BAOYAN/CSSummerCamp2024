@@ -17,8 +17,6 @@
 
 > [清华大学夏令营信息](https://yz.tsinghua.edu.cn/xlyxx.htm) | [清华大学深圳国际研究生院夏令营信息](https://mp.weixin.qq.com/s/PQEUQqdUTbIW7d6GtqwNbA)
 
-【报名截止：6.14】 [深圳国际研究生院数据与信息研究院人工智能项目](https://www.sigs.tsinghua.edu.cn/2024/0520/c120a94481/page.htm)
-
 【报名截止：6.16】 [深圳国际研究生院数据与信息研究院数据与信息研究院电子与通信工程项目](https://www.sigs.tsinghua.edu.cn/2024/0521/c120a94526/page.htm)
 
 【报名截止：6.16】 [深圳国际研究生院数据与信息研究院大数据工程](https://www.sigs.tsinghua.edu.cn/2024/0522/c120a94533/page.htm)
@@ -38,6 +36,8 @@
 【报名截止：N/A】 [智能产业研究院](https://mp.weixin.qq.com/s/sHhcErP2b-aKcBNsRHugWg)
 
 > 是否有招生名额请联系老师
+
+~~【报名截止：6.14】 [深圳国际研究生院数据与信息研究院人工智能项目](https://www.sigs.tsinghua.edu.cn/2024/0520/c120a94481/page.htm)~~
 
 ~~【报名截止：6.13】 [国际开放创新教育中心（Open FIESTA）](https://www.sigs.tsinghua.edu.cn/2024/0520/c120a94480/page.htm)~~
 
@@ -134,13 +134,13 @@
 
 【报名截止：6.20】[软件学院](https://software.nju.edu.cn//tzgg/20240528/i267245.html)
 
-【报名截止：6.14】[电子科学与工程学院](https://ese.nju.edu.cn/75/bb/c22673a685499/page.htm)
-
 【报名截止：6.18】[南大NLP夏令营](https://mp.weixin.qq.com/s/jWJiq2E2gHha_K9ryWg2sA)
 
 > * 注意：该夏令营与计算机系以及人工智能学院的推免夏令营无关。
 
 【报名截止：7.15】[匡亚明学院](https://dii.nju.edu.cn/89/f5/c15501a690677/page.htm)
+
+~~【报名截止：6.14】[电子科学与工程学院](https://ese.nju.edu.cn/75/bb/c22673a685499/page.htm)~~
 
 ~~【报名截止：5.25】[软件所本科生开放日招生说明](https://ics.nju.edu.cn/recruit/index.html)~~
 
@@ -198,9 +198,9 @@
 
 ## 中国人民大学
 
-【报名截止：6.14】[中国人民大学信息学院](http://info.ruc.edu.cn/rcpy/bss/zsxx3/a945da71ead24051af090a695d0598b7.htm)
-
 【报名截止：6.24 17:00】[智慧治理学院2024年暑期研学营](http://zhzl.ruc.edu.cn/zsxx/zsjz/d82cceae4e6644acbc17a22e7029a266.htm)
+
+~~【报名截止：6.14】[中国人民大学信息学院](http://info.ruc.edu.cn/rcpy/bss/zsxx3/a945da71ead24051af090a695d0598b7.htm)~~
 
 ~~【报名截止：6.13】[高瓴人工智能学院AI-Engine实验室](https://mp.weixin.qq.com/s/0BFY6nHouLgSGd5cOizIIg)~~
 
@@ -348,15 +348,15 @@
 
 > [华东师范大学夏令营信息](https://yjszs.ecnu.edu.cn/15/a2/c43265a595362/page.htm)
 
-~~【报名截止：6.10】[统计学院](https://stat.ecnu.edu.cn/14/73/c9708a595059/page.htm)~~
-
-【报名截止：6.14】[软件工程学院“可信人工智能优秀大学生夏令营”](http://www.sei.ecnu.edu.cn/19/0c/c33171a596236/page.htm)
-
 【报名截止：6.20】[计算机科学与技术学院 ](https://cs.ecnu.edu.cn/25/15/c19867a599317/page.htm)
 
 【报名截止：6.25】[数据科学与工程学院](https://dase.ecnu.edu.cn/21/c7/c41465a598471/page.htm)
 
 【报名截止：6.16】[临港实验室](https://mp.weixin.qq.com/s/F6B8S1IZJaLKCnvFqKcypA)
+
+~~【报名截止：6.10】[统计学院](https://stat.ecnu.edu.cn/14/73/c9708a595059/page.htm)~~
+
+~~【报名截止：6.14】[软件工程学院“可信人工智能优秀大学生夏令营”](http://www.sei.ecnu.edu.cn/19/0c/c33171a596236/page.htm)~~
 
 ## 电子科技大学
 
@@ -518,20 +518,6 @@
 
 【报名截止：6.20】[信息科学与工程学部](https://it.ouc.edu.cn/2024/0607/c16066a466732/page.htm)
 
-## 湖南大学
-
-> [湖南大学夏令营信息](http://gra.hnu.edu.cn/info/1075/9607.htm)
-
-【报名截止：6.14】[半导体学院（集成电路学院）](http://sic.hnu.edu.cn/info/1115/1865.htm)  
-
-【报名截止：6.14】[信息科学与工程学院](http://csee.hnu.edu.cn/info/1062/13197.htm)  
-
-【报名截止：6.14】[电气与信息工程学院](https://eeit.hnu.edu.cn/info/1184/10533.htm)  
-
-【报名截止：6.14】[机器人学院](http://robotics.hnu.edu.cn/info/1074/2648.htm)  
-
-【报名截止：6.14】[物理与微电子学院](https://spe.hnu.edu.cn/info/1083/8776.htm)  
-
 ## 中国地质大学
 
 【报名截止：6.20】[未来技术学院](https://sft.cug.edu.cn/info/1025/3396.htm)
@@ -640,7 +626,7 @@
 
 【报名截止：4.1-5.23, 5.24-6.25】[Schedule of the early admission interviews of M.Phil. – Ph.D. Programme for 2025-2026 Intake](https://dept-eappsrv.cse.cuhk.edu.hk/pgas2025/)
 
-【报名截止：6.14】[工程学院系统工程与工程管理系（SEEM）博士生夏令营](https://mp.weixin.qq.com/s/GKvRFOTSyl48H4QhNza2uQ)
+~~【报名截止：6.14】[工程学院系统工程与工程管理系（SEEM）博士生夏令营](https://mp.weixin.qq.com/s/GKvRFOTSyl48H4QhNza2uQ)~~
 
 ~~【报名截止：6.10】[港中大（深圳）理工学院-本科生科研实践夏令营](https://mp.weixin.qq.com/s/BfEz1DRxRoDTAaTtka9czQ)~~
 
@@ -683,6 +669,20 @@
 ## 辽宁科技大学
 
 ~~【报名截止：5.17】[辽宁科技大学-深圳职业技术大学研究生联合培养](https://www.ustl.edu.cn/yjs/info/1030/3007.htm)~~
+
+## 湖南大学
+
+> [湖南大学夏令营信息](http://gra.hnu.edu.cn/info/1075/9607.htm)
+
+~~【报名截止：6.14】[半导体学院（集成电路学院）](http://sic.hnu.edu.cn/info/1115/1865.htm)~~
+
+~~【报名截止：6.14】[信息科学与工程学院](http://csee.hnu.edu.cn/info/1062/13197.htm)~~
+
+~~【报名截止：6.14】[电气与信息工程学院](https://eeit.hnu.edu.cn/info/1184/10533.htm)~~
+
+~~【报名截止：6.14】[机器人学院](http://robotics.hnu.edu.cn/info/1074/2648.htm)~~
+
+~~【报名截止：6.14】[物理与微电子学院](https://spe.hnu.edu.cn/info/1083/8776.htm)~~
 
 ## 复旦大学
 
