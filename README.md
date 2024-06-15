@@ -738,6 +738,10 @@
 
 【报名截止：6.26】[重庆卓越工程师学院](https://eie.cqu.edu.cn/info/1483/2569.htm)
 
+## 西南交通大学
+
+【报名截止：6.30】[计算机与人工智能学院](https://mp.weixin.qq.com/s?__biz=Mzg2ODYxNTk5MQ==&mid=2247493610&idx=1&sn=dca20da268b64dbb9f9867564720d945&chksm=ceab35b2f9dcbca4768e03d4e101003147a0a75f1d1bfddb6f1391675a893c11ffea474937c5&mpshare=1&scene=23&srcid=0615jG0I45v3RJrfSwhUN7LS&sharer_shareinfo=967d1273b6cbceea7270334d7ca55c45&sharer_shareinfo_first=967d1273b6cbceea7270334d7ca55c45#rd)
+
 # CSWinterCamp2024
 
 ## 清华大学
