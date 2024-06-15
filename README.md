@@ -368,6 +368,10 @@
 
 【报名截止：6.21】[（深圳）高等研究院](https://sias.uestc.edu.cn/info/1088/4569.htm)
 
+## 西南交通大学
+
+【报名截止：6.30】[计算机与人工智能学院](http://yz.swjtu.edu.cn/vatuu/PublicActivityAction?setAction=activityDetail&activityId=7E608E004C10BCB6)
+
 ## 西湖大学
 
 ~~【报名截止：6.10 12:00】[工学院2024年夏令营](https://westlake.edu.cn/admissions_aid/shorttermprograms/tzgg/202404/t20240410_39140.shtml)~~
