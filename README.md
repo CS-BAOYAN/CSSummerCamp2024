@@ -220,6 +220,10 @@
 
 >[北京理工大学2024年博士研究生专项计划招生简章](https://grd.bit.edu.cn/zsgz/bsyjs/gzzd/7855bde08a0e40ff99fca06a5c2b1b8c.htm)
 
+【报名截止：6.21】[集成电路与电子学院](https://mp.weixin.qq.com/s/aHNgeimsI-1qB4d_8vKFJQ)
+
+【报名截止：6.25】[网络空间安全学院](https://cst.bit.edu.cn/xxfw/tzgg/2fa2fa019403455b9f92e96650f87f2b.htm)
+
 ## 北京航空航天大学
 
 > [北京航空航天大学夏令营信息](https://yzb.buaa.edu.cn/info/1036/3101.htm)
