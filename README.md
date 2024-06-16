@@ -218,7 +218,9 @@
 
 ## 北京理工大学
 
->[北京理工大学2024年博士研究生专项计划招生简章](https://grd.bit.edu.cn/zsgz/bsyjs/gzzd/7855bde08a0e40ff99fca06a5c2b1b8c.htm)
+>[北京理工大学2024年博士研究生专项计划招生简章](https://grd.bit.edu.cn/zsgz/bsyjs/gzzd/7855bde08a0e40ff99fca06a5c2b1b8c.htm)  
+
+【报名截止：6.25 12:00】[网络空间安全学院](https://cst.bit.edu.cn/xxfw/tzgg/2fa2fa019403455b9f92e96650f87f2b.htm)  
 
 【报名截止：6.21】[集成电路与电子学院](https://mp.weixin.qq.com/s/aHNgeimsI-1qB4d_8vKFJQ)
 
@@ -274,7 +276,11 @@
 
 【报名截止：6.23】[计算机学院](https://jsj.nwpu.edu.cn/info/1599/22435.htm)
 
-【报名截止：6.24】[软件学院](https://ruanjian.nwpu.edu.cn/info/1133/9736.htm)
+【报名截止：6.24】[软件学院](https://ruanjian.nwpu.edu.cn/info/1133/9736.htm)  
+
+【报名截止：6.24】[网络空间安全学院](https://wlkjaqxy.nwpu.edu.cn/info/1044/7850.htm)  
+
+【报名截止：6.27】[光电与智能研究院](https://iopen.nwpu.edu.cn/info/1028/4836.htm)  
 
 ## 同济大学
 
@@ -448,6 +454,12 @@
 
 > [北京语言大学夏令营信息](https://yjsy.blcu.edu.cn/art/2024/5/17/art_13223_1170150.html)
 
+## 北京交通大学  
+
+【报名截止：7.1】[软件学院](http://sse.bjtu.edu.cn/cms/item/995.html)  
+
+【报名截止：7.8 12:00】[计算机科学与技术学院](https://cs.bjtu.edu.cn/tzgg/202312183.htm)  
+
 ## 北京计算科学研究中心
 
 【报名截止：6.30】[北京计算科学研究中心](https://www.csrc.ac.cn/en/event/schools/2024-05-29/109.html)
@@ -468,7 +480,9 @@
 
 【报名截止：6.21 12:00】[电子信息学院](https://eie.scu.edu.cn/info/1025/12669.htm)
 
-【报名截止：7.1】[医学前沿科学中心](https://yjs.cd120.com/contents/412/4461.html)
+【报名截止：7.1】[医学前沿科学中心](https://yjs.cd120.com/contents/412/4461.html)  
+
+【报名截止：6.21 24：00】[生物医学工程学院/国家生物医学材料工程技术研究中心](https://bme.scu.edu.cn/info/1011/3060.htm)  
 
 ## 山东大学
 
