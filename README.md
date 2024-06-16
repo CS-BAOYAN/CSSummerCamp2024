@@ -214,6 +214,8 @@
 
 【报名截止：6.23】[计算机学院](https://scs.bupt.edu.cn/info/1050/3886.htm)
 
+【报名截止：6.23】[人工智能学院](https://ai.bupt.edu.cn/info/1065/3416.htm)
+
 ## 北京理工大学
 
 >[北京理工大学2024年博士研究生专项计划招生简章](https://grd.bit.edu.cn/zsgz/bsyjs/gzzd/7855bde08a0e40ff99fca06a5c2b1b8c.htm)
@@ -614,6 +616,8 @@
 
 【报名截止：6.26】[重庆卓越工程师学院](https://eie.cqu.edu.cn/info/1483/2569.htm)
 
+【报名截止：6.30】[电气工程学院](http://www.cee.cqu.edu.cn/info/3542/19705.htm)
+
 ## 西南交通大学
 
 【报名截止：6.30】[计算机与人工智能学院](http://yz.swjtu.edu.cn/vatuu/PublicActivityAction?setAction=activityDetail&activityId=7E608E004C10BCB6)
@@ -665,6 +669,14 @@
 ## 河南工业大学
 
 ~~【报名截止：6.5】[复杂性科学中心](https://cs.haut.edu.cn/info/1421/5974.htm)~~
+
+## 北京交通大学
+
+【报名截止：6.23】[电子信息工程学院](http://eie.bjtu.edu.cn/WebHtml/newsDetailsPage/1AD28E2E09B3CE23E060403B570306E9)
+
+【报名截止：6.25】[系统科学学院](https://sss.bjtu.edu.cn/cms/item/23356.html)
+
+【报名截止：7.1】[软件学院](	http://rjxy.bjtu.edu.cn/cms/item/995.html)
 
 ## 香港大学
 
