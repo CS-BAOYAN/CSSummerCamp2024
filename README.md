@@ -214,9 +214,15 @@
 
 【报名截止：6.23】[计算机学院](https://scs.bupt.edu.cn/info/1050/3886.htm)
 
+【报名截止：6.23】[人工智能学院](https://ai.bupt.edu.cn/info/1065/3416.htm)
+
 ## 北京理工大学
 
 >[北京理工大学2024年博士研究生专项计划招生简章](https://grd.bit.edu.cn/zsgz/bsyjs/gzzd/7855bde08a0e40ff99fca06a5c2b1b8c.htm)
+
+【报名截止：6.21】[集成电路与电子学院](https://mp.weixin.qq.com/s/aHNgeimsI-1qB4d_8vKFJQ)
+
+【报名截止：6.25】[网络空间安全学院](https://cst.bit.edu.cn/xxfw/tzgg/2fa2fa019403455b9f92e96650f87f2b.htm)
 
 ## 北京航空航天大学
 
@@ -312,7 +318,7 @@
 
 ## 吉林大学
 
-~~【报名截止：6.10 8：00】[软件学院](https://csw.jlu.edu.cn/info/1156/7193.htm)~~
+~~【报名截止：6.10 8:00】[软件学院](https://csw.jlu.edu.cn/info/1156/7193.htm)~~
 
 【报名截止：6.20】[吉林大学人工智能学院](http://sai.jlu.edu.cn/info/1065/4700.htm)
 
@@ -452,15 +458,15 @@
 
 ## 四川大学
 
-【报名截止：6.20 12：00】[计算机学院](https://cs.scu.edu.cn/info/1247/18447.htm)
+【报名截止：6.20 12:00】[计算机学院](https://cs.scu.edu.cn/info/1247/18447.htm)
 
 【报名截止：6.19】[网络空间安全学院](https://ccs.scu.edu.cn/info/1026/3708.htm)
 
 【报名截止：6.25】[视觉合成图形图像技术国家级重点实验室](http://vs.scu.edu.cn/info/1052/2066.htm)
 
-【报名截止：6.20 18：00】[数学学院](https://math.scu.edu.cn/info/1025/11181.htm)
+【报名截止：6.20 18:00】[数学学院](https://math.scu.edu.cn/info/1025/11181.htm)
 
-【报名截止：6.21 12：00】[电子信息学院](https://eie.scu.edu.cn/info/1025/12669.htm)
+【报名截止：6.21 12:00】[电子信息学院](https://eie.scu.edu.cn/info/1025/12669.htm)
 
 【报名截止：7.1】[医学前沿科学中心](https://yjs.cd120.com/contents/412/4461.html)
 
@@ -504,7 +510,7 @@
 
 ## 华中师范大学
 
-【报名截止：6.21 17：00】[计算机学院](https://cs.ccnu.edu.cn/info/1056/4298.htm)
+【报名截止：6.21 17:00】[计算机学院](https://cs.ccnu.edu.cn/info/1056/4298.htm)
 
 【报名截止：6.23】[人工智能教育学部](https://foaie.ccnu.edu.cn/info/1008/7070.htm)
 
@@ -614,9 +620,13 @@
 
 【报名截止：6.26】[重庆卓越工程师学院](https://eie.cqu.edu.cn/info/1483/2569.htm)
 
+【报名截止：6.30】[电气工程学院](http://www.cee.cqu.edu.cn/info/3542/19705.htm)
+
 ## 西南交通大学
 
 【报名截止：6.30】[计算机与人工智能学院](http://yz.swjtu.edu.cn/vatuu/PublicActivityAction?setAction=activityDetail&activityId=7E608E004C10BCB6)
+
+【报名截止：6.23】[电气工程学院](http://yz.swjtu.edu.cn/vatuu/PublicActivityAction?setAction=activityDetail&activityId=0C2FA997A26A107A)
 
 ## 西南财经大学
 
@@ -663,6 +673,14 @@
 ## 河南工业大学
 
 ~~【报名截止：6.5】[复杂性科学中心](https://cs.haut.edu.cn/info/1421/5974.htm)~~
+
+## 北京交通大学
+
+【报名截止：6.23】[电子信息工程学院](http://eie.bjtu.edu.cn/WebHtml/newsDetailsPage/1AD28E2E09B3CE23E060403B570306E9)
+
+【报名截止：6.25】[系统科学学院](https://sss.bjtu.edu.cn/cms/item/23356.html)
+
+【报名截止：7.1】[软件学院](	http://rjxy.bjtu.edu.cn/cms/item/995.html)
 
 ## 香港大学
 
