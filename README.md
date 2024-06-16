@@ -570,6 +570,12 @@
 
 【报名截止：6.20】[信息科学与工程学院](https://xxxy.lzu.edu.cn/tongzhigonggao/2024/0529/270494.html)
 
+## 哈尔滨工程大学
+
+> 请注意这**不是**哈尔滨**工业**大学（Harbin Institute of Technology），这不是哈尔滨工业大学，这不是哈尔滨工业大学
+
+【报名截止：6.22】[计算机科学与技术](https://cstc.hrbeu.edu.cn/2023/0615/c3688a310389/page.htm)
+
 ## 东北师范大学
 
 【报名截止：6.26】[信息科学与技术学院](https://ist.nenu.edu.cn/info/1157/5436.htm)
