@@ -312,7 +312,7 @@
 
 ## 吉林大学
 
-~~【报名截止：6.10 8：00】[软件学院](https://csw.jlu.edu.cn/info/1156/7193.htm)~~
+~~【报名截止：6.10 8:00】[软件学院](https://csw.jlu.edu.cn/info/1156/7193.htm)~~
 
 【报名截止：6.20】[吉林大学人工智能学院](http://sai.jlu.edu.cn/info/1065/4700.htm)
 
@@ -452,15 +452,15 @@
 
 ## 四川大学
 
-【报名截止：6.20 12：00】[计算机学院](https://cs.scu.edu.cn/info/1247/18447.htm)
+【报名截止：6.20 12:00】[计算机学院](https://cs.scu.edu.cn/info/1247/18447.htm)
 
 【报名截止：6.19】[网络空间安全学院](https://ccs.scu.edu.cn/info/1026/3708.htm)
 
 【报名截止：6.25】[视觉合成图形图像技术国家级重点实验室](http://vs.scu.edu.cn/info/1052/2066.htm)
 
-【报名截止：6.20 18：00】[数学学院](https://math.scu.edu.cn/info/1025/11181.htm)
+【报名截止：6.20 18:00】[数学学院](https://math.scu.edu.cn/info/1025/11181.htm)
 
-【报名截止：6.21 12：00】[电子信息学院](https://eie.scu.edu.cn/info/1025/12669.htm)
+【报名截止：6.21 12:00】[电子信息学院](https://eie.scu.edu.cn/info/1025/12669.htm)
 
 【报名截止：7.1】[医学前沿科学中心](https://yjs.cd120.com/contents/412/4461.html)
 
@@ -504,7 +504,7 @@
 
 ## 华中师范大学
 
-【报名截止：6.21 17：00】[计算机学院](https://cs.ccnu.edu.cn/info/1056/4298.htm)
+【报名截止：6.21 17:00】[计算机学院](https://cs.ccnu.edu.cn/info/1056/4298.htm)
 
 【报名截止：6.23】[人工智能教育学部](https://foaie.ccnu.edu.cn/info/1008/7070.htm)
 
@@ -617,6 +617,8 @@
 ## 西南交通大学
 
 【报名截止：6.30】[计算机与人工智能学院](http://yz.swjtu.edu.cn/vatuu/PublicActivityAction?setAction=activityDetail&activityId=7E608E004C10BCB6)
+
+【报名截止：6.23】[电气工程学院](http://yz.swjtu.edu.cn/vatuu/PublicActivityAction?setAction=activityDetail&activityId=0C2FA997A26A107A)
 
 ## 西南财经大学
 
