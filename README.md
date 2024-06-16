@@ -451,11 +451,18 @@
 【报名截止：6.27】[SMART-SZBL](https://mp.weixin.qq.com/s/0R-mbkijxFkc9iyy5CvrrA)
 
 ## 四川大学
-【报名截止：6.20中午12：00】[计算机学院](https://cs.scu.edu.cn/info/1247/18447.htm)
+
+【报名截止：6.20 12：00】[计算机学院](https://cs.scu.edu.cn/info/1247/18447.htm)
 
 【报名截止：6.19】[网络空间安全学院](https://ccs.scu.edu.cn/info/1026/3708.htm)
 
 【报名截止：6.25】[视觉合成图形图像技术国家级重点实验室](http://vs.scu.edu.cn/info/1052/2066.htm)
+
+【报名截止：6.20 18：00】[数学学院](https://math.scu.edu.cn/info/1025/11181.htm)
+
+【报名截止：6.21 12：00】[电子信息学院](https://eie.scu.edu.cn/info/1025/12669.htm)
+
+【报名截止：7.1】[医学前沿科学中心](https://yjs.cd120.com/contents/412/4461.html)
 
 ## 山东大学
 
