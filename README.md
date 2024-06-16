@@ -368,16 +368,6 @@
 
 【报名截止：6.21】[（深圳）高等研究院](https://sias.uestc.edu.cn/info/1088/4569.htm)
 
-## 西南交通大学
-
-【报名截止：6.30】[计算机与人工智能学院](http://yz.swjtu.edu.cn/vatuu/PublicActivityAction?setAction=activityDetail&activityId=7E608E004C10BCB6)
-
-## 西湖大学
-
-~~【报名截止：6.10 12:00】[工学院2024年夏令营](https://westlake.edu.cn/admissions_aid/shorttermprograms/tzgg/202404/t20240410_39140.shtml)~~
-
-~~【报名截止：5.31 12:00】[暑期科研实习](https://www.westlake.edu.cn/admissions_aid/shorttermprograms/tzgg/202404/t20240418_39507.shtml)~~
-
 ## 中国科学院
 
 【报名截止：6.26】[自动化研究所](http://www.ia.cas.cn/yjsjy/zs/sszs/202406/t20240612_6967569.html)
@@ -625,6 +615,24 @@
 
 > [华中农业大学夏令营信息](https://yjs.hzau.edu.cn/info/1189/10035.htm)
 
+## 重庆大学
+
+【报名截止：6.26】[重庆卓越工程师学院](https://eie.cqu.edu.cn/info/1483/2569.htm)
+
+## 西南交通大学
+
+【报名截止：6.30】[计算机与人工智能学院](http://yz.swjtu.edu.cn/vatuu/PublicActivityAction?setAction=activityDetail&activityId=7E608E004C10BCB6)
+
+## 西南财经大学
+
+【报名截止：6.27】[计算机与人工智能学院](https://it.swufe.edu.cn/info/1166/16538.htm)
+
+## 西湖大学
+
+~~【报名截止：6.10 12:00】[工学院2024年夏令营](https://westlake.edu.cn/admissions_aid/shorttermprograms/tzgg/202404/t20240410_39140.shtml)~~
+
+~~【报名截止：5.31 12:00】[暑期科研实习](https://www.westlake.edu.cn/admissions_aid/shorttermprograms/tzgg/202404/t20240418_39507.shtml)~~
+
 ## 湖北文理学院
 
 ~~【报名截止：6.10】[电子信息硕士](https://jsjxy.hbuas.edu.cn/info/1070/6404.htm)~~
@@ -739,18 +747,6 @@
 ~~【报名截止：6.11】[北京脑科学与类脑研究所](https://mp.weixin.qq.com/s/L_hylpIfdytHHX34y6qP_w)~~
 
 > ~~北京脑所现与国内五所著名高校联合招生，分别是北京大学、北京协和医学院、北京师范大学、中国农业大学和首都医科大学，本年度的夏令营主要招收有意愿报考北京大学、协和医学院、中国农业大学和首都医科大学的推免本科生。~~
-
-## 重庆大学
-
-【报名截止：6.26】[重庆卓越工程师学院](https://eie.cqu.edu.cn/info/1483/2569.htm)
-
-## 西南交通大学
-
-【报名截止：6.30】[计算机与人工智能学院](http://yz.swjtu.edu.cn/vatuu/PublicActivityAction?setAction=activityDetail&activityId=7E608E004C10BCB6)
-
-## 西南财经大学
-
-【报名截止：6.27】[计算机与人工智能学院](https://it.swufe.edu.cn/info/1166/16538.htm)
 
 # CSWinterCamp2024
 
