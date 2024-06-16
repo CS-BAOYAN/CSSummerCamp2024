@@ -471,6 +471,7 @@
 【报名截止：6.27】[SMART-SZBL](https://mp.weixin.qq.com/s/0R-mbkijxFkc9iyy5CvrrA)
 
 ## 四川大学
+【报名截止：6.20中午12：00】[计算机学院](https://cs.scu.edu.cn/info/1247/18447.htm)
 
 【报名截止：6.19】[网络空间安全学院](https://ccs.scu.edu.cn/info/1026/3708.htm)
 
@@ -647,6 +648,7 @@
 ~~【报名截止：5.1】[HKU CS Early Recruitment Scheme for M.Phil. and Ph.D.](https://i.cs.hku.hk/~gradappl/index.html)~~
 
 ## 香港科技大学
+【报名截止：8.24】[cse early admission](https://cse.hkust.edu.hk/pg/admissions/recruiting/)
 
 【报名截止：6.15】[信息枢纽博士项目夏令营](https://mp.weixin.qq.com/s/Kcqnkg2jewVcjbsmTXFnmw)
 
