@@ -458,7 +458,11 @@
 
 【报名截止：7.1】[软件学院](http://sse.bjtu.edu.cn/cms/item/995.html)  
 
-【报名截止：7.8 12:00】[计算机科学与技术学院](https://cs.bjtu.edu.cn/tzgg/202312183.htm)  
+【报名截止：7.8 12:00】[计算机科学与技术学院](https://cs.bjtu.edu.cn/tzgg/202312183.htm)
+
+【报名截止：6.23】[电子信息工程学院](http://eie.bjtu.edu.cn/WebHtml/newsDetailsPage/1AD28E2E09B3CE23E060403B570306E9)
+
+【报名截止：6.25】[系统科学学院](https://sss.bjtu.edu.cn/cms/item/23356.html)
 
 ## 北京计算科学研究中心
 
@@ -687,14 +691,6 @@
 ## 河南工业大学
 
 ~~【报名截止：6.5】[复杂性科学中心](https://cs.haut.edu.cn/info/1421/5974.htm)~~
-
-## 北京交通大学
-
-【报名截止：6.23】[电子信息工程学院](http://eie.bjtu.edu.cn/WebHtml/newsDetailsPage/1AD28E2E09B3CE23E060403B570306E9)
-
-【报名截止：6.25】[系统科学学院](https://sss.bjtu.edu.cn/cms/item/23356.html)
-
-【报名截止：7.1】[软件学院](	http://rjxy.bjtu.edu.cn/cms/item/995.html)
 
 ## 香港大学
 
