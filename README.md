@@ -744,6 +744,14 @@
 
 【报名截止：6.26】[重庆卓越工程师学院](https://eie.cqu.edu.cn/info/1483/2569.htm)
 
+## 西南交通大学
+
+【报名截止：6.30】[计算机与人工智能学院](http://yz.swjtu.edu.cn/vatuu/PublicActivityAction?setAction=activityDetail&activityId=7E608E004C10BCB6)
+
+## 西南财经大学
+
+【报名截止：6.27】[计算机与人工智能学院](https://it.swufe.edu.cn/info/1166/16538.htm)
+
 # CSWinterCamp2024
 
 ## 清华大学
