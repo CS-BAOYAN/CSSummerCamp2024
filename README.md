@@ -25,8 +25,6 @@
 
 【报名截止：6.20】 [深圳国际研究生院数据与信息研究院管理科学与工程、物流工程与管理项目](https://mp.weixin.qq.com/s/6dOfx45eWHuDDBPulj6hew)
 
-【报名截止：6.15】[神经调控国家工程研究中心](https://mp.weixin.qq.com/s/78ncrcyXagVrPs8whesZiw)
-
 【报名截止：6.30】[自动化系智能与网络化系统研究中心](https://mp.weixin.qq.com/s/l7kGbDxlcb5sOG3_1Bo0MQ)
 
 【报名截止：9.1】[高等研究院](https://www.ias.tsinghua.edu.cn/zsxx.htm)
@@ -36,6 +34,8 @@
 【报名截止：N/A】 [智能产业研究院](https://mp.weixin.qq.com/s/sHhcErP2b-aKcBNsRHugWg)
 
 > 是否有招生名额请联系老师
+
+~~【报名截止：6.15】[神经调控国家工程研究中心](https://mp.weixin.qq.com/s/78ncrcyXagVrPs8whesZiw)~~
 
 ~~【报名截止：6.14】 [深圳国际研究生院数据与信息研究院人工智能项目](https://www.sigs.tsinghua.edu.cn/2024/0520/c120a94481/page.htm)~~
 
@@ -69,11 +69,11 @@
 
 > [北京大学夏令营信息](https://admission.pku.edu.cn/xly/index.htm)
 
-【报名截止：6.15】[未来技术学院](https://future.pku.edu.cn/xwzk/4ef963c7935645bb822acf89f9d39d87.htm)
-
 > 不限于生物学及医学相关专业。欢迎其它理学或者工学专业（如数学、物理、化学、工程、心理、信息、计算机等）对生命科学有着强烈兴趣和科研创造力的申请者。
 
 【报名截止：6.24】[深圳研究院信息工程学院](https://www.ece.pku.edu.cn/info/1027/2770.htm)
+
+~~【报名截止：6.15】[未来技术学院](https://future.pku.edu.cn/xwzk/4ef963c7935645bb822acf89f9d39d87.htm)~~
 
 ~~【报名截止：6.4】[电子学院](https://ele.pku.edu.cn/info/1063/3071.htm)~~
 
@@ -95,14 +95,14 @@
 
 ## 上海交通大学
 
-【报名截止：6.15】[生物医学工程学院（含Med-X研究院）](https://bme.sjtu.edu.cn/Web/Show/3455)
-
 【报名截止：N/A】[人工智能与微结构实验室](https://mp.weixin.qq.com/s/X9LZhlXfM1L2aOIoys3sNQ)
 
 【报名截止：6.16】 [密西根学院](https://mp.weixin.qq.com/s/Y-CGIQ_nB7f5qxhFAvrMCg)
 
 【报名截止：6.20】 [电子信息与电气工程学院](https://www.seiee.sjtu.edu.cn/via/yjspy_zsgz_sszs/10117.html)
 > 2025级电院研究生“优秀生源”活动面向校内外学生选拔，具体依托电气工程系、自动化系、计算机科学与工程系、集成电路学院（电子工程系和微纳电子学系）、感知科学与工程学院、软件学院、网络空间安全学院等单位开展，涵盖电院全部研究生专业（含联培基地、工程硕博士培养改革专项注1、集成电路专项注2），具体以当年招生政策为准。
+
+~~【报名截止：6.15】[生物医学工程学院（含Med-X研究院）](https://bme.sjtu.edu.cn/Web/Show/3455)~~
 
 ~~【报名截止：6.8】 [人工智能学院](https://ga.sjtu.edu.cn/zsgl/xxgs/xlyhdbfmx.aspx)~~
 
@@ -158,8 +158,6 @@
 
 > [浙江大学夏令营信息](http://www.grs.zju.edu.cn/yjszs/2024/0523/c28498a2921525/page.htm)
 
-【报名截止：6.15】[信息与电子工程学院](http://www.isee.zju.edu.cn/2024/0517/c21109a2918416/page.htm)
-
 【报名截止：6.20】[国际联合商学院-数据科学与工程项目](https://zibs.zju.edu.cn/article/summer-camp-2024.html)
 
 【报名截止：6.20】[数据科学研究中心-数据科学与工程项目](http://cds.zju.edu.cn/a/zsxx/3463.html)
@@ -173,6 +171,8 @@
 【报名截止：6.27】[浙江大学伊利诺伊大学厄巴纳香槟校区联合学院](https://zjui.intl.zju.edu.cn/node/2616)
 
 【报名截止：6.16】[良渚实验室](http://liangzhulab.zju.edu.cn/index.php?c=index&a=show&catid=249&id=1534)
+
+~~【报名截止：6.15】[信息与电子工程学院](http://www.isee.zju.edu.cn/2024/0517/c21109a2918416/page.htm)~~
 
 ~~【报名截止：6.3】[脑科学与脑医学学院](http://www.neuroscience.zju.edu.cn/2024/0416/c75666a2902185/page.htm)~~
 
@@ -275,18 +275,6 @@
 ~~【报名截止：6.7 12:00】[电子与信息工程学院](https://see.tongji.edu.cn/info/1147/12581.htm)~~
 
 ~~【报名截止：6.11】[软件学院](https://sse.tongji.edu.cn/info/1132/5077.htm)~~
-
-## 厦门大学
-
-> [厦门大学夏令营通知](https://zs.xmu.edu.cn/info/1055/28951.htm)
-
-【报名截止：6.15】[电子科学与技术学院](https://ese.xmu.edu.cn/info/1018/21449.htm)
-
-【报名截止：6.15】[信息学院](https://informatics.xmu.edu.cn/info/1050/38419.htm)
-
-【报名截止：6.15】[人工智能研究院](https://iai.xmu.edu.cn/info/1110/3974.htm)
-
-【报名截止：6.15】[电影学院](https://film.xmu.edu.cn/info/1208/12795.htm)
 
 ## 中山大学
 
@@ -603,14 +591,6 @@
 
 【报名截止：6.18】[集成电路学院](https://sme.gdut.edu.cn/info/1178/3965.htm)
 
-## 南京师范大学
-
-> [南京师范大学夏令营信息](https://yz.njnu.edu.cn/homepage_display.jsp?wid=null&wid2=14D794593A67E337E06002DF3E094F07)
-
-【报名截止：6.15】[计算机与电子信息学院/人工智能学院](http://ceai.njnu.edu.cn/Item/Show.asp?m=1&d=19264)
-
-【报名截止：6.15】[南瑞电气与自动化学院](https://eae.njnu.edu.cn/info/1044/5723.htm)
-
 ## 华中农业大学
 
 > [华中农业大学夏令营信息](https://yjs.hzau.edu.cn/info/1189/10035.htm)
@@ -626,6 +606,26 @@
 ## 西南财经大学
 
 【报名截止：6.27】[计算机与人工智能学院](https://it.swufe.edu.cn/info/1166/16538.htm)
+
+## 南京师范大学
+
+> [南京师范大学夏令营信息](https://yz.njnu.edu.cn/homepage_display.jsp?wid=null&wid2=14D794593A67E337E06002DF3E094F07)
+
+~~【报名截止：6.15】[计算机与电子信息学院/人工智能学院](http://ceai.njnu.edu.cn/Item/Show.asp?m=1&d=19264)~~
+
+~~【报名截止：6.15】[南瑞电气与自动化学院](https://eae.njnu.edu.cn/info/1044/5723.htm)~~
+
+## 厦门大学
+
+> [厦门大学夏令营通知](https://zs.xmu.edu.cn/info/1055/28951.htm)
+
+~~【报名截止：6.15】[电子科学与技术学院](https://ese.xmu.edu.cn/info/1018/21449.htm)~~
+
+~~【报名截止：6.15】[信息学院](https://informatics.xmu.edu.cn/info/1050/38419.htm)~~
+
+~~【报名截止：6.15】[人工智能研究院](https://iai.xmu.edu.cn/info/1110/3974.htm)~~
+
+~~【报名截止：6.15】[电影学院](https://film.xmu.edu.cn/info/1208/12795.htm)~~
 
 ## 西湖大学
 
@@ -658,9 +658,9 @@
 ## 香港科技大学
 【报名截止：8.24】[cse early admission](https://cse.hkust.edu.hk/pg/admissions/recruiting/)
 
-【报名截止：6.15】[信息枢纽博士项目夏令营](https://mp.weixin.qq.com/s/Kcqnkg2jewVcjbsmTXFnmw)
-
 【报名截止：5.6-N/A】[系统枢纽博士项目夏令营](https://mp.weixin.qq.com/s/7Pymi47l2nyR4imEA4FnZA)
+
+~~【报名截止：6.15】[信息枢纽博士项目夏令营](https://mp.weixin.qq.com/s/Kcqnkg2jewVcjbsmTXFnmw)~~
 
 ~~【报名截止：4.10】[港科广微电子博士优先录取营](https://mp.weixin.qq.com/s/HTg5H3QVOxOLaTIejReL1Q)~~
 
