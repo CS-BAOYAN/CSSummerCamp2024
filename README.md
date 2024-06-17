@@ -668,6 +668,36 @@
 
 【报名截止：6.24】[计算机与信息学院](https://it.ctgu.edu.cn/info/1090/11146.htm)
 
+
+## 香港中文大学
+
+【报名截止：4.1-5.23, 5.24-6.25】[Schedule of the early admission interviews of M.Phil. – Ph.D. Programme for 2025-2026 Intake](https://dept-eappsrv.cse.cuhk.edu.hk/pgas2025/)
+
+~~【报名截止：6.14】[工程学院系统工程与工程管理系（SEEM）博士生夏令营](https://mp.weixin.qq.com/s/GKvRFOTSyl48H4QhNza2uQ)~~
+
+~~【报名截止：6.10】[港中大（深圳）理工学院-本科生科研实践夏令营](https://mp.weixin.qq.com/s/BfEz1DRxRoDTAaTtka9czQ)~~
+
+## 香港科技大学
+【报名截止：8.24】[cse early admission](https://cse.hkust.edu.hk/pg/admissions/recruiting/)
+
+【报名截止：5.6-N/A】[系统枢纽博士项目夏令营](https://mp.weixin.qq.com/s/7Pymi47l2nyR4imEA4FnZA)
+
+~~【报名截止：6.15】[信息枢纽博士项目夏令营](https://mp.weixin.qq.com/s/Kcqnkg2jewVcjbsmTXFnmw)~~
+
+~~【报名截止：4.10】[港科广微电子博士优先录取营](https://mp.weixin.qq.com/s/HTg5H3QVOxOLaTIejReL1Q)~~
+
+~~【报名截止：3.10-3.30】[工学院 SENG Summer Camp](https://seng.hkust.edu.hk/academics/research-postgraduate/summer-camp) | [微信公众号](https://mp.weixin.qq.com/s/BSKsYsn1Oitgr4R2FnBlJw)~~
+
+## 河南工业大学
+
+~~【报名截止：6.5】[复杂性科学中心](https://cs.haut.edu.cn/info/1421/5974.htm)~~
+
+## 香港大学
+
+~~【报名截止：5.31】 [HKU CS Research Internship Programme](https://www.cs.hku.hk/rintern/)~~
+
+~~【报名截止：5.1】[HKU CS Early Recruitment Scheme for M.Phil. and Ph.D.](https://i.cs.hku.hk/~gradappl/index.html)~~
+
 ## 南京师范大学
 
 > [南京师范大学夏令营信息](https://yz.njnu.edu.cn/homepage_display.jsp?wid=null&wid2=14D794593A67E337E06002DF3E094F07)
@@ -697,35 +727,6 @@
 ## 湖北文理学院
 
 ~~【报名截止：6.10】[电子信息硕士](https://jsjxy.hbuas.edu.cn/info/1070/6404.htm)~~
-
-## 香港中文大学
-
-【报名截止：4.1-5.23, 5.24-6.25】[Schedule of the early admission interviews of M.Phil. – Ph.D. Programme for 2025-2026 Intake](https://dept-eappsrv.cse.cuhk.edu.hk/pgas2025/)
-
-~~【报名截止：6.14】[工程学院系统工程与工程管理系（SEEM）博士生夏令营](https://mp.weixin.qq.com/s/GKvRFOTSyl48H4QhNza2uQ)~~
-
-~~【报名截止：6.10】[港中大（深圳）理工学院-本科生科研实践夏令营](https://mp.weixin.qq.com/s/BfEz1DRxRoDTAaTtka9czQ)~~
-
-## 河南工业大学
-
-~~【报名截止：6.5】[复杂性科学中心](https://cs.haut.edu.cn/info/1421/5974.htm)~~
-
-## 香港大学
-
-~~【报名截止：5.31】 [HKU CS Research Internship Programme](https://www.cs.hku.hk/rintern/)~~
-
-~~【报名截止：5.1】[HKU CS Early Recruitment Scheme for M.Phil. and Ph.D.](https://i.cs.hku.hk/~gradappl/index.html)~~
-
-## 香港科技大学
-【报名截止：8.24】[cse early admission](https://cse.hkust.edu.hk/pg/admissions/recruiting/)
-
-【报名截止：5.6-N/A】[系统枢纽博士项目夏令营](https://mp.weixin.qq.com/s/7Pymi47l2nyR4imEA4FnZA)
-
-~~【报名截止：6.15】[信息枢纽博士项目夏令营](https://mp.weixin.qq.com/s/Kcqnkg2jewVcjbsmTXFnmw)~~
-
-~~【报名截止：4.10】[港科广微电子博士优先录取营](https://mp.weixin.qq.com/s/HTg5H3QVOxOLaTIejReL1Q)~~
-
-~~【报名截止：3.10-3.30】[工学院 SENG Summer Camp](https://seng.hkust.edu.hk/academics/research-postgraduate/summer-camp) | [微信公众号](https://mp.weixin.qq.com/s/BSKsYsn1Oitgr4R2FnBlJw)~~
 
 ## 澳门大学
 
