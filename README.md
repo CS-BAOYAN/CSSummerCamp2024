@@ -17,12 +17,6 @@
 
 > [清华大学夏令营信息](https://yz.tsinghua.edu.cn/xlyxx.htm) | [清华大学深圳国际研究生院夏令营信息](https://mp.weixin.qq.com/s/PQEUQqdUTbIW7d6GtqwNbA)
 
-【报名截止：6.16】 [深圳国际研究生院数据与信息研究院数据与信息研究院电子与通信工程项目](https://www.sigs.tsinghua.edu.cn/2024/0521/c120a94526/page.htm)
-
-【报名截止：6.16】 [深圳国际研究生院数据与信息研究院大数据工程](https://www.sigs.tsinghua.edu.cn/2024/0522/c120a94533/page.htm)
-
-【报名截止：6.16】 [深圳国际研究生院数据与信息研究院集成电路与系统](https://www.sigs.tsinghua.edu.cn/2024/0524/c120a94577/page.htm)
-
 【报名截止：6.20】 [深圳国际研究生院数据与信息研究院管理科学与工程、物流工程与管理项目](https://mp.weixin.qq.com/s/6dOfx45eWHuDDBPulj6hew)
 
 【报名截止：6.30】[自动化系智能与网络化系统研究中心](https://mp.weixin.qq.com/s/l7kGbDxlcb5sOG3_1Bo0MQ)
@@ -36,6 +30,12 @@
 【报名截止：N/A】 [智能产业研究院](https://mp.weixin.qq.com/s/sHhcErP2b-aKcBNsRHugWg)
 
 > 是否有招生名额请联系老师
+
+~~【报名截止：6.16】 [深圳国际研究生院数据与信息研究院数据与信息研究院电子与通信工程项目](https://www.sigs.tsinghua.edu.cn/2024/0521/c120a94526/page.htm)~~
+
+~~【报名截止：6.16】 [深圳国际研究生院数据与信息研究院大数据工程](https://www.sigs.tsinghua.edu.cn/2024/0522/c120a94533/page.htm)~~
+
+~~【报名截止：6.16】 [深圳国际研究生院数据与信息研究院集成电路与系统](https://www.sigs.tsinghua.edu.cn/2024/0524/c120a94577/page.htm)~~
 
 ~~【报名截止：6.15】[神经调控国家工程研究中心](https://mp.weixin.qq.com/s/78ncrcyXagVrPs8whesZiw)~~
 
@@ -99,10 +99,10 @@
 
 【报名截止：N/A】[人工智能与微结构实验室](https://mp.weixin.qq.com/s/X9LZhlXfM1L2aOIoys3sNQ)
 
-【报名截止：6.16】 [密西根学院](https://mp.weixin.qq.com/s/Y-CGIQ_nB7f5qxhFAvrMCg)
-
 【报名截止：6.20】 [电子信息与电气工程学院](https://www.seiee.sjtu.edu.cn/via/yjspy_zsgz_sszs/10117.html)
 > 2025级电院研究生“优秀生源”活动面向校内外学生选拔，具体依托电气工程系、自动化系、计算机科学与工程系、集成电路学院（电子工程系和微纳电子学系）、感知科学与工程学院、软件学院、网络空间安全学院等单位开展，涵盖电院全部研究生专业（含联培基地、工程硕博士培养改革专项注1、集成电路专项注2），具体以当年招生政策为准。
+
+~~【报名截止：6.16】 [密西根学院](https://mp.weixin.qq.com/s/Y-CGIQ_nB7f5qxhFAvrMCg)~~
 
 ~~【报名截止：6.15】[生物医学工程学院（含Med-X研究院）](https://bme.sjtu.edu.cn/Web/Show/3455)~~
 
@@ -202,7 +202,7 @@
 
 【报名截止：6.24 17:00】[智慧治理学院2024年暑期研学营](http://zhzl.ruc.edu.cn/zsxx/zsjz/d82cceae4e6644acbc17a22e7029a266.htm)
 
-【报名截止：6.16 17:00】[中国人民大学信息学院](http://info.ruc.edu.cn/rcpy/bss/zsxx3/a945da71ead24051af090a695d0598b7.htm)
+~~【报名截止：6.16 17:00】[中国人民大学信息学院](http://info.ruc.edu.cn/rcpy/bss/zsxx3/a945da71ead24051af090a695d0598b7.htm)~~
 
 ~~【报名截止：6.13】[高瓴人工智能学院AI-Engine实验室](https://mp.weixin.qq.com/s/0BFY6nHouLgSGd5cOizIIg)~~
 
@@ -324,13 +324,13 @@
 
 ## 吉林大学
 
-~~【报名截止：6.10 8:00】[软件学院](https://csw.jlu.edu.cn/info/1156/7193.htm)~~
-
 【报名截止：6.20】[吉林大学人工智能学院](http://sai.jlu.edu.cn/info/1065/4700.htm)
 
-【报名截止：6.16】[电子科学与工程学院](https://ee.jlu.edu.cn/info/1038/8482.htm)
+~~【报名截止：6.16】[电子科学与工程学院](https://ee.jlu.edu.cn/info/1038/8482.htm)~~
 
 ~~【报名截止：6.7】[计算机科学与技术学院](https://ccst.jlu.edu.cn/info/1091/19265.htm)~~
+
+~~【报名截止：6.10 8:00】[软件学院](https://csw.jlu.edu.cn/info/1156/7193.htm)~~
 
 ## 东北大学
 
@@ -354,7 +354,7 @@
 
 【报名截止：6.25】[数据科学与工程学院](https://dase.ecnu.edu.cn/21/c7/c41465a598471/page.htm)
 
-【报名截止：6.16】[临港实验室](https://mp.weixin.qq.com/s/F6B8S1IZJaLKCnvFqKcypA)
+~~【报名截止：6.16】[临港实验室](https://mp.weixin.qq.com/s/F6B8S1IZJaLKCnvFqKcypA)~~
 
 ~~【报名截止：6.10】[统计学院](https://stat.ecnu.edu.cn/14/73/c9708a595059/page.htm)~~
 
@@ -558,10 +558,6 @@
 
 > [南方科技大学夏令营消息](https://gs.sustech.edu.cn/#/admission/detail?current_child_id=142&id=148&article_id=3220)
 
-【报名截止：6.16】[系统设计与智能制造学院](https://mp.weixin.qq.com/s/nRkLSLeb0p5zozRBkwpwZA)
-
-【报名截止：6.16】 [机械与能源工程系](https://mp.weixin.qq.com/s/-cskcfJ608o7RnGGA-vezA)
-
 【报名截止：6.20】[生物医学工程系](https://bme.sustech.edu.cn/20240425-2/?9)
 
 【报名截止：6.20】[深港微电子学院](https://mp.weixin.qq.com/s/gsM2k8jv4ptcguUJ3RU9og)
@@ -569,6 +565,10 @@
 【报名截止：6.23】[创新创业学院](http://ie-school.sustech.edu.cn/page/content?id=629)
 
 ~~【报名截止：5.12】[统计与数据科学系](https://stat-ds.sustech.edu.cn/notice/335)~~
+
+~~【报名截止：6.16】[系统设计与智能制造学院](https://mp.weixin.qq.com/s/nRkLSLeb0p5zozRBkwpwZA)~~
+
+~~【报名截止：6.16】 [机械与能源工程系](https://mp.weixin.qq.com/s/-cskcfJ608o7RnGGA-vezA)~~
 
 ## 上海科技大学
 
@@ -582,9 +582,9 @@
 
 > [上海财经大学夏令营信息](https://gs.sufe.edu.cn/Home/Detail/7620)
 
-【报名截止：6.16】[统计夏令营](https://ssm.sufe.edu.cn/4d/b6/c692a216502/page.htm)
-
 【报名截止：6.25】[交叉科学研究院](https://riis.sufe.edu.cn/jxChinese/4f/4a/c10273a216906/page.htm)
+
+~~【报名截止：6.16】[统计夏令营](https://ssm.sufe.edu.cn/4d/b6/c692a216502/page.htm)~~
 
 ## 湘潭大学
 
