@@ -282,6 +282,12 @@
 
 【报名截止：6.27】[光电与智能研究院](https://iopen.nwpu.edu.cn/info/1028/4836.htm)  
 
+【报名截止：6.24】[自动化学院](https://zdhxy.nwpu.edu.cn/info/1042/20643.htm)  
+
+【报名截止：6.23】[电子信息学院](https://dianzi.nwpu.edu.cn/info/1507/30031.htm)  
+
+【报名截止：6.25】[无人系统技术研究院](https://wurenxitong.nwpu.edu.cn/info/1108/7238.htm)  
+
 ## 同济大学
 
 【报名截止：6.20】[同济大学上海自主智能无人系统科学中心](https://srias.tongji.edu.cn/1e/2d/c17827a335405/page.htm)
@@ -453,6 +459,10 @@
 ## 北京语言大学
 
 > [北京语言大学夏令营信息](https://yjsy.blcu.edu.cn/art/2024/5/17/art_13223_1170150.html)
+
+## 对外经济贸易大学
+
+>[对外经济贸易大学夏令营消息](https://yjsy.uibe.edu.cn/cms/infoSingleArticle.do?articleId=7345&columnId=2398)
 
 ## 北京交通大学  
 
@@ -649,6 +659,10 @@
 ## 西南财经大学
 
 【报名截止：6.27】[计算机与人工智能学院](https://it.swufe.edu.cn/info/1166/16538.htm)
+
+## 三峡大学
+
+【报名截止：6.24】[计算机与信息学院](https://it.ctgu.edu.cn/info/1090/11146.htm)
 
 ## 南京师范大学
 
