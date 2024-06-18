@@ -609,6 +609,10 @@
 
 【报名截止：6.30】[自动化与电子信息学院](https://aei.xtu.edu.cn/info/1039/3728.htm)
 
+## 湖南科技大学
+
+【报名截止：6.27】(学院根据报名情况可提前结束报名)[计算机科学与工程学院](https://computer.hnust.edu.cn/tzgg/0a3d8112b0c544f4a6458a9be9810287.htm)
+
 ## 兰州大学
 
 【报名截止：6.20】[信息科学与工程学院](https://xxxy.lzu.edu.cn/tongzhigonggao/2024/0529/270494.html)
