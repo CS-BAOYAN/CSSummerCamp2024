@@ -524,8 +524,11 @@
 ~~【报名截止：6.11】[数学国家高层次人才培养中心](https://www.math.sdu.edu.cn/info/1031/19849.htm)~~
 
 ## 华南理工大学
+> [华南理工大学2024年夏令营各学院招募方案](https://yanzhao.scut.edu.cn/MasterX/Zmfa.aspx)
+> 
+> (链接会变，从首页点进去)
 
-【报名截止：6.24】[软件学院](https://yanzhao.scut.edu.cn/Public/PdfViewer.html?file=/Public/GetFileHex.aspx?B4BE4CC6D1C772920FC283855A6DC834C76C56D73F690C3D4194EB240634ED8C6EED61CC3292498FDFC832E56FEC89216B66FAB193FA4B5F2D4E2D8A1D6DA19B)
+【报名截止：6.24】[软件学院](https://yanzhao.scut.edu.cn/MasterX/Zmfa.aspx)
 
 ## 华东理工大学
 
