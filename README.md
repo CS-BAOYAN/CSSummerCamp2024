@@ -547,6 +547,10 @@
 
 【报名截止：6.23】[人工智能教育学部](https://foaie.ccnu.edu.cn/info/1008/7070.htm)
 
+## 北京工业大学
+
+> [北京工业大学夏令营信息](https://yanzhao.bjut.edu.cn/info/1722/15904.htm)
+
 ## 中国海洋大学
 
 【报名截止：6.20】[信息科学与工程学部](https://it.ouc.edu.cn/2024/0607/c16066a466732/page.htm)
