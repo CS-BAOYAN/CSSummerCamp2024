@@ -637,7 +637,11 @@
 
 ## 东华大学
 
+> [东华大学夏令营信息](https://yjszs.dhu.edu.cn/2024/0606/c7129a346498/page.htm)
+
 【报名截止：6.24】[信息科学与技术学院](https://web.dhu.edu.cn/cist/2024/0611/c3004a346769/page.htm)
+
+【报名截止：6.28】[计算机科学与技术学院](https://cst.dhu.edu.cn/2024/0617/c12723a347136/page.htm)
 
 ## 大连海事大学
 
