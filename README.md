@@ -216,6 +216,8 @@
 
 【报名截止：6.23】[人工智能学院](https://ai.bupt.edu.cn/info/1065/3416.htm)
 
+【报名截止：7.31】[信息与通信工程学院](https://sice.bupt.edu.cn/info/1013/2326.htm)
+
 ## 北京理工大学
 
 >[北京理工大学2024年博士研究生专项计划招生简章](https://grd.bit.edu.cn/zsgz/bsyjs/gzzd/7855bde08a0e40ff99fca06a5c2b1b8c.htm)  
@@ -352,6 +354,8 @@
 
 【报名截止：6.24】[软件学院](https://ss.dlut.edu.cn/info/1122/28802.htm)
 
+【报名截止：6.24】[计算机学院](https://cs.dlut.edu.cn/info/1316/3519.htm)
+
 ## 华东师范大学
 
 > [华东师范大学夏令营信息](https://yjszs.ecnu.edu.cn/15/a2/c43265a595362/page.htm)
@@ -467,6 +471,8 @@
 
 > [北京语言大学夏令营信息](https://yjsy.blcu.edu.cn/art/2024/5/17/art_13223_1170150.html)
 
+【报名截止：7.5】[语言智能研究院](https://mp.weixin.qq.com/s/-mgDyLPzizPcuSOh2j-T-w)
+
 ## 对外经济贸易大学
 
 >[对外经济贸易大学夏令营消息](https://yjsy.uibe.edu.cn/cms/infoSingleArticle.do?articleId=7345&columnId=2398)
@@ -555,6 +561,8 @@
 ## 北京工业大学
 
 > [北京工业大学夏令营信息](https://yanzhao.bjut.edu.cn/info/1722/15904.htm)
+
+【报名截止：6.30】[计算机学院](https://yanzhao.bjut.edu.cn/info/1025/15888.htm)
 
 ## 中国海洋大学
 
@@ -693,6 +701,8 @@
 ## 南京理工大学
 
 【报名截止：6.25】[计算机科学与工程学院](https://cs.njust.edu.cn/1f/a8/c1820a335784/page.htm)
+
+【报名截止：7.2】[网络空间安全学院](https://mp.weixin.qq.com/s/MAAb5REsBRIUQcjkUrdpJg)
 
 ## 香港中文大学
 
