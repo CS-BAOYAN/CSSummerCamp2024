@@ -633,6 +633,10 @@
 
 【报名截止：6.20】[信息科学与工程学院](https://xxxy.lzu.edu.cn/tongzhigonggao/2024/0529/270494.html)
 
+## 国防科技大学
+
+【报名截止：6月27日24时】[计算机学院](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13803)
+
 ## 哈尔滨工程大学
 
 > 请注意这**不是**哈尔滨**工业**大学（Harbin Institute of Technology），这不是哈尔滨工业大学，这不是哈尔滨工业大学
