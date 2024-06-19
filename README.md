@@ -396,7 +396,7 @@
 
 ## 中国科学院
 
-【报名截止：6.26】[自动化研究所](http://www.ia.cas.cn/yjsjy/zs/sszs/202406/t20240612_6967569.html)
+【报名截止：6.26】[自动化研究所](https://ia.cas.cn/yjsjy/zs/sszs/202406/t20240613_7188181.html)
 
 【报名截止：6.25】[计算技术研究所](http://www.ict.ac.cn/yjsjy/zsxx/sszs/202406/t20240618_7191570.html)
 
