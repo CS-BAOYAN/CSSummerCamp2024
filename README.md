@@ -136,10 +136,6 @@
 
 【报名截止：6.20】[软件学院](https://software.nju.edu.cn//tzgg/20240528/i267245.html)
 
-【报名截止：6.18】[南大NLP夏令营](https://mp.weixin.qq.com/s/jWJiq2E2gHha_K9ryWg2sA)
-
-> * 注意：该夏令营与计算机系以及人工智能学院的推免夏令营无关。
-
 【报名截止：7.15】[匡亚明学院](https://dii.nju.edu.cn/89/f5/c15501a690677/page.htm)
 
 ~~【报名截止：6.14】[电子科学与工程学院](https://ese.nju.edu.cn/75/bb/c22673a685499/page.htm)~~
@@ -155,6 +151,10 @@
 ~~【报名截止：6.2 23:59】[人工智能学院](https://ai.nju.edu.cn/6d/dc/c53055a683484/page.htm)~~
 
 ~~【报名截止：6.13 17:00】[智能科学与技术学院](https://is.nju.edu.cn/7c/5f/c57162a687199/page.htm)~~
+
+~~【报名截止：6.18】[南大NLP夏令营](https://mp.weixin.qq.com/s/jWJiq2E2gHha_K9ryWg2sA)~~
+
+> ~~* 注意：该夏令营与计算机系以及人工智能学院的推免夏令营无关。~~
 
 ## 浙江大学
 
@@ -180,13 +180,13 @@
 
 ## 武汉大学
 
-【报名截止：6.18】[信息管理学院](https://sim.whu.edu.cn/info/1776/97752.htm)
-
 【报名截止：6.23】[武汉大学测绘遥感信息工程国家重点实验室](https://liesmars.whu.edu.cn/info/1058/16203.htm)
 
 【报名截止：6.20 23:00】[武汉大学计算机学院](https://cs.whu.edu.cn/info/1071/44151.htm)  
 
 【报名截止：6.27 0:00】[武汉大学网络空间安全学院](https://cse.whu.edu.cn/info/1101/23762.htm)
+
+~~【报名截止：6.18】[信息管理学院](https://sim.whu.edu.cn/info/1776/97752.htm)~~
 
 ## 南开大学
 
@@ -342,11 +342,11 @@
 
 > [东北大学夏令营通知](http://yz.neu.edu.cn/2024/0606/c5932a256581/page.htm)
 
-【报名截止：6.18】[软件学院](http://sc.neu.edu.cn/2024/0607/c141a256671/pagem.htm)
-
-【报名截止：6.18】[计算机学院](http://www.cse.neu.edu.cn/2024/0611/c6274a256749/page.htm)
-
 【报名截止：6.30】[机器人科学与工程学院](http://www.rse.neu.edu.cn/2024/0612/c2147a256868/page.htm)
+
+~~【报名截止：6.18】[软件学院](http://sc.neu.edu.cn/2024/0607/c141a256671/pagem.htm)~~
+
+~~【报名截止：6.18】[计算机学院](http://www.cse.neu.edu.cn/2024/0611/c6274a256749/page.htm)~~
 
 ## 大连理工大学
 
@@ -640,7 +640,7 @@
 
 > [西南大学夏令营信息](http://yz.swu.edu.cn/info/1005/3046.htm)
 
-【报名截止：6.18】[计算机与信息科学学院/软件学院](http://cis.swu.edu.cn/info/1145/4766.htm)
+~~【报名截止：6.18】[计算机与信息科学学院/软件学院](http://cis.swu.edu.cn/info/1145/4766.htm)~~
 
 ~~【报名截止：6.9】[心理学与脑科学](http://psy.swu.edu.cn/info/1085/3736.htm)~~
 
@@ -664,7 +664,7 @@
 
 【报名截止：6.19】[信息工程学院](https://xxgcxy.gdut.edu.cn/info/1210/8240.htm)
 
-【报名截止：6.18】[集成电路学院](https://sme.gdut.edu.cn/info/1178/3965.htm)
+~~【报名截止：6.18】[集成电路学院](https://sme.gdut.edu.cn/info/1178/3965.htm)~~
 
 ## 华中农业大学
 
