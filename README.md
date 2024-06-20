@@ -368,9 +368,9 @@
 
 > [华东师范大学夏令营信息](https://yjszs.ecnu.edu.cn/15/a2/c43265a595362/page.htm)
 
-【报名截止：6.20】[计算机科学与技术学院 ](https://cs.ecnu.edu.cn/25/15/c19867a599317/page.htm)
-
 【报名截止：6.25】[数据科学与工程学院](https://dase.ecnu.edu.cn/21/c7/c41465a598471/page.htm)
+
+~~【报名截止：6.20】[计算机科学与技术学院 ](https://cs.ecnu.edu.cn/25/15/c19867a599317/page.htm)~~
 
 ~~【报名截止：6.16】[临港实验室](https://mp.weixin.qq.com/s/F6B8S1IZJaLKCnvFqKcypA)~~
 
