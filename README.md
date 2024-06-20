@@ -244,7 +244,7 @@
 
 【报名截止：7.9】[人工智能学院](https://mp.weixin.qq.com/s/Z02xlYAM-CYAud4zunRdBw)
 
-【报名截止：7.9】[地理科学学部-"遥感科学与技术&地图学与地理信息系统"](https://geo.bnu.edu.cn/tzgg/103ee34a3c3045539ec2649757ac0324.html)
+【报名截止：7.9】[地理科学学部-"遥感科学与技术&地图学与地理信息系统"](https://geo.bnu.edu.cn/tzgg/103ee34a3c3045539ec2649757ac0324.html)  
 
 ## 哈尔滨工业大学
 
@@ -634,7 +634,9 @@
 
 ## 中央财经大学
 
-【报名截止：7.1 9：00】[信息学院](https://ie.cufe.edu.cn/info/1341/6668.htm)
+【报名截止：7.1 9：00】[信息学院](https://ie.cufe.edu.cn/info/1341/6668.htm)  
+
+【报名截止：7.3 24:00】[会计学院AI+MPAcc项目](https://soa.cufe.edu.cn/info/1180/7056.htm)  
 
 ## 上海理工大学
 
