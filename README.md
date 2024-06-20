@@ -717,6 +717,8 @@
 
 > [北京航空航天大学夏令营信息](https://yzb.buaa.edu.cn/info/1036/3101.htm)
 
+【报名截止：6.28】[计算机学院暑期开放日](https://scse.buaa.edu.cn/info/1299/11192.htm)
+
 ## 对外经济贸易大学
 
 >[对外经济贸易大学夏令营消息](https://yjsy.uibe.edu.cn/cms/infoSingleArticle.do?articleId=7345&columnId=2398)
