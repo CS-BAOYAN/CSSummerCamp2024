@@ -176,6 +176,10 @@
 
 ~~【报名截止：6.3】[脑科学与脑医学学院](http://www.neuroscience.zju.edu.cn/2024/0416/c75666a2902185/page.htm)~~
 
+## 东南大学
+
+【报名截止：N/A】[东南大学PALM实验室](https://palm.seu.edu.cn/application.html)
+
 ## 武汉大学
 
 【报名截止：6.23】[武汉大学测绘遥感信息工程国家重点实验室](https://liesmars.whu.edu.cn/info/1058/16203.htm)
