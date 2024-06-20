@@ -180,6 +180,10 @@
 
 【报名截止：N/A】[东南大学PALM实验室](https://palm.seu.edu.cn/application.html)
 
+## 华中科技大学
+
+【报名截止：6.28 12:00】[人工智能与自动化学院](https://aia.hust.edu.cn/info/1177/9301.htm)
+
 ## 武汉大学
 
 【报名截止：6.23】[武汉大学测绘遥感信息工程国家重点实验室](https://liesmars.whu.edu.cn/info/1058/16203.htm)
