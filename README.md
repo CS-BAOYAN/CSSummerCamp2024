@@ -218,6 +218,9 @@
 
 【报名截止：7.31】[信息与通信工程学院](https://sice.bupt.edu.cn/info/1013/2326.htm)
 
+【报名截止：6.25】[网络空间安全学院](https://scss.bupt.edu.cn/info/1110/5595.htm)
+
+
 ## 北京理工大学
 
 >[北京理工大学2024年博士研究生专项计划招生简章](https://grd.bit.edu.cn/zsgz/bsyjs/gzzd/7855bde08a0e40ff99fca06a5c2b1b8c.htm)  
