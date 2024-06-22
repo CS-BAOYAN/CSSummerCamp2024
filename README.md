@@ -511,7 +511,7 @@
 
 【报名截止：7.1】[软件学院](http://sse.bjtu.edu.cn/cms/item/995.html)  
 
-【报名截止：7.8 12:00】[计算机科学与技术学院](https://cs.bjtu.edu.cn/tzgg/202312183.htm)
+【报名截止：7.8 12:00】[计算机科学与技术学院](https://cs.bjtu.edu.cn/zsjy/yjszs3/yjszs_sszs/202312182.htm)
 
 【报名截止：6.23】[电子信息工程学院](http://eie.bjtu.edu.cn/WebHtml/newsDetailsPage/1AD28E2E09B3CE23E060403B570306E9)
 
