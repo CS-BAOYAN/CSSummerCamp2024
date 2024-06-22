@@ -370,7 +370,7 @@
 
 【报名截止：6.24】[软件学院](https://ss.dlut.edu.cn/info/1122/28802.htm)
 
-【报名截止：6.24】[计算机学院](https://cs.dlut.edu.cn/info/1316/3519.htm)
+【报名截止：6.27】[计算机学院](https://cs.dlut.edu.cn/info/1316/3519.htm)
 
 ## 华东师范大学
 
