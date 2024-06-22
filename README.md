@@ -237,7 +237,7 @@
 
 【报名截止：6.25 12:00】[网络空间安全学院](https://cst.bit.edu.cn/xxfw/tzgg/2fa2fa019403455b9f92e96650f87f2b.htm)  
 
-【报名截止：6.21】[集成电路与电子学院](https://mp.weixin.qq.com/s/aHNgeimsI-1qB4d_8vKFJQ)
+~~【报名截止：6.21】[集成电路与电子学院](https://mp.weixin.qq.com/s/aHNgeimsI-1qB4d_8vKFJQ)~~
 
 【报名截止：6.27】[前沿交叉科学研究院](https://arims.bit.edu.cn/tz/c9af7401b6be49beb2fb5dbd31d84611.htm)
 
@@ -322,7 +322,7 @@
 
 【报名截止：6.24】[人工智能学院](https://sai.sysu.edu.cn/notice/1415979.htm)
 
-【报名截止：6.21】[网络空间安全学院](https://scst.sysu.edu.cn/rc/rc02/1416009.htm)
+~~【报名截止：6.21】[网络空间安全学院](https://scst.sysu.edu.cn/rc/rc02/1416009.htm)~~
 
 【报名截止：7.1】[软件工程学院](https://sse.sysu.edu.cn/article/723)
 
@@ -395,9 +395,9 @@
 【报名截止：6.24 17:00】[智能计算研究院](https://icct.uestc.edu.cn/info/1029/1665.htm)
 > 成电2023年新成立的研究院，国家级重点实验室，2023已招收一届推免生，今年第一次开展夏令营活动。
 
-【报名截止：6.21】[（深圳）高等研究院](https://sias.uestc.edu.cn/info/1088/4569.htm)
+~~【报名截止：6.21】[（深圳）高等研究院](https://sias.uestc.edu.cn/info/1088/4569.htm)~~
 
-【报名截止：6.21】[通信抗干扰实验室](https://www.ncl.uestc.edu.cn/info/1083/2934.htm)
+~~【报名截止：6.21】[通信抗干扰实验室](https://www.ncl.uestc.edu.cn/info/1083/2934.htm)~~
 > 对信息与通信工程、网络空间安全、电子信息学科专业有浓厚兴趣，愿意从事相关领域学术研究或工程应用工作
 
 【报名截止：6.28 17:00】 [电子科学技术研究院](https://www.riest.uestc.edu.cn/info/1021/2978.htm)
@@ -527,11 +527,11 @@
 
 【报名截止：6.25】[视觉合成图形图像技术国家级重点实验室](http://vs.scu.edu.cn/info/1052/2066.htm)
 
-【报名截止：6.21 12:00】[电子信息学院](https://eie.scu.edu.cn/info/1025/12669.htm)
+~~【报名截止：6.21 12:00】[电子信息学院](https://eie.scu.edu.cn/info/1025/12669.htm)~~
 
 【报名截止：7.1】[医学前沿科学中心](https://yjs.cd120.com/contents/412/4461.html)  
 
-【报名截止：6.21 24:00】[生物医学工程学院/国家生物医学材料工程技术研究中心](https://bme.scu.edu.cn/info/1011/3060.htm)  
+~~【报名截止：6.21 24:00】[生物医学工程学院/国家生物医学材料工程技术研究中心](https://bme.scu.edu.cn/info/1011/3060.htm)~~
 
 ~~【报名截止：6.19】[网络空间安全学院](https://ccs.scu.edu.cn/info/1026/3708.htm)~~
 
@@ -602,7 +602,7 @@
 
 ## 华中师范大学
 
-【报名截止：6.21 17:00】[计算机学院](https://cs.ccnu.edu.cn/info/1056/4298.htm)
+~~【报名截止：6.21 17:00】[计算机学院](https://cs.ccnu.edu.cn/info/1056/4298.htm)~~
 
 【报名截止：6.23】[人工智能教育学部](https://foaie.ccnu.edu.cn/info/1008/7070.htm)
 
