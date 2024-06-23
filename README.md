@@ -318,10 +318,6 @@
 
 【报名截止：6.25 24:00】[计算机学院](https://cse.sysu.edu.cn/content/7106)
 
-【报名截止：6.23】[微电子科学与技术学院](https://mst.sysu.edu.cn/article/997)
-
-【报名截止：6.23】[电子与信息工程学院（微电子学院）](https://seit.sysu.edu.cn/article/2594)
-
 【报名截止：6.24】[人工智能学院](https://sai.sysu.edu.cn/notice/1415979.htm)
 
 ~~【报名截止：6.21】[网络空间安全学院](https://scst.sysu.edu.cn/rc/rc02/1416009.htm)~~
@@ -331,6 +327,10 @@
 【报名截止：6.25】[生物医学工程学院](https://mp.weixin.qq.com/s/04MmHD-vq6iW812PZ44JJw)
 
 ~~【报名截止：6.20】[电子与通信工程学院](https://sece.sysu.edu.cn/zs/zs01/1415996.htm)~~
+
+~~【报名截止：6.23】[微电子科学与技术学院](https://mst.sysu.edu.cn/article/997)~~
+
+~~【报名截止：6.23】[电子与信息工程学院（微电子学院）](https://seit.sysu.edu.cn/article/2594)~~
 
 ## 天津大学
 
@@ -488,7 +488,7 @@
 
 > [南方科技大学夏令营消息](https://gs.sustech.edu.cn/#/admission/detail?current_child_id=142&id=148&article_id=3220)
 
-【报名截止：6.23】[创新创业学院](http://ie-school.sustech.edu.cn/page/content?id=629)
+~~【报名截止：6.23】[创新创业学院](http://ie-school.sustech.edu.cn/page/content?id=629)~~
 
 ~~【报名截止：5.12】[统计与数据科学系](https://stat-ds.sustech.edu.cn/notice/335)~~
 
@@ -671,7 +671,7 @@
 
 > 请注意这**不是**哈尔滨**工业**大学（Harbin Institute of Technology），这不是哈尔滨工业大学，这不是哈尔滨工业大学
 
-【报名截止：6.22】[计算机科学与技术](https://cstc.hrbeu.edu.cn/2023/0615/c3688a310389/page.htm)
+~~【报名截止：6.22】[计算机科学与技术](https://cstc.hrbeu.edu.cn/2023/0615/c3688a310389/page.htm)~~
 
 ## 东北师范大学
 
