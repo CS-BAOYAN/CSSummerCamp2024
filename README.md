@@ -389,8 +389,6 @@
 
 > [电子科技大学夏令营信息](https://yz.uestc.edu.cn/info/1064/5074.htm) | [电子科技大学2025年研究生招生线上宣讲会](https://yz.uestc.edu.cn/info/1081/5104.htm)
 
-【报名截止：6.24 9:00】[信息与软件工程学院](https://sise.uestc.edu.cn/info/1026/12435.htm)
-
 【报名截止：6.24 17:00】[计算机(网安)学院](https://www.scse.uestc.edu.cn/info/1015/16136.htm)
 
 【报名截止：6.24 17:00】[智能计算研究院](https://icct.uestc.edu.cn/info/1029/1665.htm)
@@ -406,6 +404,8 @@
 
 【报名截止：6.28 17:00】 [电子科学技术研究院](https://www.riest.uestc.edu.cn/info/1021/2978.htm)
 > 本科专业为数学、物理、统计学或电子信息类专业，欢迎对人工智能及大数据感兴趣的同学
+
+~~【报名截止：6.24 9:00】[信息与软件工程学院](https://sise.uestc.edu.cn/info/1026/12435.htm)~~
 
 ## 中国科学院
 
