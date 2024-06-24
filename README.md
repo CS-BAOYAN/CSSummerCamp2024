@@ -821,6 +821,10 @@
 
 ~~【报名截止：6.10】[电子信息硕士](https://jsjxy.hbuas.edu.cn/info/1070/6404.htm)~~
 
+## 江西农业大学
+
+~~ 【报名截止：2024.6.25】 [计算机与信息工程学院](https://jixin.jxau.edu.cn/13/1f/c1895a135967/page.htm)
+
 ## 澳门大学
 
 ~~【报名截止：5.1】[第五届优秀大学生暑期研习营](https://www.fst.um.edu.mo/event/the-5th-summer-camp-for-outstanding-students-now-open-for-application/)~~
