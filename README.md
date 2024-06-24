@@ -740,6 +740,10 @@
 
 【报名截止：6.25】[软件学院](https://soft.buaa.edu.cn/news_nry.jsp?urltype=news.NewsContentUrl&wbtreeid=1325&wbnewsid=11312)
 
+## 江西农业大学
+
+【报名截止：2024.6.26】 [计算机与信息工程学院](https://jixin.jxau.edu.cn/13/1f/c1895a135967/page.htm)
+
 ## 对外经济贸易大学
 
 >[对外经济贸易大学夏令营消息](https://yjsy.uibe.edu.cn/cms/infoSingleArticle.do?articleId=7345&columnId=2398)
@@ -820,10 +824,6 @@
 ## 湖北文理学院
 
 ~~【报名截止：6.10】[电子信息硕士](https://jsjxy.hbuas.edu.cn/info/1070/6404.htm)~~
-
-## 江西农业大学
-
-~~ 【报名截止：2024.6.25】 [计算机与信息工程学院](https://jixin.jxau.edu.cn/13/1f/c1895a135967/page.htm)
 
 ## 澳门大学
 
