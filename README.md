@@ -160,13 +160,13 @@
 
 > [浙江大学夏令营信息](http://www.grs.zju.edu.cn/yjszs/2024/0523/c28498a2921525/page.htm)
 
-【报名截止：6.23】[软件学院](http://www.cst.zju.edu.cn/2024/0531/c32178a2926228/page.htm)
-
 【报名截止：6.25】[计算机学院](http://www.cs.zju.edu.cn/csen/2024/0527/c27011a2923257/page.htm)
 
 【报名截止：6.25】[网络空间安全学院](https://icsr.zju.edu.cn/2024/0528/c70139a2924266/page.htm)
 
 【报名截止：6.27】[浙江大学伊利诺伊大学厄巴纳香槟校区联合学院](https://zjui.intl.zju.edu.cn/node/2616)
+
+~~【报名截止：6.23】[软件学院](http://www.cst.zju.edu.cn/2024/0531/c32178a2926228/page.htm)~~
 
 ~~【报名截止：6.16】[良渚实验室](http://liangzhulab.zju.edu.cn/index.php?c=index&a=show&catid=249&id=1534)~~
 
@@ -190,9 +190,9 @@
 
 ## 武汉大学
 
-【报名截止：6.23】[武汉大学测绘遥感信息工程国家重点实验室](https://liesmars.whu.edu.cn/info/1058/16203.htm)
-
 【报名截止：6.27 0:00】[武汉大学网络空间安全学院](https://cse.whu.edu.cn/info/1101/23762.htm)
+
+~~【报名截止：6.23】[武汉大学测绘遥感信息工程国家重点实验室](https://liesmars.whu.edu.cn/info/1058/16203.htm)~~
 
 ~~【报名截止：6.18】[信息管理学院](https://sim.whu.edu.cn/info/1776/97752.htm)~~
 
@@ -224,14 +224,13 @@
 
 【报名截止：7.31】[电子工程学院](https://see.bupt.edu.cn/info/1047/2741.htm)
 
-【报名截止：6.23】[计算机学院](https://scs.bupt.edu.cn/info/1050/3886.htm)
-
-【报名截止：6.23】[人工智能学院](https://ai.bupt.edu.cn/info/1065/3416.htm)
-
 【报名截止：7.31】[信息与通信工程学院](https://sice.bupt.edu.cn/info/1013/2326.htm)
 
 【报名截止：6.25】[网络空间安全学院](https://scss.bupt.edu.cn/info/1110/5595.htm)
 
+~~【报名截止：6.23】[计算机学院](https://scs.bupt.edu.cn/info/1050/3886.htm)~~
+
+~~【报名截止：6.23】[人工智能学院](https://ai.bupt.edu.cn/info/1065/3416.htm)~~
 
 ## 北京理工大学
 
@@ -292,8 +291,6 @@
 
 ## 西北工业大学
 
-【报名截止：6.23】[计算机学院](https://jsj.nwpu.edu.cn/info/1599/22435.htm)
-
 【报名截止：6.24】[软件学院](https://ruanjian.nwpu.edu.cn/info/1133/9736.htm)  
 
 【报名截止：6.24】[网络空间安全学院](https://wlkjaqxy.nwpu.edu.cn/info/1044/7850.htm)  
@@ -302,9 +299,11 @@
 
 【报名截止：6.24】[自动化学院](https://zdhxy.nwpu.edu.cn/info/1042/20643.htm)  
 
-【报名截止：6.23】[电子信息学院](https://dianzi.nwpu.edu.cn/info/1507/30031.htm)  
-
 【报名截止：6.25】[无人系统技术研究院](https://wurenxitong.nwpu.edu.cn/info/1108/7238.htm)  
+
+~~【报名截止：6.23】[电子信息学院](https://dianzi.nwpu.edu.cn/info/1507/30031.htm)~~
+
+~~【报名截止：6.23】[计算机学院](https://jsj.nwpu.edu.cn/info/1599/22435.htm)~~
 
 ## 同济大学
 
@@ -502,11 +501,11 @@
 
 ## 上海科技大学
 
-【报名截止：6.23】[信息科学与技术学院](https://sist.shanghaitech.edu.cn/2024/0513/c7339a1096341/page.htm)
-
 【报名截止：6.30】[临港实验室](https://www.lglab.ac.cn/sylbt/202404/t20240425_212225.html)
 
 【报名截止：6.30】[生物医学工程学院](https://mp.weixin.qq.com/s/QCbT2n5klB_LY0XLUvd-bQ)
+
+~~【报名截止：6.23】[信息科学与技术学院](https://sist.shanghaitech.edu.cn/2024/0513/c7339a1096341/page.htm)~~
 
 ## 北京交通大学  
 
@@ -514,9 +513,9 @@
 
 【报名截止：7.8 12:00】[计算机科学与技术学院](https://cs.bjtu.edu.cn/zsjy/yjszs3/yjszs_sszs/202312182.htm)
 
-【报名截止：6.23】[电子信息工程学院](http://eie.bjtu.edu.cn/WebHtml/newsDetailsPage/1AD28E2E09B3CE23E060403B570306E9)
-
 【报名截止：6.25】[系统科学学院](https://sss.bjtu.edu.cn/cms/item/23356.html)
+
+~~【报名截止：6.23】[电子信息工程学院](http://eie.bjtu.edu.cn/WebHtml/newsDetailsPage/1AD28E2E09B3CE23E060403B570306E9)~~
 
 ## 北京计算科学研究中心
 
@@ -607,7 +606,7 @@
 
 ~~【报名截止：6.21 17:00】[计算机学院](https://cs.ccnu.edu.cn/info/1056/4298.htm)~~
 
-【报名截止：6.23】[人工智能教育学部](https://foaie.ccnu.edu.cn/info/1008/7070.htm)
+~~【报名截止：6.23】[人工智能教育学部](https://foaie.ccnu.edu.cn/info/1008/7070.htm)~~
 
 ## 北京工业大学
 
@@ -629,9 +628,9 @@
 
 > [江南大学夏令营信息](https://yz.jiangnan.edu.cn/info/1029/3458.htm)
 
-【报名截止：6.23】 [人工智能与计算机学院](https://ai.jiangnan.edu.cn/info/1055/3790.htm)
+~~【报名截止：6.23】 [人工智能与计算机学院](https://ai.jiangnan.edu.cn/info/1055/3790.htm)~~
 
-【报名截止：6.23】 [物联网工程学院](https://iot.jiangnan.edu.cn/info/1022/3792.htm)
+~~【报名截止：6.23】 [物联网工程学院](https://iot.jiangnan.edu.cn/info/1022/3792.htm)~~
 
 ## 上海财经大学
 
@@ -705,7 +704,7 @@
 
 【报名截止：6.30】[计算机与人工智能学院](http://yz.swjtu.edu.cn/vatuu/PublicActivityAction?setAction=activityDetail&activityId=7E608E004C10BCB6)
 
-【报名截止：6.23】[电气工程学院](http://yz.swjtu.edu.cn/vatuu/PublicActivityAction?setAction=activityDetail&activityId=0C2FA997A26A107A)
+~~【报名截止：6.23】[电气工程学院](http://yz.swjtu.edu.cn/vatuu/PublicActivityAction?setAction=activityDetail&activityId=0C2FA997A26A107A)~~
 
 ## 南京理工大学
 
