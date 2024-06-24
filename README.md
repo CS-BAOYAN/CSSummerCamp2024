@@ -275,7 +275,7 @@
 
 > [西安交通大学电子信息学部夏令营通知](http://eiegrad.xjtu.edu.cn/info/1013/3457.htm)
 
-【报名截止：6.25】[软件学院](http://se.xjtu.edu.cn/info/1043/2679.htm)
+【报名截止：6.25】[软件学院](https://se.xjtu.edu.cn/info/1043/3217.htm)
 
 【报名截止：N/A】[西安交通大学网络空间安全学院](http://cybersec.xjtu.edu.cn/info/1017/1932.htm)
 
