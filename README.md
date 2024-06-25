@@ -244,13 +244,13 @@
 
 ## 西北工业大学
 
-【报名截止：6.24】[软件学院](https://ruanjian.nwpu.edu.cn/info/1133/9736.htm)  
+~~【报名截止：6.24】[软件学院](https://ruanjian.nwpu.edu.cn/info/1133/9736.htm)~~
 
-【报名截止：6.24】[网络空间安全学院](https://wlkjaqxy.nwpu.edu.cn/info/1044/7850.htm)  
+~~【报名截止：6.24】[网络空间安全学院](https://wlkjaqxy.nwpu.edu.cn/info/1044/7850.htm)~~
 
 【报名截止：6.27】[光电与智能研究院](https://iopen.nwpu.edu.cn/info/1028/4836.htm)  
 
-【报名截止：6.24】[自动化学院](https://zdhxy.nwpu.edu.cn/info/1042/20643.htm)  
+~~【报名截止：6.24】[自动化学院](https://zdhxy.nwpu.edu.cn/info/1042/20643.htm)~~
 
 【报名截止：6.25】[无人系统技术研究院](https://wurenxitong.nwpu.edu.cn/info/1108/7238.htm)  
 
@@ -262,7 +262,7 @@
 
 【报名截止：6.25 24:00】[计算机学院](https://cse.sysu.edu.cn/content/7106)
 
-【报名截止：6.24】[人工智能学院](https://sai.sysu.edu.cn/notice/1415979.htm)
+~~【报名截止：6.24】[人工智能学院](https://sai.sysu.edu.cn/notice/1415979.htm)~~
 
 ~~【报名截止：6.21】[网络空间安全学院](https://scst.sysu.edu.cn/rc/rc02/1416009.htm)~~
 
@@ -292,6 +292,16 @@
 
 【报名截止：6.27】[计算机学院](https://cs.dlut.edu.cn/info/1316/3519.htm)
 
+## 新疆大学
+
+【报名截止：6.30】[软件学院](https://ss.xju.edu.cn/__local/E/8D/CD/35B431163E1EFE73225ECAF1C0B_53070F25_477F0.pdf)
+
+【报名截止：7.1】[计算机学院](https://it.xju.edu.cn/info/1101/3167.htm)
+
+## 海河大学
+
+【报名截止：6.30】[计算机学院](https://cies.hhu.edu.cn/2024/0624/c4093a285216/page.htm)
+
 ## 华东师范大学
 
 > [华东师范大学夏令营信息](https://yjszs.ecnu.edu.cn/15/a2/c43265a595362/page.htm)
@@ -310,11 +320,14 @@
 
 > [电子科技大学夏令营信息](https://yz.uestc.edu.cn/info/1064/5074.htm) | [电子科技大学2025年研究生招生线上宣讲会](https://yz.uestc.edu.cn/info/1081/5104.htm)
 
-【报名截止：6.24 17:00】[计算机(网安)学院](https://www.scse.uestc.edu.cn/info/1015/16136.htm)
+【报名截止：6.28 17:00】 [电子科学技术研究院](https://www.riest.uestc.edu.cn/info/1021/2978.htm)
+> 本科专业为数学、物理、统计学或电子信息类专业，欢迎对人工智能及大数据感兴趣的同学
 
-【报名截止：6.24 17:00】[智能计算研究院](https://icct.uestc.edu.cn/info/1029/1665.htm)
+~~【报名截止：6.24 17:00】[计算机(网安)学院](https://www.scse.uestc.edu.cn/info/1015/16136.htm)~~
 
-【报名截止：6.24 12:00】[基础与前沿研究院](https://www.iffs.uestc.edu.cn/info/1049/5071.htm)
+~~【报名截止：6.24 17:00】[智能计算研究院](https://icct.uestc.edu.cn/info/1029/1665.htm)~~
+
+~~【报名截止：6.24 12:00】[基础与前沿研究院](https://www.iffs.uestc.edu.cn/info/1049/5071.htm)~~
 
 > 成电2023年新成立的研究院，国家级重点实验室，2023已招收一届推免生，今年第一次开展夏令营活动。
 
@@ -322,9 +335,6 @@
 
 ~~【报名截止：6.21】[通信抗干扰实验室](https://www.ncl.uestc.edu.cn/info/1083/2934.htm)~~
 > 对信息与通信工程、网络空间安全、电子信息学科专业有浓厚兴趣，愿意从事相关领域学术研究或工程应用工作
-
-【报名截止：6.28 17:00】 [电子科学技术研究院](https://www.riest.uestc.edu.cn/info/1021/2978.htm)
-> 本科专业为数学、物理、统计学或电子信息类专业，欢迎对人工智能及大数据感兴趣的同学
 
 ~~【报名截止：6.24 9:00】[信息与软件工程学院](https://sise.uestc.edu.cn/info/1026/12435.htm)~~
 
@@ -458,8 +468,6 @@
 
 【报名截止：6.25】[视觉合成图形图像技术国家级重点实验室](http://vs.scu.edu.cn/info/1052/2066.htm)
 
-~~【报名截止：6.21 12:00】[电子信息学院](https://eie.scu.edu.cn/info/1025/12669.htm)~~
-
 【报名截止：7.1】[医学前沿科学中心](https://yjs.cd120.com/contents/412/4461.html)  
 
 ~~【报名截止：6.21 24:00】[生物医学工程学院/国家生物医学材料工程技术研究中心](https://bme.scu.edu.cn/info/1011/3060.htm)~~
@@ -469,6 +477,8 @@
 ~~【报名截止：6.20 12:00】[计算机学院](https://cs.scu.edu.cn/info/1247/18447.htm)~~
 
 ~~【报名截止：6.20 18:00】[数学学院](https://math.scu.edu.cn/info/1025/11181.htm)~~
+
+~~【报名截止：6.21 12:00】[电子信息学院](https://eie.scu.edu.cn/info/1025/12669.htm)~~
 
 ## 山东大学
 
