@@ -556,6 +556,12 @@
 
 【报名截止：7.3 24:00】[会计学院AI+MPAcc项目](https://soa.cufe.edu.cn/info/1180/7056.htm)  
 
+## 云南大学
+
+【报名截止：7.5 12：00】[软件学院](http://www.sei.ynu.edu.cn/info/1057/2332.htm)  
+
+【报名截止：7.5 24:00】[信息学院](http://www.ise.ynu.edu.cn/annunciations/281)  
+
 ## 上海理工大学
 
 【报名截止：6.30】[光电信息与计算机工程学院](https://mp.weixin.qq.com/s/Bhn-cjIlV3m6ebWBTFdm-g)
