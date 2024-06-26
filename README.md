@@ -71,6 +71,12 @@
 
 【报名截止：7.1 12:00 - 8.11 12:00】[电子科学与工程学院](https://electronic.seu.edu.cn/2024/0625/c11479a495398/page.htm)
 
+## 中国传媒大学
+
+【报名截止：6.27】[计算机与网络通信学院](https://yz.cuc.edu.cn/_upload/article/files/ff/73/5ca1007c48f3937e1353362260a8/43747dea-79f9-4fb7-972e-2112bd84d477.pdf)
+
+【报名截止：6.27】[数据科学与智能媒体学院](https://yz.cuc.edu.cn/_upload/article/files/ff/73/5ca1007c48f3937e1353362260a8/a213485c-f2b1-486f-bdd1-c9681d137e7c.pdf)
+
 ## 中国航天科工集团第二研究院
 
 【报名截止：7.14 17:00】[航天二院](https://mp.weixin.qq.com/s/3KIvIBFdgNSv5yP5Pzp5dQ)
@@ -455,6 +461,10 @@
 
 【报名截止：7.8】[信息科学技术学院](https://grs.dlmu.edu.cn/info/1139/10761.htm)
 
+## 北京外国语大学
+
+【报名截止：6.30】[人工智能与人类语言重点实验室](https://mp.weixin.qq.com/s/jE5zh70IbsyPVdXKUnJ6QA)
+
 ## 上海科技大学
 
 【报名截止：6.30】[临港实验室](https://www.lglab.ac.cn/sylbt/202404/t20240425_212225.html)
@@ -581,6 +591,12 @@
 ## 上海理工大学
 
 【报名截止：6.30】[光电信息与计算机工程学院](https://mp.weixin.qq.com/s/Bhn-cjIlV3m6ebWBTFdm-g)
+
+【报名截止：6.28】[智能科技学院](https://ipc.usst.edu.cn/2024/0612/c12795a322186/page.htm)
+
+## 首都体育大学
+
+【报名截止：6.28】[体育人工智能研究院](https://mp.weixin.qq.com/s/Gd4M6Mt7_cDL5dE3j-AHZg)
 
 ## 湘潭大学
 
