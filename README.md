@@ -71,6 +71,8 @@
 
 【报名截止：7.1 12:00 - 8.11 12:00】[电子科学与工程学院](https://electronic.seu.edu.cn/2024/0625/c11479a495398/page.htm)
 
+【报名截止：N/A】[东南大学PALM实验室](https://palm.seu.edu.cn/application.html)
+
 ## 中国传媒大学
 
 【报名截止：6.27】[计算机与网络通信学院](https://yz.cuc.edu.cn/_upload/article/files/ff/73/5ca1007c48f3937e1353362260a8/43747dea-79f9-4fb7-972e-2112bd84d477.pdf)
@@ -181,9 +183,6 @@
 
 ~~【报名截止：6.20】[数据科学研究中心-数据科学与工程项目](http://cds.zju.edu.cn/a/zsxx/3463.html)~~
 
-## 东南大学
-
-【报名截止：N/A】[东南大学PALM实验室](https://palm.seu.edu.cn/application.html)
 
 ## 华中科技大学
 
