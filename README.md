@@ -71,6 +71,14 @@
 
 【报名截止：7.1 12:00 - 8.11 12:00】[电子科学与工程学院](https://electronic.seu.edu.cn/2024/0625/c11479a495398/page.htm)
 
+## 中国航天科工集团第二研究院
+
+【报名截止：7.14 17:00】[航天二院](https://mp.weixin.qq.com/s/3KIvIBFdgNSv5yP5Pzp5dQ)
+
+## 军事科学院
+
+【报名截止：7.5】[军事科学院第五届“强军之星”优秀大学生夏令营](https://mp.weixin.qq.com/s/iDBPucqozYMYyny0MfjJuA)
+
 ## 北京航空航天大学
 
 > [北京航空航天大学夏令营信息](https://yzb.buaa.edu.cn/info/1036/3101.htm)
@@ -84,6 +92,10 @@
 【报名截止：2024.7.15】 [深圳大学-光明实验室](https://mp.weixin.qq.com/s/P_-L3Zfi5s2UMsORAUMyvw)
 
 【报名截止：2024.7.14】 [深圳大学大数据系统计算技术国家工程实验室](https://mp.weixin.qq.com/s/vl_Tt27hHRXbIYgzksFchg)
+
+【报名截止：2024.7.3】 [电子与信息工程学院](https://mp.weixin.qq.com/s/mxV8bHtcu_7Jy5dYyb3vaA)
+
+【报名截止：6.30】[计算机与软件学院](https://mp.weixin.qq.com/s/2mzeis4AAbb_lPSoBnUO2g)
 
 ## 长江大学
 
@@ -461,6 +473,10 @@
 
 ~~【报名截止：6.23】[电子信息工程学院](http://eie.bjtu.edu.cn/WebHtml/newsDetailsPage/1AD28E2E09B3CE23E060403B570306E9)~~
 
+## 浙江工业大学
+
+【报名截止：7.5】[信息工程学院](https://mp.weixin.qq.com/s/ixg1TUkRsV7qV0QlCU3rWg)
+
 ## 北京计算科学研究中心
 
 【报名截止：6.30】[北京计算科学研究中心](https://www.csrc.ac.cn/en/event/schools/2024-05-29/109.html)
@@ -517,10 +533,6 @@
 【报名截止：6.30】[电气工程学院](http://www.cee.cqu.edu.cn/info/3542/19705.htm)
 
 【报名截止：6.30】[计算机学院](https://mp.weixin.qq.com/s?__biz=Mzg2MjEwNTQwMw==&mid=2247491081&idx=1&sn=8dc10174de580a0d2b8e466c0f46016c)
-
-## 深圳大学
-
-【报名截止：6.30】[计算机与软件学院](https://mp.weixin.qq.com/s/2mzeis4AAbb_lPSoBnUO2g)
 
 ## 首都师范大学
 
@@ -581,6 +593,8 @@
 ## 国防科技大学
 
 【报名截止：6.27 24:00】[计算机学院](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13803)
+
+【报名截止：7.3 18:00】[智能科学学院](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13819)
 
 ## 西南交通大学
 
