@@ -99,6 +99,8 @@
 
 【报名截止：7.15】 [深圳大学-光明实验室](https://mp.weixin.qq.com/s/P_-L3Zfi5s2UMsORAUMyvw)
 
+【报名截止：7.8 12:00】 [医学部生物医学工程学院](https://mp.weixin.qq.com/s/GI7xDwhwgkx7uc1KwwFkJg)
+
 【报名截止：7.14】 [深圳大学大数据系统计算技术国家工程实验室](https://mp.weixin.qq.com/s/vl_Tt27hHRXbIYgzksFchg)
 
 【报名截止：7.3】 [电子与信息工程学院](https://mp.weixin.qq.com/s/mxV8bHtcu_7Jy5dYyb3vaA)
@@ -336,7 +338,11 @@
 
 ## 河海大学
 
+> [河海夏令营信息](https://gs.hhu.edu.cn/_t186/2024/0626/c3624a285515/page.htm)
+
 【报名截止：6.30】[计算机学院](https://cies.hhu.edu.cn/2024/0624/c4093a285216/page.htm)
+
+【报名截止：7.1 12:00】[人工智能与自动化学院](https://ai.hhu.edu.cn/2024/0625/c15659a285496/page.htm)
 
 ## 电子科技大学
 
@@ -512,15 +518,15 @@
 
 ## 山东大学
 
+【报名截止：6.30】[网络空间安全学院](https://cst.qd.sdu.edu.cn/info/1023/3194.htm)
+
+【报名截止：6.30】[机电与信息工程学院](https://ie.wh.sdu.edu.cn/info/1007/14342.htm)
+
 ~~【报名截止：6.25】[集成电路学院](https://ic.sdu.edu.cn/info/1036/3559.htm)~~
 
 ~~【报名截止：6.25】[计算机学院/人工智能学院](https://www.cs.sdu.edu.cn/info/1068/6284.htm)~~
 
 ~~【报名截止：6.25】[软件学院](https://www.sc.sdu.edu.cn/info/1019/4710.htm)~~
-
-【报名截止：6.30】[网络空间安全学院](https://cst.qd.sdu.edu.cn/info/1023/3194.htm)
-
-【报名截止：6.30】[机电与信息工程学院](https://ie.wh.sdu.edu.cn/info/1007/14342.htm)
 
 ~~【报名截止：6.11】[数学国家高层次人才培养中心](https://www.math.sdu.edu.cn/info/1031/19849.htm)~~
 
