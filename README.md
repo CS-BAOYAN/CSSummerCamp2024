@@ -749,7 +749,7 @@
 
 > [哈尔滨工业大学夏令营消息](http://yzb.hit.edu.cn/2024/0506/c8824a343961/page.htm) | [哈尔滨工业大学（威海）暑期夏令营信息](https://today.hitwh.edu.cn/2024/0507/c1024a182481/page.htm) | [哈尔滨工业大学（深圳）夏令营信息](https://yzb.hitsz.edu.cn/yzs_common/zsxxxq/index?id=a684dc6879a84bef879effe772d8c2c5&xxlm=04)
 
-~~【报名截止：6.20】[哈工大SCIR（哈工大赛尔实验室）](https://mp.weixin.qq.com/s/tMZhgGdGZkoTz7q1mLDfFw)~~
+【报名截止：7.4】[哈工大SCIR（哈工大赛尔实验室）](https://mp.weixin.qq.com/s/oEl6wG301SxbYmRmQYhBDw)
 
 ~~【报名截止：6.7】[计算机科学与技术学院（深圳）](http://cs.hitsz.edu.cn/info/1029/7282.htm)~~
 
