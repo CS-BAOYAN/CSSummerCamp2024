@@ -75,9 +75,9 @@
 
 ## 中国传媒大学
 
-【报名截止：6.27】[计算机与网络通信学院](https://yz.cuc.edu.cn/_upload/article/files/ff/73/5ca1007c48f3937e1353362260a8/43747dea-79f9-4fb7-972e-2112bd84d477.pdf)
+~~【报名截止：6.27】[计算机与网络通信学院](https://yz.cuc.edu.cn/_upload/article/files/ff/73/5ca1007c48f3937e1353362260a8/43747dea-79f9-4fb7-972e-2112bd84d477.pdf)~~
 
-【报名截止：6.27】[数据科学与智能媒体学院](https://yz.cuc.edu.cn/_upload/article/files/ff/73/5ca1007c48f3937e1353362260a8/a213485c-f2b1-486f-bdd1-c9681d137e7c.pdf)
+~~【报名截止：6.27】[数据科学与智能媒体学院](https://yz.cuc.edu.cn/_upload/article/files/ff/73/5ca1007c48f3937e1353362260a8/a213485c-f2b1-486f-bdd1-c9681d137e7c.pdf)~~
 
 ## 中国航天科工集团第二研究院
 
@@ -111,7 +111,7 @@
 
 ## 长江大学
 
-【报名截止：6.27】 [计算机科学学院](https://jky.yangtzeu.edu.cn/info/1266/5333.htm)
+~~【报名截止：6.27】 [计算机科学学院](https://jky.yangtzeu.edu.cn/info/1266/5333.htm)~~
 
 ## 江西农业大学
 
@@ -167,7 +167,7 @@
 
 > [浙江大学夏令营信息](http://www.grs.zju.edu.cn/yjszs/2024/0523/c28498a2921525/page.htm)
 
-【报名截止：6.27】[浙江大学伊利诺伊大学厄巴纳香槟校区联合学院](https://zjui.intl.zju.edu.cn/node/2616)
+~~【报名截止：6.27】[浙江大学伊利诺伊大学厄巴纳香槟校区联合学院](https://zjui.intl.zju.edu.cn/node/2616)~~
 
 【报名截止：7.10】[工程师学院](https://pi.zju.edu.cn/2024/0620/c67820a2937382/page.htm)
 
@@ -196,7 +196,7 @@
 
 ## 武汉大学
 
-【报名截止：6.27 0:00】[武汉大学网络空间安全学院](https://cse.whu.edu.cn/info/1101/23762.htm)
+~~【报名截止：6.27 0:00】[武汉大学网络空间安全学院](https://cse.whu.edu.cn/info/1101/23762.htm)~~
 
 ~~【报名截止：6.23】[武汉大学测绘遥感信息工程国家重点实验室](https://liesmars.whu.edu.cn/info/1058/16203.htm)~~
 
@@ -212,7 +212,7 @@
 
 ## 西南财经大学
 
-【报名截止：6.27】[计算机与人工智能学院](https://it.swufe.edu.cn/info/1166/16538.htm)
+~~【报名截止：6.27】[计算机与人工智能学院](https://it.swufe.edu.cn/info/1166/16538.htm)~~
 
 ## 南京农业大学
 
@@ -250,7 +250,7 @@
 
 ~~【报名截止：6.21】[集成电路与电子学院](https://mp.weixin.qq.com/s/aHNgeimsI-1qB4d_8vKFJQ)~~
 
-【报名截止：6.27】[前沿交叉科学研究院](https://arims.bit.edu.cn/tz/c9af7401b6be49beb2fb5dbd31d84611.htm)
+~~【报名截止：6.27】[前沿交叉科学研究院](https://arims.bit.edu.cn/tz/c9af7401b6be49beb2fb5dbd31d84611.htm)~~
 
 ~~【报名截止：6.25】[网络空间安全学院](https://cst.bit.edu.cn/xxfw/tzgg/2fa2fa019403455b9f92e96650f87f2b.htm)~~
 
@@ -288,7 +288,7 @@
 
 ~~【报名截止：6.24】[网络空间安全学院](https://wlkjaqxy.nwpu.edu.cn/info/1044/7850.htm)~~
 
-【报名截止：6.27】[光电与智能研究院](https://iopen.nwpu.edu.cn/info/1028/4836.htm)  
+~~【报名截止：6.27】[光电与智能研究院](https://iopen.nwpu.edu.cn/info/1028/4836.htm)~~
 
 ~~【报名截止：6.24】[自动化学院](https://zdhxy.nwpu.edu.cn/info/1042/20643.htm)~~
 
@@ -330,7 +330,7 @@
 
 ~~【报名截止：6.24】[软件学院](https://ss.dlut.edu.cn/info/1122/28802.htm)~~
 
-【报名截止：6.27】[计算机学院](https://cs.dlut.edu.cn/info/1316/3519.htm)
+~~【报名截止：6.27】[计算机学院](https://cs.dlut.edu.cn/info/1316/3519.htm)~~
 
 ## 新疆大学
 
@@ -500,7 +500,7 @@
 
 ## 深圳医学科学院
 
-【报名截止：6.27】[SMART-SZBL](https://mp.weixin.qq.com/s/0R-mbkijxFkc9iyy5CvrrA)
+~~【报名截止：6.27】[SMART-SZBL](https://mp.weixin.qq.com/s/0R-mbkijxFkc9iyy5CvrrA)~~
 
 ## 四川大学
 
@@ -611,7 +611,7 @@
 
 ## 湖南科技大学
 
-【报名截止：6.27】(学院根据报名情况可提前结束报名)[计算机科学与工程学院](https://computer.hnust.edu.cn/tzgg/0a3d8112b0c544f4a6458a9be9810287.htm)
+~~【报名截止：6.27】(学院根据报名情况可提前结束报名)[计算机科学与工程学院](https://computer.hnust.edu.cn/tzgg/0a3d8112b0c544f4a6458a9be9810287.htm)~~
 
 ## 国防科技大学
 
