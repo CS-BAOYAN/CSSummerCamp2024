@@ -338,6 +338,10 @@
 
 【报名截止：7.1】[计算机学院](https://it.xju.edu.cn/info/1101/3167.htm)
 
+## 华北电力大学
+
+【报名截止：7.4】[控制与计算机工程学院](https://cce.ncepu.edu.cn/tztg1/15bf28bd060640648fb0ac22a5439710.htm)
+
 ## 河海大学
 
 > [河海夏令营信息](https://gs.hhu.edu.cn/_t186/2024/0626/c3624a285515/page.htm)
