@@ -73,6 +73,8 @@
 
 【报名截止：N/A】[东南大学PALM实验室](https://palm.seu.edu.cn/application.html)
 
+【报名截止：7.1 12:00 - 8.5 12:00】[网络空间安全学院](https://cyber.seu.edu.cn/2024/0627/c18223a495771/page.htm)
+
 ## 中国传媒大学
 
 ~~【报名截止：6.27】[计算机与网络通信学院](https://yz.cuc.edu.cn/_upload/article/files/ff/73/5ca1007c48f3937e1353362260a8/43747dea-79f9-4fb7-972e-2112bd84d477.pdf)~~
