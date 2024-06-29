@@ -91,7 +91,7 @@
 
 > [北京航空航天大学夏令营信息](https://yzb.buaa.edu.cn/info/1036/3101.htm)
 
-【报名截止：6.28】[计算机学院暑期开放日](https://scse.buaa.edu.cn/info/1299/11192.htm)
+~~【报名截止：6.28】[计算机学院暑期开放日](https://scse.buaa.edu.cn/info/1299/11192.htm)~~
 
 【报名截止：6.30】[大科学装置研究院](https://piqs.buaa.edu.cn/info/1038/2252.htm)
 
@@ -356,7 +356,7 @@
 
 > [电子科技大学夏令营信息](https://yz.uestc.edu.cn/info/1064/5074.htm) | [电子科技大学2025年研究生招生线上宣讲会](https://yz.uestc.edu.cn/info/1081/5104.htm)
 
-【报名截止：6.28 17:00】 [电子科学技术研究院](https://www.riest.uestc.edu.cn/info/1021/2978.htm)
+~~【报名截止：6.28 17:00】 [电子科学技术研究院](https://www.riest.uestc.edu.cn/info/1021/2978.htm)~~
 > 本科专业为数学、物理、统计学或电子信息类专业，欢迎对人工智能及大数据感兴趣的同学
 
 ~~【报名截止：6.24 17:00】[计算机(网安)学院](https://www.scse.uestc.edu.cn/info/1015/16136.htm)~~
@@ -388,7 +388,7 @@
 
 ~~【报名截止：6.25】[信息工程研究所](http://www.iie.cas.cn/xsjy2020/zxtz2020/202405/t20240528_7173993.html)~~
 
-【报名截止：6.28】[软件研究所](http://www.iscas.ac.cn/yjsjy2016/zsxx2016/202405/t20240515_7162425.html)
+~~【报名截止：6.28】[软件研究所](http://www.iscas.ac.cn/yjsjy2016/zsxx2016/202405/t20240515_7162425.html)~~
 
 【报名截止：6.30】[深圳先进技术研究院](https://siat.cas.cn/yjsjy2016/zsjs2016/202405/t20240527_7173055.html)
 
@@ -468,7 +468,7 @@
 
 ~~【报名截止：6.24】[信息科学与技术学院](https://web.dhu.edu.cn/cist/2024/0611/c3004a346769/page.htm)~~
 
-【报名截止：6.28】[计算机科学与技术学院](https://cst.dhu.edu.cn/2024/0617/c12723a347136/page.htm)
+~~【报名截止：6.28】[计算机科学与技术学院](https://cst.dhu.edu.cn/2024/0617/c12723a347136/page.htm)~~
 
 ## 大连海事大学
 
@@ -567,7 +567,7 @@
 
 > [武汉科技大学夏令营信息](https://ysxy.wust.edu.cn/info/1831/44102.htm)
 
-【报名截止：6.28】[计算机科学与技术学院](https://jsjkx.wust.edu.cn/info/1671/35952.htm)
+~~【报名截止：6.28】[计算机科学与技术学院](https://jsjkx.wust.edu.cn/info/1671/35952.htm)~~
 
 ## 北京语言大学
 
@@ -605,11 +605,11 @@
 
 【报名截止：6.30】[光电信息与计算机工程学院](https://mp.weixin.qq.com/s/Bhn-cjIlV3m6ebWBTFdm-g)
 
-【报名截止：6.28】[智能科技学院](https://ipc.usst.edu.cn/2024/0612/c12795a322186/page.htm)
+~~【报名截止：6.28】[智能科技学院](https://ipc.usst.edu.cn/2024/0612/c12795a322186/page.htm)~~
 
 ## 首都体育大学
 
-【报名截止：6.28】[体育人工智能研究院](https://mp.weixin.qq.com/s/Gd4M6Mt7_cDL5dE3j-AHZg)
+~~【报名截止：6.28】[体育人工智能研究院](https://mp.weixin.qq.com/s/Gd4M6Mt7_cDL5dE3j-AHZg)~~
 
 ## 湘潭大学
 
@@ -621,7 +621,7 @@
 
 ## 国防科技大学
 
-【报名截止：6.27 24:00】[计算机学院](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13803)
+~~【报名截止：6.27 24:00】[计算机学院](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13803)~~
 
 【报名截止：7.3 18:00】[智能科学学院](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13819)
 
