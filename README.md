@@ -190,9 +190,11 @@
 
 ## 华中科技大学
 
-【报名截止：6.28 12:00】[人工智能与自动化学院](https://aia.hust.edu.cn/info/1177/9301.htm)
+【报名截止：7.4】[计算机科学与技术学院](http://www.cs.hust.edu.cn/info/1439/4088.htm)
 
 【报名截止：7.1】[网络空间安全学院](https://cse.hust.edu.cn/info/1079/4054.htm)
+
+~~【报名截止：6.28 12:00】[人工智能与自动化学院](https://aia.hust.edu.cn/info/1177/9301.htm)~~
 
 ## 武汉大学
 
