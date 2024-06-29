@@ -107,6 +107,8 @@
 
 【报名截止：7.14】 [深圳大学大数据系统计算技术国家工程实验室](https://mp.weixin.qq.com/s/vl_Tt27hHRXbIYgzksFchg)
 
+【报名截止：7.5】 [深圳大学大湾区国际创新学院](https://ma.szu.edu.cn/info/1100/8373.htm)
+
 【报名截止：7.3】 [电子与信息工程学院](https://mp.weixin.qq.com/s/mxV8bHtcu_7Jy5dYyb3vaA)
 
 【报名截止：6.30】[计算机与软件学院](https://mp.weixin.qq.com/s/2mzeis4AAbb_lPSoBnUO2g)
