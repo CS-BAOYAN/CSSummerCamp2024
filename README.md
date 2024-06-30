@@ -593,6 +593,10 @@
 
 ~~【报名截止：6.16】[统计夏令营](https://ssm.sufe.edu.cn/4d/b6/c692a216502/page.htm)~~
 
+## 上海第二工业大学
+
+【报名截止：7.31】[计算机与信息工程学院](https://jxxy.sspu.edu.cn/2024/0628/c2084a155183/page.htm)  
+
 ## 中央财经大学
 
 【报名截止：7.1 9：00】[信息学院](https://ie.cufe.edu.cn/info/1341/6668.htm)  
