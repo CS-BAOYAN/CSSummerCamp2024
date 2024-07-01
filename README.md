@@ -440,7 +440,7 @@
 
 ~~【报名截止：6.26】[生命医学夏令营（生命科学与医学部）](https://xly.ustc.edu.cn/news.php?newsid=1001)~~
 
-【报名截止：6.30】[信息科技夏令营（信息科学技术学院）](https://xly.ustc.edu.cn/news.php?newsid=1013)
+~~【报名截止：6.30】[信息科技夏令营（信息科学技术学院）](https://xly.ustc.edu.cn/news.php?newsid=1013)~~
 
 ~~【报名截止：6.30】[网络空间与信息安全夏令营（网络空间安全学院）](https://xly.ustc.edu.cn/news.php?newsid=987)~~
 
