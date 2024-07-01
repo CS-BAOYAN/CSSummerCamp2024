@@ -69,11 +69,11 @@
 
 > [东南大学夏令营信息](https://yzb.seu.edu.cn/2024/0618/c6676a494353/pagem.htm)
 
-【报名截止：7.1 12:00 - 8.11 12:00】[电子科学与工程学院](https://electronic.seu.edu.cn/2024/0625/c11479a495398/page.htm)
+【报名截止：8.11 12:00】[电子科学与工程学院](https://electronic.seu.edu.cn/2024/0625/c11479a495398/page.htm)
 
 【报名截止：N/A】[东南大学PALM实验室](https://palm.seu.edu.cn/application.html)
 
-【报名截止：7.1 12:00 - 8.5 12:00】[网络空间安全学院](https://cyber.seu.edu.cn/2024/0627/c18223a495771/page.htm)
+【报名截止：8.5 12:00】[网络空间安全学院](https://cyber.seu.edu.cn/2024/0627/c18223a495771/page.htm)
 
 【报名截止：8.1】[计算机科学与工程学院、软件学院](https://cse.seu.edu.cn/2024/0629/c22646a495911/page.htm)
 
