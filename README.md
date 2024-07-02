@@ -580,6 +580,10 @@
 
 ~~【报名截止：6.30】[计算机学院](https://mp.weixin.qq.com/s?__biz=Mzg2MjEwNTQwMw==&mid=2247491081&idx=1&sn=8dc10174de580a0d2b8e466c0f46016c)~~
 
+## 重庆邮电大学
+
+【报名截止：7.8】 [通信与信息工程学院](https://mp.weixin.qq.com/s?__biz=MzU0NDAxNDkyNA==&mid=2247502507&idx=1&sn=a919d9b0079e511ec17e2d8738b3bb47)
+
 ## 首都师范大学
 
 > [首都师范大学夏令营通知](https://grad.cnu.edu.cn/zs1/sszs/ae769d490afd417985b9071c92bf4385.htm)
