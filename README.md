@@ -81,6 +81,14 @@
 
 【报名截止：8.1】[自动化学院](https://automation.seu.edu.cn/2024/0628/c24460a495814/page.htm)
 
+## 鹏城实验室
+
+【报名截止：7.14】[鹏城博士夏令营](https://yzw.pcl.ac.cn/yzs_new/zsxxxq/index?id=7ae364bdaed74eeaa02bee310faca034&xxlm=03)
+
+## 北京科技大学
+
+【报名截止：7.12】[计算机与通信工程学院](https://scce.ustb.edu.cn/xinwentongzhi/tongzhigonggao/2024-07-03/2086.html)
+
 ## 南京邮电大学
 
 【报名截止：8.8】[自动化学院、人工智能学院](https://coa.njupt.edu.cn/2024/0701/c2277a267160/page.htm)
@@ -119,7 +127,7 @@
 
 【报名截止：7.5】 [深圳大学大湾区国际创新学院](https://ma.szu.edu.cn/info/1100/8373.htm)
 
-【报名截止：7.3】 [电子与信息工程学院](https://mp.weixin.qq.com/s/mxV8bHtcu_7Jy5dYyb3vaA)
+~~【报名截止：7.3】 [电子与信息工程学院](https://mp.weixin.qq.com/s/mxV8bHtcu_7Jy5dYyb3vaA)~~
 
 ~~【报名截止：6.30】[计算机与软件学院](https://mp.weixin.qq.com/s/2mzeis4AAbb_lPSoBnUO2g)~~
 
@@ -225,9 +233,11 @@
 
 ## 南京理工大学
 
+【报名截止：7.20】[智能计算成像实验室（SCILab）](https://scilaboratory.com/h-nd-655.html)
+
 ~~【报名截止：6.25】[计算机科学与工程学院](https://cs.njust.edu.cn/1f/a8/c1820a335784/page.htm)~~
 
-【报名截止：7.2】[网络空间安全学院](https://mp.weixin.qq.com/s/MAAb5REsBRIUQcjkUrdpJg)
+~~【报名截止：7.2】[网络空间安全学院](https://mp.weixin.qq.com/s/MAAb5REsBRIUQcjkUrdpJg)~~
 
 ## 西南财经大学
 
