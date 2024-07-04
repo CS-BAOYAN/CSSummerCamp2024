@@ -664,7 +664,7 @@
 
 ~~【报名截止：6.27 24:00】[计算机学院](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13803)~~
 
-【报名截止：7.3 18:00】[智能科学学院](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13819)
+~~【报名截止：7.3 18:00】[智能科学学院](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13819)~~
 
 ## 西南交通大学
 
