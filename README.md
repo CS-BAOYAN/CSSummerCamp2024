@@ -720,6 +720,10 @@
 
 ~~【报名截止：6.23】[人工智能教育学部](https://foaie.ccnu.edu.cn/info/1008/7070.htm)~~
 
+## 中国地质大学（北京）
+
+【报名截止：N/A】[公书慧课题组](https://mp.weixin.qq.com/s/QdDXY71BdEvw6EgKNHBZqQ)
+
 ## 中国地质大学
 
 ~~【报名截止：6.20】[未来技术学院](https://sft.cug.edu.cn/info/1025/3396.htm)~~
