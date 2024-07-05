@@ -105,7 +105,7 @@
 
 ## 军事科学院
 
-【报名截止：7.5】[军事科学院第五届“强军之星”优秀大学生夏令营](https://mp.weixin.qq.com/s/iDBPucqozYMYyny0MfjJuA)
+【报名截止：】[军事科学院第五届“强军之星”优秀大学生夏令营](https://mp.weixin.qq.com/s/iDBPucqozYMYyny0MfjJuA)
 
 ## 北京航空航天大学
 
@@ -215,7 +215,7 @@
 
 ## 华中科技大学
 
-【报名截止：7.4】[计算机科学与技术学院](http://www.cs.hust.edu.cn/info/1439/4088.htm)
+~~【报名截止：7.4】[计算机科学与技术学院](http://www.cs.hust.edu.cn/info/1439/4088.htm)~~
 
 ~~【报名截止：7.1】[网络空间安全学院](https://cse.hust.edu.cn/info/1079/4054.htm)~~
 
@@ -369,11 +369,11 @@
 
 ## 华北电力大学
 
-【报名截止：7.4】[控制与计算机工程学院](https://cce.ncepu.edu.cn/tztg1/15bf28bd060640648fb0ac22a5439710.htm)
+~~【报名截止：7.4】[控制与计算机工程学院](https://cce.ncepu.edu.cn/tztg1/15bf28bd060640648fb0ac22a5439710.htm)~~
 
 ## 武汉工程大学
 
-【报名截止：7.3】[电子信息类](https://cs.wit.edu.cn/info/1054/12078.htm)
+~~【报名截止：7.3】[电子信息类](https://cs.wit.edu.cn/info/1054/12078.htm)~~
 
 ## 河海大学
 
@@ -582,7 +582,7 @@
 
 ## 重庆大学
 
-【报名截止：7.4】[大数据与软件学院](https://mp.weixin.qq.com/s/12uN04ZHLYiDC7kmP7idSw)
+~~【报名截止：7.4】[大数据与软件学院](https://mp.weixin.qq.com/s/12uN04ZHLYiDC7kmP7idSw)~~
 
 ~~【报名截止：6.26】[重庆卓越工程师学院](https://eie.cqu.edu.cn/info/1483/2569.htm)~~
 
@@ -634,7 +634,7 @@
 
 ~~【报名截止：7.1 9：00】[信息学院](https://ie.cufe.edu.cn/info/1341/6668.htm)~~
 
-【报名截止：7.3 24:00】[会计学院AI+MPAcc项目](https://soa.cufe.edu.cn/info/1180/7056.htm)
+~~【报名截止：7.3 24:00】[会计学院AI+MPAcc项目](https://soa.cufe.edu.cn/info/1180/7056.htm)~~
 
 ## 云南大学
 
@@ -792,7 +792,7 @@
 
 > [哈尔滨工业大学夏令营消息](http://yzb.hit.edu.cn/2024/0506/c8824a343961/page.htm) | [哈尔滨工业大学（威海）暑期夏令营信息](https://today.hitwh.edu.cn/2024/0507/c1024a182481/page.htm) | [哈尔滨工业大学（深圳）夏令营信息](https://yzb.hitsz.edu.cn/yzs_common/zsxxxq/index?id=a684dc6879a84bef879effe772d8c2c5&xxlm=04)
 
-【报名截止：7.4】[哈工大SCIR（哈工大赛尔实验室）](https://mp.weixin.qq.com/s/oEl6wG301SxbYmRmQYhBDw)
+~~【报名截止：7.4】[哈工大SCIR（哈工大赛尔实验室）](https://mp.weixin.qq.com/s/oEl6wG301SxbYmRmQYhBDw)~~
 
 ~~【报名截止：6.7】[计算机科学与技术学院（深圳）](http://cs.hitsz.edu.cn/info/1029/7282.htm)~~
 
