@@ -129,7 +129,7 @@
 
 【报名截止：7.15】 [深圳大学-光明实验室](https://mp.weixin.qq.com/s/P_-L3Zfi5s2UMsORAUMyvw)
 
-【报名截止：7.8 12:00】 [医学部生物医学工程学院](https://mp.weixin.qq.com/s/GI7xDwhwgkx7uc1KwwFkJg)
+~~【报名截止：7.8 12:00】 [医学部生物医学工程学院](https://mp.weixin.qq.com/s/GI7xDwhwgkx7uc1KwwFkJg)~~
 
 【报名截止：7.14】 [深圳大学大数据系统计算技术国家工程实验室](https://mp.weixin.qq.com/s/vl_Tt27hHRXbIYgzksFchg)
 
@@ -511,7 +511,7 @@
 
 ## 大连海事大学
 
-【报名截止：7.8】[信息科学技术学院](https://grs.dlmu.edu.cn/info/1139/10761.htm)
+~~【报名截止：7.8】[信息科学技术学院](https://grs.dlmu.edu.cn/info/1139/10761.htm)~~
 
 ## 北京外国语大学
 
@@ -529,7 +529,7 @@
 
 ~~【报名截止：7.1】[软件学院](http://sse.bjtu.edu.cn/cms/item/995.html)~~
 
-【报名截止：7.8 12:00】[计算机科学与技术学院](https://cs.bjtu.edu.cn/zsjy/yjszs3/yjszs_sszs/202312182.htm)
+~~【报名截止：7.8 12:00】[计算机科学与技术学院](https://cs.bjtu.edu.cn/zsjy/yjszs3/yjszs_sszs/202312182.htm)~~
 
 ~~【报名截止：6.25】[系统科学学院](https://sss.bjtu.edu.cn/cms/item/23356.html)~~
 
@@ -600,7 +600,7 @@
 
 ## 重庆邮电大学
 
-【报名截止：7.8】 [通信与信息工程学院](https://mp.weixin.qq.com/s?__biz=MzU0NDAxNDkyNA==&mid=2247502507&idx=1&sn=a919d9b0079e511ec17e2d8738b3bb47)
+~~【报名截止：7.8】 [通信与信息工程学院](https://mp.weixin.qq.com/s?__biz=MzU0NDAxNDkyNA==&mid=2247502507&idx=1&sn=a919d9b0079e511ec17e2d8738b3bb47)~~
 
 ## 首都师范大学
 
