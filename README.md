@@ -537,7 +537,7 @@
 
 ## 浙江工业大学
 
-【报名截止：7.5】[信息工程学院](https://mp.weixin.qq.com/s/ixg1TUkRsV7qV0QlCU3rWg)
+~~【报名截止：7.5】[信息工程学院](https://mp.weixin.qq.com/s/ixg1TUkRsV7qV0QlCU3rWg)~~
 
 ## 北京计算科学研究中心
 
@@ -618,7 +618,7 @@
 
 > [北京语言大学夏令营信息](https://yjsy.blcu.edu.cn/art/2024/5/17/art_13223_1170150.html)
 
-【报名截止：7.5】[语言智能研究院](https://mp.weixin.qq.com/s/-mgDyLPzizPcuSOh2j-T-w)
+~~【报名截止：7.5】[语言智能研究院](https://mp.weixin.qq.com/s/-mgDyLPzizPcuSOh2j-T-w)~~
 
 ## 北京工业大学
 
@@ -646,9 +646,9 @@
 
 ## 云南大学
 
-【报名截止：7.5 12：00】[软件学院](http://www.sei.ynu.edu.cn/info/1057/2332.htm)
+~~【报名截止：7.5 12：00】[软件学院](http://www.sei.ynu.edu.cn/info/1057/2332.htm)~~
 
-【报名截止：7.5 24:00】[信息学院](http://www.ise.ynu.edu.cn/annunciations/281)
+~~【报名截止：7.5 24:00】[信息学院](http://www.ise.ynu.edu.cn/annunciations/281)~~
 
 ## 上海理工大学
 
