@@ -81,6 +81,22 @@
 
 【报名截止：8.1】[自动化学院](https://automation.seu.edu.cn/2024/0628/c24460a495814/page.htm)
 
+## 天津大学
+
+>[天津大学夏令营信息](https://yzb.tju.edu.cn/xwzx/zxxx/202406/t20240605_323809.htm)
+
+【报名截止：8.20】[智能与计算学部导师团](https://cic.tju.edu.cn/info/1041/4999.htm)
+
+~~【报名截止：6.19】[天津大学新媒体与传播学院](http://snmc.tju.edu.cn/info/1120/2163.htm)~~
+
+~~【报名截止：6.19】[智能与计算学部](https://cic.tju.edu.cn/info/1041/4968.htm)~~
+
+~~【报名截止：6.19】[微电子学院](https://sme.tju.edu.cn/info/1095/2915.htm)~~
+
+~~【报名截止：6.19】[佐治亚理工深圳学院](https://www.gtsi.edu.cn/node/4325)~~
+
+~~【报名截止：6.20】[自动化学院](http://seea.tju.edu.cn/info/1031/4573.htm)~~
+
 ## 苏州大学
 
 > 计算机科学与技术学院(软件学院)分两批次考试，只能选择一个参加
@@ -123,7 +139,7 @@
 
 ~~【报名截止：6.30】[大科学装置研究院](https://piqs.buaa.edu.cn/info/1038/2252.htm)~~
 
-~~报名截止：6.25】[软件学院](https://soft.buaa.edu.cn/news_nry.jsp?urltype=news.NewsContentUrl&wbtreeid=1325&wbnewsid=11312)~~
+~~【报名截止：6.25】[软件学院](https://soft.buaa.edu.cn/news_nry.jsp?urltype=news.NewsContentUrl&wbtreeid=1325&wbnewsid=11312)~~
 
 ## 深圳大学
 
@@ -697,22 +713,6 @@
 ~~【报名截止：6.10】[统计学院](https://stat.ecnu.edu.cn/14/73/c9708a595059/page.htm)~~
 
 ~~【报名截止：6.14】[软件工程学院“可信人工智能优秀大学生夏令营”](http://www.sei.ecnu.edu.cn/19/0c/c33171a596236/page.htm)~~
-
-## 天津大学
-
->[天津大学夏令营信息](https://yzb.tju.edu.cn/xwzx/zxxx/202406/t20240605_323809.htm)
-
-【报名截止：8.20】[智能与计算学部导师团](https://cic.tju.edu.cn/info/1041/4999.htm)
-
-~~【报名截止：6.19】[天津大学新媒体与传播学院](http://snmc.tju.edu.cn/info/1120/2163.htm)~~
-
-~~【报名截止：6.19】[智能与计算学部](https://cic.tju.edu.cn/info/1041/4968.htm)~~
-
-~~【报名截止：6.19】[微电子学院](https://sme.tju.edu.cn/info/1095/2915.htm)~~
-
-~~【报名截止：6.19】[佐治亚理工深圳学院](https://www.gtsi.edu.cn/node/4325)~~
-
-~~【报名截止：6.20】[自动化学院](http://seea.tju.edu.cn/info/1031/4573.htm)~~
 
 ## 吉林大学
 
