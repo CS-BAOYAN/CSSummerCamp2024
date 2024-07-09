@@ -702,6 +702,8 @@
 
 >[天津大学夏令营信息](https://yzb.tju.edu.cn/xwzx/zxxx/202406/t20240605_323809.htm)
 
+【报名截止：8.20】[智能与计算学部导师团](https://cic.tju.edu.cn/info/1041/4999.htm)
+
 ~~【报名截止：6.19】[天津大学新媒体与传播学院](http://snmc.tju.edu.cn/info/1120/2163.htm)~~
 
 ~~【报名截止：6.19】[智能与计算学部](https://cic.tju.edu.cn/info/1041/4968.htm)~~
