@@ -105,6 +105,10 @@
 
 【报名截止：每批次考试时间的前一周】[计算机科学与技术学院(软件学院)夏令营及预推免](https://scst.suda.edu.cn/d4/c2/c29557a578754/page.htm)
 
+## 西安电子科技大学
+
+【报名截止：9.10】[计算机科学与技术学院](https://cs.xidian.edu.cn/info/1003/16583.htm)
+
 ## 鹏城实验室
 
 【报名截止：7.14】[鹏城博士夏令营](https://yzw.pcl.ac.cn/yzs_new/zsxxxq/index?id=7ae364bdaed74eeaa02bee310faca034&xxlm=03)
@@ -116,6 +120,8 @@
 ## 南京邮电大学
 
 【报名截止：8.8】[自动化学院、人工智能学院](https://coa.njupt.edu.cn/2024/0701/c2277a267160/page.htm)
+
+【报名截止：7.19】[物联网学院](https://ciot.njupt.edu.cn/2024/0709/c10653a267656/page.htm)
 
 ## 中国传媒大学
 
@@ -315,9 +321,9 @@
 
 ## 北京师范大学
 
-【报名截止：7.9】[人工智能学院](https://mp.weixin.qq.com/s/Z02xlYAM-CYAud4zunRdBw)
+~~【报名截止：7.9】[人工智能学院](https://mp.weixin.qq.com/s/Z02xlYAM-CYAud4zunRdBw)~~
 
-【报名截止：7.9】[地理科学学部-"遥感科学与技术&地图学与地理信息系统"](https://geo.bnu.edu.cn/tzgg/103ee34a3c3045539ec2649757ac0324.html)
+~~【报名截止：7.9】[地理科学学部-"遥感科学与技术&地图学与地理信息系统"](https://geo.bnu.edu.cn/tzgg/103ee34a3c3045539ec2649757ac0324.html)~~
 
 ## 西安交通大学
 
