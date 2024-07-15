@@ -113,13 +113,21 @@
 
 【报名截止：9.10】[人工智能学院](https://sai.xidian.edu.cn/info/1106/9371.htm)
 
+## 南京信息工程大学
+
+【报名截止：7.15】[人工智能学院](https://mp.weixin.qq.com/s/056-_tIp7hk9y2kaA9jkjQ)
+
 ## 中国电力科学研究院
 
 【报名截止：7.28】[中国电力科学研究院](https://mp.weixin.qq.com/s/BodvsTQ_CRzTGmUcEFboCA)
 
+## 中国林业科学研究院
+
+【报名截止：7.22】[资源信息研究所](https://mp.weixin.qq.com/s/_m2WZdWsYhObMXcit12lQw)
+
 ## 鹏城实验室
 
-【报名截止：7.14】[鹏城博士夏令营](https://yzw.pcl.ac.cn/yzs_new/zsxxxq/index?id=7ae364bdaed74eeaa02bee310faca034&xxlm=03)
+~~【报名截止：7.14】[鹏城博士夏令营](https://yzw.pcl.ac.cn/yzs_new/zsxxxq/index?id=7ae364bdaed74eeaa02bee310faca034&xxlm=03)~~
 
 ## 北京科技大学
 
@@ -131,9 +139,14 @@
 
 【报名截止：7.19】[物联网学院](https://ciot.njupt.edu.cn/2024/0709/c10653a267656/page.htm)
 
+## 上海航天技术研究院
+
+【报名截止：N/A】[上海航天技术研究院硕士研究生招生简章](https://mp.weixin.qq.com/s/K0x-kYDGYBzs2qbozfmiCw)
+> 不同的所联系对应的老师
+
 ## 中国航天科工集团第二研究院
 
-【报名截止：7.14 17:00】[航天二院](https://mp.weixin.qq.com/s/3KIvIBFdgNSv5yP5Pzp5dQ)
+~~【报名截止：7.14 17:00】[航天二院](https://mp.weixin.qq.com/s/3KIvIBFdgNSv5yP5Pzp5dQ)~~
 
 ## 深圳大学
 
@@ -141,7 +154,7 @@
 
 ~~【报名截止：7.8 12:00】 [医学部生物医学工程学院](https://mp.weixin.qq.com/s/GI7xDwhwgkx7uc1KwwFkJg)~~
 
-【报名截止：7.14】 [深圳大学大数据系统计算技术国家工程实验室](https://mp.weixin.qq.com/s/vl_Tt27hHRXbIYgzksFchg)
+~~【报名截止：7.14】 [深圳大学大数据系统计算技术国家工程实验室](https://mp.weixin.qq.com/s/vl_Tt27hHRXbIYgzksFchg)~~
 
 ~~【报名截止：7.5】 [深圳大学大湾区国际创新学院](https://ma.szu.edu.cn/info/1100/8373.htm)~~
 
