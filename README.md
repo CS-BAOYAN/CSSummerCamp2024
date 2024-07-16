@@ -115,7 +115,7 @@
 
 ## 南京信息工程大学
 
-【报名截止：7.15】[人工智能学院](https://mp.weixin.qq.com/s/056-_tIp7hk9y2kaA9jkjQ)
+~~【报名截止：7.15】[人工智能学院](https://mp.weixin.qq.com/s/056-_tIp7hk9y2kaA9jkjQ)~~
 
 ## 中国电力科学研究院
 
@@ -150,7 +150,7 @@
 
 ## 深圳大学
 
-【报名截止：7.15】 [深圳大学-光明实验室](https://mp.weixin.qq.com/s/P_-L3Zfi5s2UMsORAUMyvw)
+~~【报名截止：7.15】 [深圳大学-光明实验室](https://mp.weixin.qq.com/s/P_-L3Zfi5s2UMsORAUMyvw)~~
 
 ~~【报名截止：7.8 12:00】 [医学部生物医学工程学院](https://mp.weixin.qq.com/s/GI7xDwhwgkx7uc1KwwFkJg)~~
 
@@ -184,7 +184,7 @@
 
 > [南京大学夏令营信息](https://grawww.nju.edu.cn/64/88/c905a681096/page.htm)
 
-【报名截止：7.15】[匡亚明学院](https://dii.nju.edu.cn/89/f5/c15501a690677/page.htm)
+~~【报名截止：7.15】[匡亚明学院](https://dii.nju.edu.cn/89/f5/c15501a690677/page.htm)~~
 
 ~~【报名截止：6.14】[电子科学与工程学院](https://ese.nju.edu.cn/75/bb/c22673a685499/page.htm)~~
 
