@@ -1,3 +1,4 @@
+# 夏令营仓库暂停更新，请关注预推免仓库[CSYuTuiMian2024](https://github.com/CS-BAOYAN/CSYuTuiMian2024)
 # CSWinterCamp2024 & CSSummerCamp2024
 
 >[!IMPORTANT] 
